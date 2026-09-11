@@ -80,7 +80,8 @@ Required variables:
 
 ## Documentation
 
-- **Full internship report** (French, 59 pages, PDF): [rapport_stage/main.pdf](rapport_stage/main.pdf)
+- **Full internship report** (French, 59 pages, PDF): [rapport_stage/Rapport.pdf](rapport_stage/Rapport.pdf)
+- **User guide** : [rapport_stage/guide_utilisateur.pdf](rapport_stage/guide_utilisateur.pdf)
 
 ## Architecture
 
