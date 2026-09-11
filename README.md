@@ -102,4 +102,4 @@ Developed at Welyne under the supervision of Mohammed Ben Arfa.
 
 ## License
 
-This project was developed as an internship project. Rights belong to Welyne. Displayed publicly with permission for portfolio purposes.
+This project was developed as an internship project. Rights belong to Welyne. Displayed publicly for portfolio purposes.
