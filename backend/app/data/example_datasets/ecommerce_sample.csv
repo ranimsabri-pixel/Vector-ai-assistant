@@ -1,0 +1,501 @@
+order_id,date_commande,client_id,region,produit,categorie,prix_unitaire,quantite,total,moyen_paiement
+10000,2025-07-30,1039,Centre,Souris sans fil,Accessoires,19.17,1,19.17,Virement
+10001,2025-07-31,1124,Est,Ecran 27 pouces,Electronique,238.56,1,238.56,CB
+10002,2025-08-01,1064,Ouest,Smartphone,Electronique,963.07,3,2889.21,CB
+10003,2025-08-02,1119,Centre,Ordinateur portable,Electronique,552.25,2,1104.5,PayPal
+10004,2025-08-02,1087,Nord,Clavier mecanique,Accessoires,95.8,2,191.6,PayPal
+10005,2025-08-02,1093,Est,Licence antivirus,Logiciels,25.19,1,25.19,PayPal
+10006,2025-08-02,1071,Sud,Smartphone,Electronique,864.59,1,864.59,PayPal
+10007,2025-08-02,1028,Sud,Casque audio,Accessoires,142.52,1,142.52,PayPal
+10008,2025-08-03,1028,Sud,Souris sans fil,Accessoires,16.76,2,33.52,CB
+10009,2025-08-03,1089,Centre,Ecran 27 pouces,Electronique,498.99,1,498.99,CB
+10010,2025-08-04,1157,Centre,Ecran 27 pouces,Electronique,483.33,1,483.33,PayPal
+10011,2025-08-04,1103,Nord,Webcam HD,Accessoires,107.25,1,107.25,CB
+10012,2025-08-04,1014,Centre,Webcam HD,Accessoires,93.47,1,93.47,CB
+10013,2025-08-04,1084,Centre,Clavier mecanique,Accessoires,87.02,2,174.04,PayPal
+10014,2025-08-06,1001,Sud,Disque dur externe,Accessoires,89.83,1,89.83,Virement
+10015,2025-08-07,1200,Nord,Casque audio,Accessoires,297.96,2,595.92,CB
+10016,2025-08-07,1117,Nord,Tablette,Electronique,442.36,3,1327.08,CB
+10017,2025-08-07,1087,Sud,Smartphone,Electronique,1198.86,1,1198.86,PayPal
+10018,2025-08-07,1107,Est,Webcam HD,Accessoires,56.07,5,280.35,PayPal
+10019,2025-08-07,1223,Centre,Enceinte bluetooth,Accessoires,161.84,1,161.84,CB
+10020,2025-08-07,1108,Sud,Smartphone,Electronique,637.2,2,1274.4,CB
+10021,2025-08-08,1224,Sud,Disque dur externe,Accessoires,60.17,1,60.17,CB
+10022,2025-08-08,1055,Centre,Ordinateur portable,Electronique,1313.32,4,5253.28,Virement
+10023,2025-08-09,1243,Centre,Tablette,Electronique,275.04,1,275.04,CB
+10024,2025-08-09,1097,Centre,Tablette,Electronique,408.03,2,816.06,Virement
+10025,2025-08-09,1200,Centre,Disque dur externe,Accessoires,53.52,3,160.56,CB
+10026,2025-08-10,1173,Sud,Casque audio,Accessoires,92.89,2,185.78,Virement
+10027,2025-08-10,1229,Centre,Webcam HD,Accessoires,33.75,1,33.75,CB
+10028,2025-08-10,1171,Centre,Clavier mecanique,Accessoires,75.38,1,75.38,CB
+10029,2025-08-11,1071,Centre,Smartphone,Electronique,612.75,1,612.75,CB
+10030,2025-08-11,1194,Sud,Licence antivirus,Logiciels,19.89,3,59.67,PayPal
+10031,2025-08-12,1218,Centre,Souris sans fil,Accessoires,38.68,1,38.68,PayPal
+10032,2025-08-12,1192,Sud,Smartphone,Electronique,944.65,1,944.65,CB
+10033,2025-08-12,1151,Sud,Casque audio,Accessoires,44.48,1,44.48,CB
+10034,2025-08-13,1101,Nord,Ecran 27 pouces,Electronique,573.25,2,1146.5,CB
+10035,2025-08-13,1212,Nord,Disque dur externe,Accessoires,201.44,1,201.44,PayPal
+10036,2025-08-13,1155,Est,Smartphone,Electronique,259.89,2,519.78,PayPal
+10037,2025-08-14,1064,Ouest,Souris sans fil,Accessoires,51.93,1,51.93,Virement
+10038,2025-08-14,1033,Centre,Casque audio,Accessoires,56.2,1,56.2,CB
+10039,2025-08-15,1226,Centre,Souris sans fil,Accessoires,55.62,1,55.62,CB
+10040,2025-08-15,1120,Sud,Clavier mecanique,Accessoires,99.2,1,99.2,CB
+10041,2025-08-15,1130,Ouest,Suite bureautique,Logiciels,233.4,1,233.4,CB
+10042,2025-08-15,1138,Nord,Tablette,Electronique,150.0,1,150.0,Virement
+10043,2025-08-16,1210,Est,Disque dur externe,Accessoires,138.94,1,138.94,CB
+10044,2025-08-16,1210,Est,Clavier mecanique,Accessoires,116.23,5,581.15,CB
+10045,2025-08-17,1089,Est,Ordinateur portable,Electronique,1021.03,2,2042.06,CB
+10046,2025-08-17,1027,Nord,Disque dur externe,Accessoires,130.55,1,130.55,Virement
+10047,2025-08-17,1242,Ouest,Licence antivirus,Logiciels,20.87,2,41.74,PayPal
+10048,2025-08-18,1080,Est,Webcam HD,Accessoires,69.68,1,69.68,CB
+10049,2025-08-18,1077,Ouest,Tablette,Electronique,154.14,1,154.14,PayPal
+10050,2025-08-19,1166,Sud,Webcam HD,Accessoires,25.29,1,25.29,CB
+10051,2025-08-19,1048,Sud,Souris sans fil,Accessoires,24.38,1,24.38,PayPal
+10052,2025-08-20,1249,Ouest,Tablette,Electronique,447.87,3,1343.61,PayPal
+10053,2025-08-20,1159,Sud,Licence antivirus,Logiciels,24.86,2,49.72,CB
+10054,2025-08-21,1000,Sud,Clavier mecanique,Accessoires,74.37,2,148.74,CB
+10055,2025-08-21,1246,Ouest,Webcam HD,Accessoires,30.86,1,30.86,Virement
+10056,2025-08-21,1249,Sud,Smartphone,Electronique,250.64,1,250.64,PayPal
+10057,2025-08-21,1016,Nord,Smartphone,Electronique,778.6,1,778.6,CB
+10058,2025-08-21,1158,Ouest,Souris sans fil,Accessoires,30.99,1,30.99,CB
+10059,2025-08-22,1238,Nord,Smartphone,Electronique,254.29,1,254.29,PayPal
+10060,2025-08-23,1232,Ouest,Ordinateur portable,Electronique,1507.29,1,1507.29,CB
+10061,2025-08-23,1142,Nord,Tablette,Electronique,250.05,1,250.05,CB
+10062,2025-08-24,1057,Sud,Ecran 27 pouces,Electronique,220.04,1,220.04,CB
+10063,2025-08-24,1088,Sud,Enceinte bluetooth,Accessoires,92.04,5,460.2,CB
+10064,2025-08-24,1057,Sud,Ecran 27 pouces,Electronique,178.35,1,178.35,CB
+10065,2025-08-24,1049,Sud,Enceinte bluetooth,Accessoires,151.25,1,151.25,CB
+10066,2025-08-25,1036,Nord,Licence antivirus,Logiciels,15.05,5,75.25,CB
+10067,2025-08-25,1076,Sud,Tablette,Electronique,164.02,1,164.02,PayPal
+10068,2025-08-25,1163,Nord,Ecran 27 pouces,Electronique,222.82,1,222.82,CB
+10069,2025-08-25,1003,Nord,Clavier mecanique,Accessoires,58.05,1,58.05,CB
+10070,2025-08-26,1065,Ouest,Casque audio,Accessoires,146.53,1,146.53,PayPal
+10071,2025-08-26,1200,Ouest,Ordinateur portable,Electronique,503.11,2,1006.22,CB
+10072,2025-08-26,1220,Centre,Suite bureautique,Logiciels,214.28,1,214.28,CB
+10073,2025-08-27,1086,Ouest,Ordinateur portable,Electronique,1566.01,1,1566.01,PayPal
+10074,2025-08-27,1126,Nord,Suite bureautique,Logiciels,189.86,3,569.58,CB
+10075,2025-08-28,1036,Est,Suite bureautique,Logiciels,235.1,1,235.1,PayPal
+10076,2025-08-28,1060,Nord,Casque audio,Accessoires,67.08,1,67.08,CB
+10077,2025-08-28,1008,Sud,Ecran 27 pouces,Electronique,585.45,3,1756.35,PayPal
+10078,2025-08-29,1050,Nord,Ordinateur portable,Electronique,949.04,3,2847.12,CB
+10079,2025-08-30,1211,Sud,Ordinateur portable,Electronique,1771.51,1,1771.51,CB
+10080,2025-08-30,1168,Ouest,Clavier mecanique,Accessoires,61.59,1,61.59,CB
+10081,2025-08-30,1231,Est,Ordinateur portable,Electronique,1571.37,3,4714.11,PayPal
+10082,2025-08-31,1221,Sud,Webcam HD,Accessoires,90.02,2,180.04,CB
+10083,2025-08-31,1023,Ouest,Smartphone,Electronique,881.24,2,1762.48,PayPal
+10084,2025-08-31,1091,Nord,Ordinateur portable,Electronique,1360.55,1,1360.55,PayPal
+10085,2025-08-31,1224,Centre,Tablette,Electronique,308.05,2,616.1,PayPal
+10086,2025-09-01,1035,Centre,Tablette,Electronique,525.02,2,1050.04,CB
+10087,2025-09-01,1016,Ouest,Smartphone,Electronique,579.57,1,579.57,PayPal
+10088,2025-09-01,1181,Ouest,Souris sans fil,Accessoires,46.32,1,46.32,CB
+10089,2025-09-02,1217,Ouest,Smartphone,Electronique,560.95,2,1121.9,PayPal
+10090,2025-09-02,1232,Sud,Casque audio,Accessoires,301.36,1,301.36,CB
+10091,2025-09-03,1013,Sud,Enceinte bluetooth,Accessoires,39.89,2,79.78,CB
+10092,2025-09-03,1012,Est,Clavier mecanique,Accessoires,170.66,2,341.32,CB
+10093,2025-09-04,1129,Ouest,Clavier mecanique,Accessoires,156.87,1,156.87,Virement
+10094,2025-09-05,1125,Sud,Ordinateur portable,Electronique,1717.1,2,3434.2,CB
+10095,2025-09-05,1070,Sud,Disque dur externe,Accessoires,99.08,1,99.08,CB
+10096,2025-09-05,1097,Sud,Disque dur externe,Accessoires,191.41,4,765.64,CB
+10097,2025-09-05,1193,Sud,Enceinte bluetooth,Accessoires,98.57,2,197.14,PayPal
+10098,2025-09-06,1121,Ouest,Casque audio,Accessoires,314.93,1,314.93,CB
+10099,2025-09-07,1224,Est,Souris sans fil,Accessoires,32.16,1,32.16,Virement
+10100,2025-09-07,1030,Centre,Casque audio,Accessoires,329.69,2,659.38,CB
+10101,2025-09-07,1039,Nord,Clavier mecanique,Accessoires,46.4,1,46.4,CB
+10102,2025-09-08,1206,Est,Smartphone,Electronique,437.77,2,875.54,PayPal
+10103,2025-09-08,1024,Nord,Ecran 27 pouces,Electronique,262.37,1,262.37,CB
+10104,2025-09-08,1245,Sud,Ecran 27 pouces,Electronique,582.04,1,582.04,PayPal
+10105,2025-09-08,1206,Est,Casque audio,Accessoires,332.56,2,665.12,CB
+10106,2025-09-08,1240,Centre,Souris sans fil,Accessoires,58.72,1,58.72,PayPal
+10107,2025-09-09,1126,Centre,Tablette,Electronique,582.85,2,1165.7,CB
+10108,2025-09-09,1200,Centre,Suite bureautique,Logiciels,142.95,1,142.95,PayPal
+10109,2025-09-09,1202,Est,Clavier mecanique,Accessoires,156.08,1,156.08,CB
+10110,2025-09-09,1181,Est,Souris sans fil,Accessoires,21.22,2,42.44,PayPal
+10111,2025-09-10,1022,Ouest,Enceinte bluetooth,Accessoires,35.4,2,70.8,PayPal
+10112,2025-09-11,1189,Est,Webcam HD,Accessoires,63.86,2,127.72,CB
+10113,2025-09-11,1130,Ouest,Tablette,Electronique,567.17,2,1134.34,CB
+10114,2025-09-12,1082,Nord,Casque audio,Accessoires,276.76,1,276.76,CB
+10115,2025-09-13,1148,Sud,Disque dur externe,Accessoires,182.25,1,182.25,PayPal
+10116,2025-09-13,1242,Centre,Webcam HD,Accessoires,60.88,1,60.88,CB
+10117,2025-09-13,1166,Nord,Ecran 27 pouces,Electronique,234.78,1,234.78,PayPal
+10118,2025-09-14,1165,Sud,Enceinte bluetooth,Accessoires,66.78,1,66.78,CB
+10119,2025-09-14,1005,Sud,Ordinateur portable,Electronique,952.18,5,4760.9,CB
+10120,2025-09-14,1068,Centre,Tablette,Electronique,391.01,2,782.02,PayPal
+10121,2025-09-15,1109,Ouest,Souris sans fil,Accessoires,44.72,1,44.72,CB
+10122,2025-09-16,1061,Sud,Licence antivirus,Logiciels,59.34,2,118.68,CB
+10123,2025-09-16,1120,Sud,Tablette,Electronique,631.65,1,631.65,PayPal
+10124,2025-09-16,1026,Sud,Ordinateur portable,Electronique,1290.91,1,1290.91,CB
+10125,2025-09-17,1041,Ouest,Ordinateur portable,Electronique,1595.56,1,1595.56,PayPal
+10126,2025-09-17,1185,Ouest,Smartphone,Electronique,1123.18,4,4492.72,CB
+10127,2025-09-17,1068,Sud,Ordinateur portable,Electronique,1405.65,1,1405.65,CB
+10128,2025-09-17,1001,Centre,Smartphone,Electronique,318.25,1,318.25,CB
+10129,2025-09-17,1245,Centre,Ecran 27 pouces,Electronique,157.4,1,157.4,PayPal
+10130,2025-09-17,1215,Est,Clavier mecanique,Accessoires,56.87,4,227.48,Virement
+10131,2025-09-17,1235,Ouest,Smartphone,Electronique,990.83,1,990.83,CB
+10132,2025-09-18,1008,Nord,Ordinateur portable,Electronique,780.19,2,1560.38,CB
+10133,2025-09-18,1023,Centre,Souris sans fil,Accessoires,57.75,2,115.5,CB
+10134,2025-09-19,1159,Centre,Webcam HD,Accessoires,88.41,4,353.64,CB
+10135,2025-09-19,1231,Sud,Tablette,Electronique,701.16,1,701.16,Virement
+10136,2025-09-19,1017,Ouest,Souris sans fil,Accessoires,28.76,1,28.76,PayPal
+10137,2025-09-19,1120,Ouest,Casque audio,Accessoires,322.48,1,322.48,Virement
+10138,2025-09-20,1050,Sud,Casque audio,Accessoires,249.03,1,249.03,CB
+10139,2025-09-21,1041,Est,Suite bureautique,Logiciels,110.53,1,110.53,CB
+10140,2025-09-21,1218,Sud,Enceinte bluetooth,Accessoires,134.39,2,268.78,PayPal
+10141,2025-09-22,1113,Sud,Enceinte bluetooth,Accessoires,113.44,1,113.44,PayPal
+10142,2025-09-22,1063,Est,Casque audio,Accessoires,58.19,1,58.19,CB
+10143,2025-09-23,1014,Est,Clavier mecanique,Accessoires,132.56,1,132.56,Virement
+10144,2025-09-23,1101,Est,Smartphone,Electronique,635.37,2,1270.74,CB
+10145,2025-09-23,1004,Ouest,Licence antivirus,Logiciels,46.67,1,46.67,PayPal
+10146,2025-09-23,1061,Sud,Clavier mecanique,Accessoires,59.13,1,59.13,Virement
+10147,2025-09-24,1245,Nord,Suite bureautique,Logiciels,159.12,1,159.12,CB
+10148,2025-09-24,1235,Nord,Tablette,Electronique,165.93,1,165.93,CB
+10149,2025-09-25,1009,Sud,Smartphone,Electronique,382.88,1,382.88,PayPal
+10150,2025-09-25,1167,Ouest,Smartphone,Electronique,1123.46,1,1123.46,PayPal
+10151,2025-09-25,1208,Nord,Tablette,Electronique,153.99,1,153.99,CB
+10152,2025-09-25,1177,Nord,Ordinateur portable,Electronique,1954.08,1,1954.08,PayPal
+10153,2025-09-25,1047,Nord,Clavier mecanique,Accessoires,80.31,1,80.31,CB
+10154,2025-09-26,1041,Ouest,Smartphone,Electronique,364.87,2,729.74,CB
+10155,2025-09-27,1025,Centre,Souris sans fil,Accessoires,58.92,2,117.84,PayPal
+10156,2025-09-27,1016,Sud,Smartphone,Electronique,564.34,2,1128.68,Virement
+10157,2025-09-28,1062,Centre,Clavier mecanique,Accessoires,71.31,1,71.31,Virement
+10158,2025-09-28,1220,Ouest,Smartphone,Electronique,570.63,3,1711.89,PayPal
+10159,2025-09-28,1131,Nord,Tablette,Electronique,496.57,4,1986.28,PayPal
+10160,2025-09-28,1112,Nord,Clavier mecanique,Accessoires,100.06,2,200.12,CB
+10161,2025-09-29,1031,Centre,Ordinateur portable,Electronique,1518.07,3,4554.21,CB
+10162,2025-09-30,1111,Est,Ordinateur portable,Electronique,1408.79,5,7043.95,PayPal
+10163,2025-09-30,1136,Centre,Smartphone,Electronique,465.23,1,465.23,CB
+10164,2025-09-30,1146,Nord,Casque audio,Accessoires,88.43,1,88.43,PayPal
+10165,2025-10-01,1098,Est,Ecran 27 pouces,Electronique,464.83,1,464.83,CB
+10166,2025-10-01,1158,Centre,Webcam HD,Accessoires,46.59,1,46.59,CB
+10167,2025-10-01,1235,Centre,Casque audio,Accessoires,250.25,2,500.5,CB
+10168,2025-10-01,1194,Centre,Casque audio,Accessoires,55.15,1,55.15,PayPal
+10169,2025-10-02,1223,Sud,Licence antivirus,Logiciels,71.7,1,71.7,CB
+10170,2025-10-02,1114,Nord,Suite bureautique,Logiciels,242.93,2,485.86,CB
+10171,2025-10-02,1091,Nord,Suite bureautique,Logiciels,204.91,1,204.91,CB
+10172,2025-10-02,1129,Nord,Clavier mecanique,Accessoires,164.9,1,164.9,CB
+10173,2025-10-02,1113,Centre,Ordinateur portable,Electronique,1535.01,2,3070.02,CB
+10174,2025-10-04,1223,Nord,Ordinateur portable,Electronique,1145.15,1,1145.15,Virement
+10175,2025-10-04,1162,Nord,Clavier mecanique,Accessoires,125.11,1,125.11,CB
+10176,2025-10-05,1134,Nord,Smartphone,Electronique,953.65,1,953.65,CB
+10177,2025-10-05,1065,Centre,Disque dur externe,Accessoires,210.06,2,420.12,CB
+10178,2025-10-06,1096,Sud,Smartphone,Electronique,346.36,1,346.36,PayPal
+10179,2025-10-06,1119,Ouest,Souris sans fil,Accessoires,53.72,1,53.72,PayPal
+10180,2025-10-06,1249,Sud,Ordinateur portable,Electronique,1078.16,3,3234.48,PayPal
+10181,2025-10-06,1249,Est,Ordinateur portable,Electronique,1931.28,1,1931.28,PayPal
+10182,2025-10-07,1207,Nord,Ordinateur portable,Electronique,1945.05,1,1945.05,CB
+10183,2025-10-07,1159,Ouest,Licence antivirus,Logiciels,34.28,1,34.28,CB
+10184,2025-10-07,1226,Centre,Souris sans fil,Accessoires,24.55,2,49.1,CB
+10185,2025-10-08,1171,Ouest,Disque dur externe,Accessoires,75.66,2,151.32,CB
+10186,2025-10-08,1246,Est,Smartphone,Electronique,685.19,1,685.19,CB
+10187,2025-10-08,1224,Centre,Smartphone,Electronique,1047.3,1,1047.3,CB
+10188,2025-10-09,1128,Nord,Ecran 27 pouces,Electronique,527.92,1,527.92,CB
+10189,2025-10-09,1010,Sud,Casque audio,Accessoires,307.33,1,307.33,CB
+10190,2025-10-09,1115,Sud,Tablette,Electronique,778.66,1,778.66,CB
+10191,2025-10-09,1143,Nord,Clavier mecanique,Accessoires,74.21,4,296.84,CB
+10192,2025-10-10,1043,Nord,Tablette,Electronique,436.81,2,873.62,PayPal
+10193,2025-10-10,1177,Est,Smartphone,Electronique,475.63,1,475.63,Virement
+10194,2025-10-11,1052,Sud,Ecran 27 pouces,Electronique,193.76,1,193.76,PayPal
+10195,2025-10-11,1080,Est,Licence antivirus,Logiciels,32.1,1,32.1,PayPal
+10196,2025-10-11,1121,Ouest,Licence antivirus,Logiciels,47.71,1,47.71,CB
+10197,2025-10-11,1241,Centre,Ordinateur portable,Electronique,1239.46,2,2478.92,Virement
+10198,2025-10-12,1178,Sud,Suite bureautique,Logiciels,222.61,2,445.22,CB
+10199,2025-10-13,1107,Est,Tablette,Electronique,339.6,1,339.6,CB
+10200,2025-10-13,1226,Centre,Ecran 27 pouces,Electronique,397.08,4,1588.32,PayPal
+10201,2025-10-13,1057,Ouest,Ecran 27 pouces,Electronique,428.76,1,428.76,PayPal
+10202,2025-10-14,1043,Nord,Ordinateur portable,Electronique,841.92,1,841.92,PayPal
+10203,2025-10-14,1173,Nord,Casque audio,Accessoires,197.68,1,197.68,CB
+10204,2025-10-14,1137,Centre,Souris sans fil,Accessoires,37.39,1,37.39,CB
+10205,2025-10-14,1232,Centre,Ecran 27 pouces,Electronique,412.07,3,1236.21,PayPal
+10206,2025-10-15,1134,Nord,Enceinte bluetooth,Accessoires,48.14,1,48.14,CB
+10207,2025-10-15,1205,Sud,Casque audio,Accessoires,269.92,1,269.92,PayPal
+10208,2025-10-15,1045,Est,Ordinateur portable,Electronique,1000.83,1,1000.83,CB
+10209,2025-10-16,1064,Est,Tablette,Electronique,756.5,1,756.5,Virement
+10210,2025-10-16,1182,Ouest,Smartphone,Electronique,905.52,1,905.52,CB
+10211,2025-10-16,1086,Ouest,Tablette,Electronique,660.9,1,660.9,PayPal
+10212,2025-10-17,1025,Sud,Ecran 27 pouces,Electronique,596.56,1,596.56,CB
+10213,2025-10-17,1016,Centre,Suite bureautique,Logiciels,190.04,1,190.04,CB
+10214,2025-10-18,1024,Nord,Enceinte bluetooth,Accessoires,137.33,1,137.33,CB
+10215,2025-10-18,1166,Sud,Smartphone,Electronique,1020.81,4,4083.24,Virement
+10216,2025-10-18,1248,Ouest,Suite bureautique,Logiciels,73.31,2,146.62,PayPal
+10217,2025-10-18,1059,Sud,Smartphone,Electronique,765.79,1,765.79,CB
+10218,2025-10-19,1004,Nord,Ordinateur portable,Electronique,924.53,1,924.53,PayPal
+10219,2025-10-19,1011,Nord,Enceinte bluetooth,Accessoires,84.62,1,84.62,PayPal
+10220,2025-10-20,1036,Est,Ordinateur portable,Electronique,1915.82,1,1915.82,PayPal
+10221,2025-10-20,1052,Ouest,Webcam HD,Accessoires,68.02,2,136.04,CB
+10222,2025-10-20,1125,Centre,Clavier mecanique,Accessoires,115.13,1,115.13,PayPal
+10223,2025-10-21,1111,Sud,Souris sans fil,Accessoires,39.02,1,39.02,CB
+10224,2025-10-21,1057,Nord,Smartphone,Electronique,859.46,2,1718.92,CB
+10225,2025-10-21,1008,Nord,Disque dur externe,Accessoires,152.53,1,152.53,CB
+10226,2025-10-22,1186,Sud,Disque dur externe,Accessoires,107.01,1,107.01,PayPal
+10227,2025-10-23,1169,Ouest,Tablette,Electronique,222.55,1,222.55,Virement
+10228,2025-10-23,1113,Centre,Ordinateur portable,Electronique,1334.3,2,2668.6,PayPal
+10229,2025-10-24,1025,Est,Smartphone,Electronique,737.78,2,1475.56,CB
+10230,2025-10-24,1129,Nord,Enceinte bluetooth,Accessoires,62.54,1,62.54,CB
+10231,2025-10-24,1124,Sud,Disque dur externe,Accessoires,78.32,2,156.64,Virement
+10232,2025-10-25,1101,Sud,Ecran 27 pouces,Electronique,574.95,2,1149.9,CB
+10233,2025-10-25,1009,Est,Tablette,Electronique,279.52,1,279.52,CB
+10234,2025-10-25,1137,Ouest,Clavier mecanique,Accessoires,127.43,1,127.43,CB
+10235,2025-10-26,1214,Centre,Suite bureautique,Logiciels,204.47,4,817.88,CB
+10236,2025-10-26,1243,Ouest,Enceinte bluetooth,Accessoires,94.56,1,94.56,PayPal
+10237,2025-10-26,1064,Centre,Souris sans fil,Accessoires,21.65,1,21.65,Virement
+10238,2025-10-26,1061,Centre,Casque audio,Accessoires,122.55,1,122.55,CB
+10239,2025-10-27,1021,Nord,Ordinateur portable,Electronique,716.64,1,716.64,Virement
+10240,2025-10-28,1168,Nord,Ecran 27 pouces,Electronique,411.46,3,1234.38,PayPal
+10241,2025-10-28,1227,Sud,Webcam HD,Accessoires,31.0,3,93.0,CB
+10242,2025-10-28,1132,Est,Tablette,Electronique,338.04,1,338.04,PayPal
+10243,2025-10-29,1022,Centre,Smartphone,Electronique,1090.13,1,1090.13,CB
+10244,2025-10-29,1221,Centre,Webcam HD,Accessoires,107.95,1,107.95,PayPal
+10245,2025-10-29,1204,Ouest,Ecran 27 pouces,Electronique,446.11,3,1338.33,CB
+10246,2025-10-29,1032,Nord,Casque audio,Accessoires,339.67,1,339.67,CB
+10247,2025-10-29,1031,Ouest,Smartphone,Electronique,682.72,1,682.72,CB
+10248,2025-10-30,1145,Sud,Enceinte bluetooth,Accessoires,115.19,1,115.19,PayPal
+10249,2025-10-30,1065,Sud,Licence antivirus,Logiciels,81.15,1,81.15,CB
+10250,2025-10-31,1003,Nord,Suite bureautique,Logiciels,110.29,1,110.29,PayPal
+10251,2025-10-31,1217,Nord,Ecran 27 pouces,Electronique,388.67,3,1166.01,PayPal
+10252,2025-10-31,1107,Sud,Licence antivirus,Logiciels,35.99,2,71.98,PayPal
+10253,2025-10-31,1132,Nord,Clavier mecanique,Accessoires,53.34,2,106.68,CB
+10254,2025-11-01,1085,Est,Ordinateur portable,Electronique,1443.42,1,1443.42,CB
+10255,2025-11-01,1222,Sud,Ordinateur portable,Electronique,1554.71,3,4664.13,CB
+10256,2025-11-02,1034,Est,Disque dur externe,Accessoires,75.24,1,75.24,CB
+10257,2025-11-02,1179,Nord,Webcam HD,Accessoires,43.62,1,43.62,PayPal
+10258,2025-11-02,1061,Nord,Disque dur externe,Accessoires,94.08,1,94.08,CB
+10259,2025-11-02,1084,Nord,Enceinte bluetooth,Accessoires,180.1,1,180.1,CB
+10260,2025-11-03,1094,Sud,Ecran 27 pouces,Electronique,286.23,1,286.23,CB
+10261,2025-11-04,1042,Sud,Licence antivirus,Logiciels,67.41,1,67.41,CB
+10262,2025-11-04,1013,Est,Casque audio,Accessoires,336.75,1,336.75,PayPal
+10263,2025-11-04,1012,Ouest,Smartphone,Electronique,1076.71,1,1076.71,CB
+10264,2025-11-04,1142,Sud,Ecran 27 pouces,Electronique,252.26,1,252.26,CB
+10265,2025-11-05,1089,Est,Smartphone,Electronique,970.16,2,1940.32,CB
+10266,2025-11-06,1177,Est,Smartphone,Electronique,272.6,1,272.6,CB
+10267,2025-11-06,1005,Nord,Ordinateur portable,Electronique,556.43,1,556.43,Virement
+10268,2025-11-07,1111,Centre,Tablette,Electronique,446.15,2,892.3,CB
+10269,2025-11-07,1050,Est,Disque dur externe,Accessoires,86.89,2,173.78,PayPal
+10270,2025-11-07,1075,Nord,Smartphone,Electronique,877.11,1,877.11,Virement
+10271,2025-11-08,1032,Ouest,Souris sans fil,Accessoires,57.19,1,57.19,Virement
+10272,2025-11-09,1192,Nord,Clavier mecanique,Accessoires,91.63,1,91.63,PayPal
+10273,2025-11-09,1007,Est,Suite bureautique,Logiciels,128.4,1,128.4,CB
+10274,2025-11-09,1240,Ouest,Enceinte bluetooth,Accessoires,51.13,1,51.13,CB
+10275,2025-11-09,1061,Ouest,Smartphone,Electronique,447.91,1,447.91,Virement
+10276,2025-11-10,1225,Centre,Ecran 27 pouces,Electronique,376.57,2,753.14,CB
+10277,2025-11-10,1032,Est,Webcam HD,Accessoires,102.56,1,102.56,CB
+10278,2025-11-11,1213,Nord,Tablette,Electronique,300.11,3,900.33,CB
+10279,2025-11-11,1202,Est,Smartphone,Electronique,270.13,2,540.26,CB
+10280,2025-11-11,1005,Ouest,Webcam HD,Accessoires,109.45,2,218.9,PayPal
+10281,2025-11-12,1107,Ouest,Ordinateur portable,Electronique,879.8,1,879.8,PayPal
+10282,2025-11-12,1145,Est,Tablette,Electronique,522.96,4,2091.84,CB
+10283,2025-11-13,1177,Ouest,Webcam HD,Accessoires,25.09,1,25.09,PayPal
+10284,2025-11-13,1210,Est,Clavier mecanique,Accessoires,118.75,1,118.75,CB
+10285,2025-11-13,1153,Ouest,Suite bureautique,Logiciels,210.72,1,210.72,Virement
+10286,2025-11-13,1021,Sud,Ordinateur portable,Electronique,748.38,1,748.38,PayPal
+10287,2025-11-14,1247,Est,Disque dur externe,Accessoires,126.08,1,126.08,PayPal
+10288,2025-11-14,1032,Centre,Webcam HD,Accessoires,116.65,1,116.65,CB
+10289,2025-11-14,1089,Ouest,Enceinte bluetooth,Accessoires,101.13,1,101.13,CB
+10290,2025-11-15,1109,Centre,Smartphone,Electronique,479.37,1,479.37,PayPal
+10291,2025-11-16,1220,Nord,Enceinte bluetooth,Accessoires,117.72,2,235.44,CB
+10292,2025-11-16,1079,Centre,Licence antivirus,Logiciels,62.67,1,62.67,Virement
+10293,2025-11-16,1011,Ouest,Webcam HD,Accessoires,48.19,1,48.19,CB
+10294,2025-11-16,1049,Sud,Ecran 27 pouces,Electronique,381.58,1,381.58,CB
+10295,2025-11-16,1038,Nord,Webcam HD,Accessoires,51.21,1,51.21,CB
+10296,2025-11-17,1167,Sud,Smartphone,Electronique,912.53,1,912.53,PayPal
+10297,2025-11-17,1108,Sud,Disque dur externe,Accessoires,190.7,2,381.4,CB
+10298,2025-11-18,1000,Sud,Smartphone,Electronique,724.62,1,724.62,CB
+10299,2025-11-18,1035,Nord,Casque audio,Accessoires,204.53,5,1022.65,CB
+10300,2025-11-18,1245,Centre,Licence antivirus,Logiciels,18.86,1,18.86,PayPal
+10301,2025-11-20,1116,Sud,Tablette,Electronique,263.82,1,263.82,CB
+10302,2025-11-20,1009,Nord,Ordinateur portable,Electronique,1793.31,1,1793.31,Virement
+10303,2025-11-20,1023,Centre,Ordinateur portable,Electronique,1053.18,1,1053.18,CB
+10304,2025-11-21,1199,Centre,Webcam HD,Accessoires,23.81,1,23.81,PayPal
+10305,2025-11-21,1064,Nord,Tablette,Electronique,207.25,1,207.25,CB
+10306,2025-11-21,1218,Nord,Ordinateur portable,Electronique,952.64,1,952.64,CB
+10307,2025-11-22,1037,Centre,Ordinateur portable,Electronique,1264.63,1,1264.63,CB
+10308,2025-11-22,1088,Est,Souris sans fil,Accessoires,31.89,4,127.56,CB
+10309,2025-11-22,1113,Centre,Casque audio,Accessoires,209.66,4,838.64,CB
+10310,2025-11-22,1035,Sud,Casque audio,Accessoires,72.09,3,216.27,CB
+10311,2025-11-22,1222,Est,Casque audio,Accessoires,64.4,2,128.8,CB
+10312,2025-11-22,1219,Centre,Webcam HD,Accessoires,33.28,1,33.28,CB
+10313,2025-11-23,1185,Est,Clavier mecanique,Accessoires,170.77,4,683.08,CB
+10314,2025-11-23,1237,Nord,Tablette,Electronique,544.26,1,544.26,CB
+10315,2025-11-23,1249,Nord,Tablette,Electronique,179.35,1,179.35,CB
+10316,2025-11-24,1167,Ouest,Ecran 27 pouces,Electronique,500.87,4,2003.48,PayPal
+10317,2025-11-24,1170,Est,Enceinte bluetooth,Accessoires,111.93,1,111.93,CB
+10318,2025-11-24,1143,Centre,Casque audio,Accessoires,121.3,1,121.3,CB
+10319,2025-11-25,1212,Centre,Ecran 27 pouces,Electronique,388.18,1,388.18,PayPal
+10320,2025-11-25,1149,Nord,Souris sans fil,Accessoires,15.94,1,15.94,CB
+10321,2025-11-25,1236,Centre,Ecran 27 pouces,Electronique,529.63,1,529.63,PayPal
+10322,2025-11-27,1191,Sud,Casque audio,Accessoires,42.53,1,42.53,CB
+10323,2025-11-27,1045,Est,Souris sans fil,Accessoires,23.56,2,47.12,CB
+10324,2025-11-28,1059,Nord,Casque audio,Accessoires,59.78,1,59.78,PayPal
+10325,2025-11-28,1037,Centre,Ecran 27 pouces,Electronique,163.38,1,163.38,Virement
+10326,2025-11-29,1237,Centre,Tablette,Electronique,244.25,5,1221.25,CB
+10327,2025-11-29,1093,Nord,Souris sans fil,Accessoires,52.4,3,157.2,CB
+10328,2025-11-30,1015,Nord,Smartphone,Electronique,449.34,2,898.68,PayPal
+10329,2025-11-30,1030,Ouest,Suite bureautique,Logiciels,76.84,5,384.2,CB
+10330,2025-11-30,1034,Centre,Tablette,Electronique,639.72,1,639.72,CB
+10331,2025-11-30,1070,Est,Souris sans fil,Accessoires,40.99,2,81.98,CB
+10332,2025-11-30,1006,Centre,Ecran 27 pouces,Electronique,238.49,1,238.49,PayPal
+10333,2025-11-30,1227,Est,Ecran 27 pouces,Electronique,526.84,3,1580.52,CB
+10334,2025-11-30,1248,Centre,Suite bureautique,Logiciels,224.65,3,673.95,CB
+10335,2025-12-01,1100,Est,Licence antivirus,Logiciels,72.23,1,72.23,CB
+10336,2025-12-01,1038,Ouest,Ecran 27 pouces,Electronique,459.63,1,459.63,PayPal
+10337,2025-12-02,1017,Nord,Souris sans fil,Accessoires,33.13,2,66.26,CB
+10338,2025-12-02,1130,Sud,Ecran 27 pouces,Electronique,324.31,2,648.62,CB
+10339,2025-12-03,1035,Sud,Webcam HD,Accessoires,70.35,1,70.35,PayPal
+10340,2025-12-04,1041,Centre,Ecran 27 pouces,Electronique,466.3,1,466.3,CB
+10341,2025-12-05,1135,Nord,Disque dur externe,Accessoires,149.66,1,149.66,PayPal
+10342,2025-12-05,1107,Nord,Ordinateur portable,Electronique,1119.03,1,1119.03,CB
+10343,2025-12-06,1216,Nord,Tablette,Electronique,269.37,1,269.37,PayPal
+10344,2025-12-06,1127,Nord,Smartphone,Electronique,1090.41,1,1090.41,CB
+10345,2025-12-06,1017,Ouest,Ecran 27 pouces,Electronique,522.81,1,522.81,CB
+10346,2025-12-07,1106,Sud,Tablette,Electronique,317.92,1,317.92,PayPal
+10347,2025-12-07,1096,Nord,Suite bureautique,Logiciels,79.34,2,158.68,PayPal
+10348,2025-12-07,1102,Sud,Webcam HD,Accessoires,67.93,5,339.65,CB
+10349,2025-12-07,1168,Est,Ecran 27 pouces,Electronique,319.79,1,319.79,PayPal
+10350,2025-12-08,1149,Est,Ordinateur portable,Electronique,1430.22,1,1430.22,Virement
+10351,2025-12-09,1067,Est,Tablette,Electronique,386.15,1,386.15,CB
+10352,2025-12-09,1032,Centre,Tablette,Electronique,439.45,1,439.45,PayPal
+10353,2025-12-09,1106,Est,Ordinateur portable,Electronique,1027.45,1,1027.45,CB
+10354,2025-12-09,1185,Sud,Smartphone,Electronique,335.77,1,335.77,CB
+10355,2025-12-10,1047,Est,Suite bureautique,Logiciels,248.71,1,248.71,PayPal
+10356,2025-12-10,1012,Nord,Clavier mecanique,Accessoires,40.62,1,40.62,Virement
+10357,2025-12-10,1107,Sud,Casque audio,Accessoires,229.66,1,229.66,Virement
+10358,2025-12-10,1053,Nord,Casque audio,Accessoires,84.39,1,84.39,CB
+10359,2025-12-10,1174,Est,Tablette,Electronique,211.09,1,211.09,CB
+10360,2025-12-11,1230,Nord,Disque dur externe,Accessoires,86.42,1,86.42,CB
+10361,2025-12-11,1170,Est,Disque dur externe,Accessoires,150.28,1,150.28,CB
+10362,2025-12-12,1127,Nord,Clavier mecanique,Accessoires,72.72,2,145.44,Virement
+10363,2025-12-12,1157,Ouest,Casque audio,Accessoires,200.72,1,200.72,Virement
+10364,2025-12-14,1069,Centre,Tablette,Electronique,392.43,1,392.43,CB
+10365,2025-12-14,1029,Nord,Ordinateur portable,Electronique,1481.13,1,1481.13,CB
+10366,2025-12-14,1076,Centre,Smartphone,Electronique,228.27,1,228.27,CB
+10367,2025-12-14,1024,Sud,Tablette,Electronique,708.45,1,708.45,CB
+10368,2025-12-14,1124,Ouest,Souris sans fil,Accessoires,15.05,1,15.05,CB
+10369,2025-12-14,1111,Ouest,Souris sans fil,Accessoires,18.95,1,18.95,CB
+10370,2025-12-14,1003,Nord,Tablette,Electronique,713.23,1,713.23,CB
+10371,2025-12-14,1242,Sud,Casque audio,Accessoires,117.12,1,117.12,CB
+10372,2025-12-16,1023,Nord,Enceinte bluetooth,Accessoires,55.94,2,111.88,PayPal
+10373,2025-12-16,1094,Ouest,Ecran 27 pouces,Electronique,583.06,2,1166.12,CB
+10374,2025-12-17,1239,Nord,Enceinte bluetooth,Accessoires,148.73,1,148.73,PayPal
+10375,2025-12-17,1232,Sud,Suite bureautique,Logiciels,215.05,1,215.05,CB
+10376,2025-12-17,1209,Est,Enceinte bluetooth,Accessoires,56.82,1,56.82,CB
+10377,2025-12-17,1211,Ouest,Webcam HD,Accessoires,51.11,1,51.11,CB
+10378,2025-12-18,1195,Sud,Ecran 27 pouces,Electronique,478.68,1,478.68,PayPal
+10379,2025-12-18,1013,Centre,Casque audio,Accessoires,121.95,2,243.9,PayPal
+10380,2025-12-18,1224,Centre,Suite bureautique,Logiciels,93.71,1,93.71,CB
+10381,2025-12-18,1140,Centre,Enceinte bluetooth,Accessoires,61.99,1,61.99,PayPal
+10382,2025-12-19,1035,Est,Enceinte bluetooth,Accessoires,69.22,2,138.44,CB
+10383,2025-12-19,1208,Ouest,Casque audio,Accessoires,109.48,1,109.48,CB
+10384,2025-12-20,1077,Centre,Enceinte bluetooth,Accessoires,152.35,2,304.7,Virement
+10385,2025-12-20,1121,Nord,Licence antivirus,Logiciels,32.63,1,32.63,CB
+10386,2025-12-20,1066,Nord,Smartphone,Electronique,307.69,5,1538.45,CB
+10387,2025-12-21,1085,Nord,Ecran 27 pouces,Electronique,407.73,1,407.73,CB
+10388,2025-12-21,1190,Ouest,Smartphone,Electronique,474.51,1,474.51,CB
+10389,2025-12-22,1118,Sud,Licence antivirus,Logiciels,34.21,1,34.21,CB
+10390,2025-12-22,1203,Ouest,Smartphone,Electronique,403.33,1,403.33,CB
+10391,2025-12-22,1169,Ouest,Ordinateur portable,Electronique,490.0,1,490.0,PayPal
+10392,2025-12-23,1065,Centre,Ecran 27 pouces,Electronique,185.42,1,185.42,CB
+10393,2025-12-23,1057,Nord,Smartphone,Electronique,892.1,2,1784.2,CB
+10394,2025-12-25,1222,Est,Tablette,Electronique,661.68,1,661.68,CB
+10395,2025-12-25,1074,Nord,Webcam HD,Accessoires,101.33,1,101.33,CB
+10396,2025-12-25,1080,Centre,Tablette,Electronique,644.84,2,1289.68,PayPal
+10397,2025-12-25,1009,Ouest,Casque audio,Accessoires,226.87,2,453.74,CB
+10398,2025-12-25,1201,Ouest,Tablette,Electronique,246.39,2,492.78,PayPal
+10399,2025-12-25,1152,Sud,Ordinateur portable,Electronique,1661.91,1,1661.91,CB
+10400,2025-12-25,1091,Sud,Casque audio,Accessoires,249.12,3,747.36,PayPal
+10401,2025-12-26,1117,Centre,Tablette,Electronique,214.45,1,214.45,CB
+10402,2025-12-26,1127,Est,Webcam HD,Accessoires,75.67,1,75.67,CB
+10403,2025-12-26,1016,Ouest,Smartphone,Electronique,201.21,2,402.42,PayPal
+10404,2025-12-27,1161,Est,Ecran 27 pouces,Electronique,377.59,1,377.59,CB
+10405,2025-12-27,1237,Sud,Clavier mecanique,Accessoires,133.18,1,133.18,CB
+10406,2025-12-28,1134,Ouest,Tablette,Electronique,332.8,1,332.8,Virement
+10407,2025-12-28,1025,Ouest,Licence antivirus,Logiciels,67.06,1,67.06,PayPal
+10408,2025-12-28,1060,Sud,Casque audio,Accessoires,126.88,1,126.88,CB
+10409,2025-12-28,1204,Est,Ordinateur portable,Electronique,1749.51,1,1749.51,PayPal
+10410,2025-12-28,1142,Nord,Licence antivirus,Logiciels,25.31,1,25.31,CB
+10411,2025-12-28,1107,Nord,Disque dur externe,Accessoires,146.3,1,146.3,PayPal
+10412,2025-12-29,1061,Centre,Ordinateur portable,Electronique,1789.63,1,1789.63,CB
+10413,2025-12-29,1216,Est,Webcam HD,Accessoires,116.31,4,465.24,CB
+10414,2025-12-29,1201,Est,Casque audio,Accessoires,154.63,1,154.63,CB
+10415,2025-12-29,1081,Nord,Enceinte bluetooth,Accessoires,104.88,1,104.88,CB
+10416,2025-12-30,1054,Est,Smartphone,Electronique,438.87,1,438.87,PayPal
+10417,2025-12-30,1105,Centre,Smartphone,Electronique,357.12,1,357.12,Virement
+10418,2025-12-31,1162,Centre,Clavier mecanique,Accessoires,176.76,5,883.8,PayPal
+10419,2025-12-31,1046,Est,Enceinte bluetooth,Accessoires,98.58,3,295.74,CB
+10420,2026-01-01,1048,Sud,Enceinte bluetooth,Accessoires,77.68,1,77.68,CB
+10421,2026-01-02,1103,Ouest,Ecran 27 pouces,Electronique,191.67,1,191.67,CB
+10422,2026-01-02,1197,Est,Ordinateur portable,Electronique,1421.61,1,1421.61,CB
+10423,2026-01-02,1097,Centre,Suite bureautique,Logiciels,186.56,1,186.56,CB
+10424,2026-01-02,1097,Ouest,Ecran 27 pouces,Electronique,596.33,2,1192.66,PayPal
+10425,2026-01-02,1001,Nord,Smartphone,Electronique,1199.03,2,2398.06,CB
+10426,2026-01-02,1123,Est,Licence antivirus,Logiciels,42.37,4,169.48,CB
+10427,2026-01-03,1093,Centre,Casque audio,Accessoires,193.23,2,386.46,CB
+10428,2026-01-04,1013,Est,Ordinateur portable,Electronique,656.31,1,656.31,PayPal
+10429,2026-01-04,1025,Nord,Clavier mecanique,Accessoires,118.36,1,118.36,PayPal
+10430,2026-01-04,1058,Est,Webcam HD,Accessoires,88.43,3,265.29,CB
+10431,2026-01-06,1155,Centre,Souris sans fil,Accessoires,43.18,1,43.18,Virement
+10432,2026-01-07,1109,Sud,Smartphone,Electronique,499.55,2,999.1,PayPal
+10433,2026-01-07,1153,Nord,Clavier mecanique,Accessoires,137.88,1,137.88,CB
+10434,2026-01-07,1122,Ouest,Tablette,Electronique,578.24,5,2891.2,Virement
+10435,2026-01-07,1091,Sud,Licence antivirus,Logiciels,64.99,2,129.98,CB
+10436,2026-01-07,1101,Ouest,Disque dur externe,Accessoires,205.91,1,205.91,CB
+10437,2026-01-07,1234,Nord,Souris sans fil,Accessoires,59.09,1,59.09,CB
+10438,2026-01-07,1044,Est,Smartphone,Electronique,637.66,3,1912.98,Virement
+10439,2026-01-08,1010,Sud,Enceinte bluetooth,Accessoires,148.09,1,148.09,CB
+10440,2026-01-08,1131,Nord,Smartphone,Electronique,539.01,1,539.01,CB
+10441,2026-01-08,1233,Est,Tablette,Electronique,369.76,1,369.76,Virement
+10442,2026-01-08,1014,Ouest,Clavier mecanique,Accessoires,175.43,1,175.43,PayPal
+10443,2026-01-09,1188,Ouest,Webcam HD,Accessoires,61.95,1,61.95,PayPal
+10444,2026-01-09,1098,Ouest,Ecran 27 pouces,Electronique,524.21,2,1048.42,PayPal
+10445,2026-01-10,1079,Est,Ecran 27 pouces,Electronique,543.81,1,543.81,CB
+10446,2026-01-11,1134,Ouest,Souris sans fil,Accessoires,40.42,2,80.84,CB
+10447,2026-01-11,1100,Sud,Souris sans fil,Accessoires,25.54,2,51.08,PayPal
+10448,2026-01-12,1116,Est,Souris sans fil,Accessoires,58.11,1,58.11,Virement
+10449,2026-01-12,1030,Est,Tablette,Electronique,650.64,1,650.64,CB
+10450,2026-01-13,1229,Est,Souris sans fil,Accessoires,55.77,1,55.77,CB
+10451,2026-01-14,1167,Centre,Licence antivirus,Logiciels,68.16,1,68.16,CB
+10452,2026-01-15,1064,Ouest,Smartphone,Electronique,1196.14,1,1196.14,PayPal
+10453,2026-01-15,1055,Sud,Casque audio,Accessoires,93.54,1,93.54,CB
+10454,2026-01-15,1227,Est,Smartphone,Electronique,489.73,1,489.73,CB
+10455,2026-01-15,1009,Nord,Ordinateur portable,Electronique,1719.55,1,1719.55,CB
+10456,2026-01-15,1225,Sud,Disque dur externe,Accessoires,189.74,1,189.74,CB
+10457,2026-01-15,1235,Nord,Casque audio,Accessoires,232.82,1,232.82,CB
+10458,2026-01-15,1146,Centre,Casque audio,Accessoires,287.13,3,861.39,CB
+10459,2026-01-16,1169,Ouest,Clavier mecanique,Accessoires,43.49,2,86.98,PayPal
+10460,2026-01-16,1101,Est,Ecran 27 pouces,Electronique,367.76,1,367.76,CB
+10461,2026-01-16,1072,Sud,Licence antivirus,Logiciels,22.12,1,22.12,CB
+10462,2026-01-17,1084,Nord,Enceinte bluetooth,Accessoires,116.34,2,232.68,CB
+10463,2026-01-18,1189,Nord,Webcam HD,Accessoires,102.68,5,513.4,PayPal
+10464,2026-01-18,1134,Centre,Ordinateur portable,Electronique,1861.04,1,1861.04,CB
+10465,2026-01-19,1226,Ouest,Enceinte bluetooth,Accessoires,90.09,1,90.09,PayPal
+10466,2026-01-19,1181,Ouest,Licence antivirus,Logiciels,67.25,1,67.25,PayPal
+10467,2026-01-19,1225,Sud,Licence antivirus,Logiciels,32.68,1,32.68,CB
+10468,2026-01-20,1225,Centre,Clavier mecanique,Accessoires,168.46,5,842.3,CB
+10469,2026-01-20,1026,Nord,Ecran 27 pouces,Electronique,532.21,1,532.21,PayPal
+10470,2026-01-20,1081,Nord,Suite bureautique,Logiciels,50.95,1,50.95,PayPal
+10471,2026-01-21,1077,Sud,Smartphone,Electronique,1193.16,1,1193.16,CB
+10472,2026-01-22,1107,Ouest,Ecran 27 pouces,Electronique,262.21,1,262.21,CB
+10473,2026-01-22,1179,Sud,Enceinte bluetooth,Accessoires,112.0,1,112.0,PayPal
+10474,2026-01-23,1109,Centre,Souris sans fil,Accessoires,27.0,1,27.0,CB
+10475,2026-01-23,1183,Ouest,Casque audio,Accessoires,68.26,1,68.26,CB
+10476,2026-01-23,1130,Nord,Ecran 27 pouces,Electronique,211.98,1,211.98,CB
+10477,2026-01-23,1050,Sud,Suite bureautique,Logiciels,248.74,1,248.74,CB
+10478,2026-01-23,1198,Centre,Tablette,Electronique,538.65,1,538.65,CB
+10479,2026-01-24,1066,Sud,Ecran 27 pouces,Electronique,320.09,2,640.18,PayPal
+10480,2026-01-25,1247,Nord,Smartphone,Electronique,1195.03,1,1195.03,CB
+10481,2026-01-25,1173,Centre,Licence antivirus,Logiciels,43.4,1,43.4,CB
+10482,2026-01-25,1018,Est,Tablette,Electronique,410.24,5,2051.2,Virement
+10483,2026-01-25,1008,Centre,Souris sans fil,Accessoires,38.88,3,116.64,CB
+10484,2026-01-25,1238,Nord,Licence antivirus,Logiciels,21.56,2,43.12,CB
+10485,2026-01-25,1162,Ouest,Ecran 27 pouces,Electronique,411.72,1,411.72,CB
+10486,2026-01-26,1058,Centre,Smartphone,Electronique,592.1,2,1184.2,PayPal
+10487,2026-01-26,1218,Nord,Casque audio,Accessoires,261.78,2,523.56,CB
+10488,2026-01-26,1184,Ouest,Ecran 27 pouces,Electronique,270.54,3,811.62,CB
+10489,2026-01-26,1076,Nord,Suite bureautique,Logiciels,175.1,1,175.1,Virement
+10490,2026-01-27,1242,Sud,Souris sans fil,Accessoires,55.66,1,55.66,PayPal
+10491,2026-01-28,1062,Sud,Disque dur externe,Accessoires,64.64,1,64.64,CB
+10492,2026-01-28,1090,Centre,Suite bureautique,Logiciels,157.41,1,157.41,CB
+10493,2026-01-28,1170,Centre,Casque audio,Accessoires,63.75,1,63.75,Virement
+10494,2026-01-28,1097,Sud,Tablette,Electronique,645.11,1,645.11,CB
+10495,2026-01-28,1205,Centre,Licence antivirus,Logiciels,81.14,1,81.14,CB
+10496,2026-01-29,1017,Ouest,Ecran 27 pouces,Electronique,377.65,1,377.65,PayPal
+10497,2026-01-30,1074,Nord,Smartphone,Electronique,371.97,1,371.97,PayPal
+10498,2026-01-31,1150,Sud,Webcam HD,Accessoires,114.92,1,114.92,CB
+10499,2026-02-01,1176,Est,Enceinte bluetooth,Accessoires,72.76,1,72.76,PayPal

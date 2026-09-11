@@ -1,0 +1,53 @@
+FastAPI + React et Next.js (front) + Postgres + pgvector + OpenAI provider (back)
+openAI direct ou Azure OpenAI ???
+clé API ???? (gpt 4 mini)
+Le frontend Next.js ?????
+intégration avec CORE (l'orchestrateur d'AI Commandos) ???
+ l'avancement ? loom
+démo ???
+SDK openAI direct ou langchain (outils complexes) ou LangGraph(multi agents) ?
+
+
+
+on va faire : un LLM va analyser une section de notre data et depuis cette analyse il pourrait créer une Dashboard html (forcé format code que je vais te fournir plus tard) 
+les kpis on doit pouvoir les configurer depuis notre platforme ! puis on va créer html viewer 
+dans le Dashboard on va raisonner comme suit :
+un Dashboard claire et dynamique professionnel avec :
+bouton kpi generale par defaut (suggere des kpi pour le moment on peux les modifiers ou ajouter d'autres apres)
+si Analyser performances marketing et commerciales ---> bouton analyse ----> pdf 
+si ■ Identifier clients et segments les plus rentables ---> bouton identif client ---> dans le Dashboard + téléchargeable !
+et finalement ■ Générer recommandations data-driven automatiques par défaut pour toute analyse faite  !!!!
+
+Génère un dashboard KPI général
+Analyse les performances marketing
+Analyse les performances commerciales
+Identifie les clients et segments rentables
+Détecte tendances et anomalies
+
+
+
+
+
+
+
+
+
+donc voila le sujet , j'ai parlé a l'encadrant et il m'a fourni ces détails : 
+FastAPI + React et Next.js (front) + Postgres + pgvector + OpenAI provider (back : il m'a donné le clé api)
+*j'ai un accès au plateforme 
+*on va pas intégrer avec core pour le moment  !
+*il m'a envoyé le UI du plateforme en drive 
+*il m'a envoyé ca : AI / LLM 
+OpenAI (openai==1.54.0) — the only LLM provider, wired through a swappable abstraction (base.py → openai.py) gpt-4o — default chat model for agent responses (streaming + non-streaming) gpt-4o-mini — lightweight model for the intent router that auto-selects an agent text-embedding-3-small (1536-dim) — embeddings for RAG tiktoken (cl100k_base) — token counting / chunking    RAG A from-scratch pipeline (backend/ai/rag/) — no LangChain/LlamaIndex:  Chunker — ~500-token chunks, 50-token overlap (chunker.py) Embedder — text-embedding-3-small (embedder.py) Vector store — pgvector (pgvector==0.3.5) in Postgres, Vector(1536) column with an IVFFlat index using cosine ops (chunk.py) Retriever — cosine-distance top-k (k=5), with workspace-family scoping so a QG and its divisions share a RAG pool (retriever.py) Injector — relevance threshold (cosine distance ≤ 0.7), formats chunks as French prompt context (injector.py) Ingestion — async via Celery: documents are parsed (pypdf, python-docx), chunked, embedded, and stored (embedding.py)    Web search (the agents' "Web" toggle) Pluggable provider abstraction (backend/ai/search/), config-switchable via SEARCH_PROVIDER:  SearXNG — self-hosted metasearch (there's a searxng-local/ docker-compose), free/unlimited Tavily — hosted, LLM-optimized search API Results are normalized and injected as context, mirroring the RAG injector (web_search.py)    Data & infrastructure PostgreSQL 16 via the pgvector/pgvector:pg16 image — primary DB and vector store in one SQLAlchemy 2.0 (async, asyncpg) + Alembic migrations; psycopg2 for the sync Celery worker Redis 7 — Celery broker + cache Celery — background jobs (embedding generation, email) FastAPI + uvicorn, Pydantic v2 / pydantic-settings WebSockets — token streaming to the frontend Auth: python-jose (JWT) + bcrypt; Stripe billing; Sentry monitoring; aiosmtplib/Jinja2 email    Frontend (frontend-v2/) Next.js 16 / React 19 / TypeScript, Tailwind v4, Radix UI, TanStack Query + Table, Zustand, react-markdown + remark-gfm (renders streamed agent output), Stripe.js, i18next, ApexCharts/Recharts.
+*une démonstration vidéo du travail après chaque avancement (disant une fois par semaine) et en fin du stage je doit présenter un rapport pro.
+*le travail : un LLM va analyser une section de notre data et depuis cette analyse il pourrait créer une Dashboard html (forcé format code que je vais te fournir plus tard) 
+les KPIs on doit pouvoir les configurer depuis notre plateforme ! puis on va créer un html viewer !
+dans le Dashboard on va raisonner comme suit :
+un Dashboard claire et dynamique professionnel avec :
+bouton KPI générale par défaut (suggère des KPIs pour le moment on peux les modifier ou ajouter d'autres après)
+si "Analyser performances marketing et commerciales" ---> bouton analyse ----> pdf + page d'analyse dans le Dashboard 
+si "Identifier clients et segments les plus rentables" ---> bouton identifier client --->on va identifier les clients et les segments dans le Dashboard + un pdf téléchargeable !
+et finalement "Générer recommandations data-driven automatiques" par défaut pour toute analyse faite  !!!!
+je veux un travail professionnel, précis et impressionnant et tu vas m'aider a tout faire !
+d'abord avant de commencer, on va faire un plan détaillé de ce qu'on doit faire a chaque fois sur 6 semaines (4 jours par semaine) et après on attaque si je possède toutes les informations que j'en ai besoin et a chaque étape il faut que je comprends tout par détails (vocabulaire/outil technique...etc)
+ci-joint vous trouverez une capture d'écran sur le sujet du vector ainsi qu'une capture d'un autre agent AI sur le platforme déja déployé comme exemple !!

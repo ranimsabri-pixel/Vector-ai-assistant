@@ -1,0 +1,12 @@
+# S5 J55 — approbation des scripts d'install pour ces 4 dépendances
+# transitives (react-pdf/eslint/tailwindcss...), requise par pnpm 11 pour
+# un `pnpm install --frozen-lockfile` non-interactif propre (Docker/CI).
+# `allowBuilds` (pas `onlyBuiltDependencies`, qui existait dans les
+# versions pnpm < 11) est la clé lue par cette version -- confirmé en
+# local : pnpm a lui-même auto-généré ce scaffold en réponse à
+# ERR_PNPM_IGNORED_BUILDS. Cf https://pnpm.io/settings.
+allowBuilds:
+  canvas: true
+  core-js: true
+  sharp: true
+  unrs-resolver: true

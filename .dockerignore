@@ -1,0 +1,27 @@
+# S5 J55 — garde le contexte de build minimal (le disque C: local a ete
+# un point de friction recurrent ce sprint, cf docs/CI_CD.md / DEVELOPMENT.md).
+
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+**/.venv
+**/venv
+
+frontend/.next
+frontend/out
+frontend/playwright-report
+frontend/test-results
+frontend/tsconfig.tsbuildinfo
+
+backend/uploads
+backend/htmlcov
+backend/*.egg-info
+
+.git
+.gitlab-ci.yml
+docs
+*.md
+!README.md

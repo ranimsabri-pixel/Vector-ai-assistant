@@ -1,0 +1,60 @@
+worker_processes 1;
+pid /tmp/nginx.pid;
+
+events {
+    worker_connections 512;
+}
+
+http {
+    include       /etc/nginx/mime.types;
+    default_type  application/octet-stream;
+    sendfile      on;
+
+    # Render injecte $PORT au runtime (pas connu au build) -- ce fichier
+    # est un template, `envsubst` remplace ${PORT} dans entrypoint.sh avant
+    # de le copier vers /etc/nginx/nginx.conf. Cf docs/DEPLOYMENT_RENDER.md
+    # décision A (Nginx interne, seul process qui écoute le port public).
+    server {
+        listen ${PORT};
+        server_name _;
+
+        # Datasets/documents : MAX_DATASET_SIZE_MB=100 (cf backend/.env) --
+        # la limite nginx par defaut (1M) bloquerait tout upload reel.
+        client_max_body_size 100M;
+
+        # Backend FastAPI (Uvicorn, 127.0.0.1:8001 -- jamais expose
+        # directement, uniquement via ce proxy). Le / final sur proxy_pass
+        # retire le prefixe /api avant transmission (NEXT_PUBLIC_API_URL=/api
+        # cote frontend, cf docs/DEPLOYMENT_RENDER.md decision A).
+        location /api/ {
+            proxy_pass http://127.0.0.1:8001/;
+            proxy_http_version 1.1;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+            proxy_read_timeout 120s;
+
+            # SSE (POST /agent/chat-web) : le buffering nginx casserait le
+            # streaming token-par-token en accumulant la reponse entiere
+            # avant de la relayer.
+            proxy_buffering off;
+        }
+
+        location /health {
+            proxy_pass http://127.0.0.1:8001/health;
+        }
+
+        # Frontend : export statique Next.js (output: 'export', cf
+        # frontend/next.config.ts). trailingSlash desactive -> fichiers
+        # plats (login.html, dashboard.html...) -- $uri.html les resout.
+        root /app/frontend/out;
+        index index.html;
+
+        location / {
+            try_files $uri $uri.html $uri/ =404;
+        }
+
+        error_page 404 /404.html;
+    }
+}

@@ -1,0 +1,232 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* ============================================================
+   Design tokens — theme light/dark (S5 J50)
+   Le vert Vector (emerald) reste la meme teinte dans les deux
+   themes : seuls les neutres (fond/texte/bordures) changent.
+   ============================================================ */
+:root {
+  /* Fond legerement teinte vert (pas de blanc pur, moins fatiguant) */
+  --background: #f8fbf9;
+  --foreground: #18181b;
+  --card: #ffffff;
+  --card-foreground: #18181b;
+  /* emerald-700 : seul shade qui passe l'AA texte (4.5:1) sur fond clair */
+  --primary: #047857;
+  --primary-foreground: #ffffff;
+  --secondary: #f4f4f5;
+  --secondary-foreground: #18181b;
+  --muted: #f4f4f5;
+  --muted-foreground: #52525b;
+  --accent: #ecfdf5;
+  --accent-foreground: #065f46;
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+  --border: #e4e4e7;
+  --input: #e4e4e7;
+  --ring: #047857;
+}
+
+.dark {
+  --background: #09090b;
+  --foreground: #f4f4f5;
+  --card: #18181b;
+  --card-foreground: #f4f4f5;
+  /* emerald-400 : brillant sur fond noir, ~10:1, identite actuelle */
+  --primary: #34d399;
+  --primary-foreground: #052e16;
+  --secondary: #27272a;
+  --secondary-foreground: #f4f4f5;
+  --muted: #27272a;
+  --muted-foreground: #a1a1aa;
+  --accent: #052e16;
+  --accent-foreground: #6ee7b7;
+  --destructive: #ef4444;
+  --destructive-foreground: #450a0a;
+  --border: #27272a;
+  --input: #27272a;
+  --ring: #34d399;
+}
+
+/* ============================================================
+   Empreinte verte en light mode — les 337 classes Tailwind
+   text/border-emerald-* hardcodees (hors scope du refacto complet,
+   cf rapport) restent nommees pour le dark mode (400/500, concues
+   pour fond noir : ~9-10:1). Sur fond clair, 500 ne passe pas l'AA
+   (2.4-2.5:1). On shift via selecteur d'attribut (meme technique que
+   le bloc @media print plus bas) sans toucher aux 337 sites d'appel.
+   ============================================================ */
+.light [class~="text-emerald-300"],
+.light [class~="text-emerald-400"],
+.light [class~="text-emerald-500"] {
+  color: #047857; /* emerald-700 — 5.5:1 sur blanc, 5.3:1 sur --background */
+}
+
+.light [class~="border-emerald-400"],
+.light [class~="border-emerald-500"] {
+  border-color: #059669; /* emerald-600 — 3.8:1, seuil UI non-text (3:1) */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* ============================================================
+   Styles d'impression / PDF export
+   ============================================================ */
+@media print {
+  /* Force les couleurs et le rendu exact */
+  html,
+  body {
+    background: #ffffff !important;
+    color: #18181b !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Cache la topbar */
+  header {
+    display: none !important;
+  }
+
+  /* Format A4 avec marges raisonnables */
+  @page {
+    size: A4;
+    margin: 1.2cm 1cm;
+  }
+  /* ============================================================
+     SURCHARGE DES COULEURS : DARK → LIGHT
+     ============================================================ */
+
+  /* Fonds zinc-950 et zinc-900 → blanc */
+  [class*="bg-zinc-950"],
+  [class*="bg-zinc-900"] {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+  }
+
+  /* Cards avec fond zinc-900/50 → blanc avec bordure visible */
+  div[class*="bg-zinc-900\\/50"],
+  div[class*="bg-zinc-900/50"] {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+    border: 1px solid #e4e4e7 !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+  }
+
+  /* Textes clairs → textes sombres */
+  [class*="text-zinc-100"],
+  [class*="text-zinc-200"],
+  [class*="text-zinc-300"] {
+    color: #18181b !important;
+  }
+
+  [class*="text-zinc-400"],
+  [class*="text-zinc-500"] {
+    color: #52525b !important;
+  }
+
+  [class*="text-zinc-600"],
+  [class*="text-zinc-700"] {
+    color: #71717a !important;
+  }
+
+  /* Bordures sombres → bordures claires */
+  [class*="border-zinc-800"],
+  [class*="border-zinc-700"],
+  [class*="border-zinc-900"] {
+    border-color: #e4e4e7 !important;
+  }
+
+  /* Garde les accents de couleurs (emerald, blue, etc.) */
+  /* Les couleurs Tailwind comme text-emerald-400, bg-blue-500/10 restent intactes */
+
+  /* ============================================================
+     ANTI-COUPURES
+     ============================================================ */
+
+  /* Empêche les cards individuelles d'être coupées entre 2 pages */
+  div[class*="rounded-xl"] {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Empêche les charts SVG d'être coupés */
+  .apexcharts-canvas,
+  svg {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Les conteneurs de chart (titre + chart) restent ensemble */
+  div[class*="bg-zinc-900"]:has(.apexcharts-canvas) {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+}
+/* ============================================================
+   Animations J28 — micro-transitions UX
+   ============================================================ */
+
+@keyframes messageIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-message-in {
+  animation: messageIn 200ms ease-out forwards;
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 220ms ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 180ms ease-out forwards;
+}

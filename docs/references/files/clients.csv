@@ -1,0 +1,501 @@
+client_id,company_name,industry,company_size,region,segment,acquisition_date,acquisition_channel,contact_name,contact_email,lifecycle_stage,nps_score,assigned_rep
+CL00001,Laurent et Fils,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-06-28,Direct,Robert Moulin,robert.moulin@laurentetfils.fr,Churned,8,Karim T.
+CL00002,Joly Gallet SA,Tech & SaaS,PME (11-250),Île-de-France,Standard,2024-01-26,Direct,Margaret Traore,margaret.traore@jolygalletsa.fr,Customer Active,9,Marie D.
+CL00003,Maury S.A.R.L.,Tech & SaaS,PME (11-250),Nouvelle-Aquitaine,Standard,2025-11-19,Google Ads,Arthur Martinez,arthur.martinez@maurys.a.r.l..fr,Customer Active,8,Karim T.
+CL00004,Carpentier S.A.,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-11-01,LinkedIn Ads,Corinne Marion,corinne.marion@carpentiers.a..fr,Churned,9,Sophie L.
+CL00005,Guilbert S.A.,Finance & Assurance,TPE (1-10),Île-de-France,Premium,2025-06-18,Direct,Michelle Delahaye,michelle.delahaye@guilberts.a..fr,Customer Champion,9,Léa M.
+CL00006,Vasseur,Industrie & Manufacturing,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2025-12-28,Google Ads,Caroline Pruvost,caroline.pruvost@vasseur.fr,Churned,4,Sophie L.
+CL00007,Robert,Services B2B,PME (11-250),Île-de-France,Starter,2026-03-08,Google Ads,Patricia Leroux,patricia.leroux@robert.fr,Prospect,7,Léa M.
+CL00008,Leblanc,Tech & SaaS,TPE (1-10),Grand Est,Premium,2025-08-08,Events/Salons,Roger Meyer,roger.meyer@leblanc.fr,Customer Champion,9,Karim T.
+CL00009,Ledoux Marques SA,Finance & Assurance,PME (11-250),Nouvelle-Aquitaine,Standard,2024-02-26,Content/SEO,Éric Gillet,éric.gillet@ledouxmarquessa.fr,Customer Active,9,Amine B.
+CL00010,Pelletier SARL,Santé & Pharma,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-09-25,Email Marketing,Josette Aubry,josette.aubry@pelletiersarl.fr,Customer Active,7,Amine B.
+CL00011,Chauveau S.A.R.L.,Tech & SaaS,PME (11-250),Occitanie,Standard,2024-02-10,LinkedIn Ads,Élise Denis,élise.denis@chauveaus.a.r.l..fr,Customer Active,9,Karim T.
+CL00012,Chevalier,Santé & Pharma,ETI (251-5000),Nouvelle-Aquitaine,Premium,2024-08-01,Outbound Sales,Françoise Cousin,françoise.cousin@chevalier.fr,Customer Champion,9,Yanis F.
+CL00013,Verdier,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2024-10-16,Direct,Léon Fischer,léon.fischer@verdier.fr,Customer Active,8,Marie D.
+CL00014,Lambert et Fils,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-03-31,Email Marketing,Michel Leleu,michel.leleu@lambertetfils.fr,Customer Active,7,Yanis F.
+CL00015,Chevalier,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-03-27,Outbound Sales,Dominique Rey,dominique.rey@chevalier.fr,Churned,6,Sophie L.
+CL00016,Gillet SARL,Tech & SaaS,PME (11-250),Occitanie,Starter,2025-04-27,Referral,Cécile Bousquet,cécile.bousquet@gilletsarl.fr,Churned,5,Karim T.
+CL00017,Goncalves,Tech & SaaS,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-04-12,Referral,Alexandrie Monnier,alexandrie.monnier@goncalves.fr,Customer Active,7,Karim T.
+CL00018,Leconte Da Costa et Fils,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-07-25,LinkedIn Ads,Maggie Jourdan,maggie.jourdan@lecontedacostaetfils.fr,Customer Active,6,Sophie L.
+CL00019,Raynaud et Fils,Tech & SaaS,PME (11-250),Île-de-France,Starter,2024-07-06,Events/Salons,Jean Joubert,jean.joubert@raynaudetfils.fr,Customer Active,4,Sophie L.
+CL00020,Goncalves Pinto S.A.R.L.,Santé & Pharma,PME (11-250),Pays de la Loire,Standard,2025-02-17,Google Ads,Richard Riou,richard.riou@goncalvespintos.a.r..fr,Customer Active,9,Sophie L.
+CL00021,Pottier Germain SA,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2024-03-23,Direct,Michel David,michel.david@pottiergermainsa.fr,Churned,4,Yanis F.
+CL00022,Maréchal,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Premium,2025-11-12,Google Ads,René François,rené.françois@maréchal.fr,Customer Champion,9,Sophie L.
+CL00023,Duhamel Wagner SARL,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Premium,2026-02-24,Outbound Sales,Marcel Bègue,marcel.bègue@duhamelwagnersarl.fr,Customer Active,8,Léa M.
+CL00024,Delaunay,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-12-23,LinkedIn Ads,Lucy Albert,lucy.albert@delaunay.fr,Churned,9,Karim T.
+CL00025,Aubry Joly S.A.,Industrie & Manufacturing,TPE (1-10),Nouvelle-Aquitaine,Starter,2026-02-27,Events/Salons,Noémi Guilbert,noémi.guilbert@aubryjolys.a..fr,Churned,5,Sophie L.
+CL00026,Letellier,Services B2B,PME (11-250),Grand Est,Premium,2026-04-04,Referral,Isabelle Gilbert,isabelle.gilbert@letellier.fr,Churned,10,Marie D.
+CL00027,Étienne,Santé & Pharma,PME (11-250),Île-de-France,Premium,2024-02-18,Events/Salons,Matthieu Dos Santos,matthieu.dos santos@étienne.fr,Customer Champion,9,Amine B.
+CL00028,Robin,Tech & SaaS,PME (11-250),Hauts-de-France,Standard,2026-01-27,Referral,Olivie Rousseau,olivie.rousseau@robin.fr,Customer Active,8,Sophie L.
+CL00029,Brunet et Fils,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-09-01,Email Marketing,Hugues Bazin,hugues.bazin@brunetetfils.fr,Churned,6,Marie D.
+CL00030,Godard,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Premium,2025-04-24,Email Marketing,Christophe Collin,christophe.collin@godard.fr,Customer Active,8,Karim T.
+CL00031,Godard,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Starter,2024-05-14,Direct,Chantal Evrard,chantal.evrard@godard.fr,Customer Active,2,Marie D.
+CL00032,Lenoir,Tech & SaaS,PME (11-250),Île-de-France,Starter,2026-03-03,Direct,Alain Bazin,alain.bazin@lenoir.fr,Prospect,5,Marie D.
+CL00033,Normand S.A.S.,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-09-02,Outbound Sales,Odette Da Costa,odette.da costa@normands.a.s..fr,Customer Active,6,Karim T.
+CL00034,Marie,Tech & SaaS,PME (11-250),Hauts-de-France,Standard,2024-08-23,Direct,Théodore Gay,théodore.gay@marie.fr,Customer Active,9,Amine B.
+CL00035,De Sousa Bernard et Fils,Services B2B,TPE (1-10),Île-de-France,Standard,2026-03-15,Referral,Michelle Charles,michelle.charles@desousabernardetfils.fr,Prospect,9,Sophie L.
+CL00036,Guillou Gautier et Fils,Industrie & Manufacturing,PME (11-250),Pays de la Loire,Standard,2026-02-04,Google Ads,Théophile Riou,théophile.riou@guillougautieretfils.fr,Customer Active,2,Marie D.
+CL00037,Brunet Besson S.A.,Education & Formation,PME (11-250),Bretagne,Standard,2026-01-14,Google Ads,Élodie Merle,élodie.merle@brunetbessons.a..fr,Customer Active,7,Amine B.
+CL00038,Joseph SARL,Retail & E-commerce,ETI (251-5000),Occitanie,Starter,2025-09-18,Events/Salons,Claudine Moreau,claudine.moreau@josephsarl.fr,Churned,6,Yanis F.
+CL00039,Étienne SARL,Tech & SaaS,PME (11-250),Île-de-France,Starter,2024-11-21,Email Marketing,Olivier Boyer,olivier.boyer@étiennesarl.fr,Churned,5,Marie D.
+CL00040,Duhamel Chevalier SA,Tech & SaaS,TPE (1-10),Grand Est,Standard,2024-12-05,Referral,Nath Vallée,nath.vallée@duhamelchevaliersa.fr,Customer Active,8,Amine B.
+CL00041,Samson S.A.S.,Tech & SaaS,ETI (251-5000),Île-de-France,Premium,2026-04-05,Content/SEO,Pauline Marchand,pauline.marchand@samsons.a.s..fr,Customer Active,10,Karim T.
+CL00042,Delmas Ollivier S.A.S.,Tech & SaaS,PME (11-250),Île-de-France,Premium,2026-04-17,Content/SEO,Jacques Aubry,jacques.aubry@delmasolliviers.a.s..fr,Churned,10,Marie D.
+CL00043,Lecomte,Services B2B,PME (11-250),Auvergne-Rhône-Alpes,Premium,2025-09-04,Direct,Élodie Faivre,élodie.faivre@lecomte.fr,Customer Champion,9,Marie D.
+CL00044,Delannoy Langlois S.A.R.L.,Tech & SaaS,ETI (251-5000),Provence-Alpes-Côte d'Azur,Standard,2025-07-18,Email Marketing,Marguerite Delahaye,marguerite.delahaye@delannoylangloiss.a..fr,Customer Active,8,Sophie L.
+CL00045,Navarro,Retail & E-commerce,PME (11-250),Île-de-France,Standard,2025-07-19,Content/SEO,Diane Sauvage,diane.sauvage@navarro.fr,Customer Active,6,Sophie L.
+CL00046,Hoarau S.A.,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-10-30,Referral,Christophe Maillot,christophe.maillot@hoaraus.a..fr,Customer Active,7,Sophie L.
+CL00047,Pruvost S.A.S.,Services B2B,TPE (1-10),Normandie,Standard,2025-07-18,Email Marketing,Michel Pruvost,michel.pruvost@pruvosts.a.s..fr,Customer Active,7,Amine B.
+CL00048,Robert Guérin et Fils,Services B2B,PME (11-250),Auvergne-Rhône-Alpes,Starter,2026-04-17,Referral,Louise Lopez,louise.lopez@robertguérinetfils.fr,Customer Active,7,Sophie L.
+CL00049,Mercier David SARL,Tech & SaaS,PME (11-250),Grand Est,Premium,2025-07-12,Content/SEO,David Buisson,david.buisson@mercierdavidsarl.fr,Customer Active,8,Yanis F.
+CL00050,Lopes Laroche S.A.R.L.,Santé & Pharma,ETI (251-5000),Île-de-France,Premium,2025-01-30,Content/SEO,Marcel Gimenez,marcel.gimenez@lopeslaroches.a.r.l..fr,Customer Champion,10,Léa M.
+CL00051,Ramos Masse S.A.S.,Education & Formation,PME (11-250),Hauts-de-France,Starter,2025-05-21,Referral,Christelle Berger,christelle.berger@ramosmasses.a.s..fr,Customer Active,8,Amine B.
+CL00052,Cordier,Retail & E-commerce,PME (11-250),Occitanie,Standard,2026-01-03,Events/Salons,Laurent Gauthier,laurent.gauthier@cordier.fr,Customer Active,9,Sophie L.
+CL00053,Delmas S.A.R.L.,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-03-06,Google Ads,Adrienne Briand,adrienne.briand@delmass.a.r.l..fr,Customer Active,7,Amine B.
+CL00054,Bigot,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Premium,2024-07-01,Events/Salons,Nathalie Vincent,nathalie.vincent@bigot.fr,Customer Champion,9,Léa M.
+CL00055,Bonnet S.A.R.L.,Services B2B,PME (11-250),Grand Est,Standard,2025-05-12,LinkedIn Ads,Nathalie Maillot,nathalie.maillot@bonnets.a.r.l..fr,Customer Active,8,Karim T.
+CL00056,Menard S.A.,Industrie & Manufacturing,PME (11-250),Grand Est,Starter,2026-01-28,Outbound Sales,Laurent Regnier,laurent.regnier@menards.a..fr,Churned,5,Karim T.
+CL00057,Joly,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-01-25,Content/SEO,Audrey Vidal,audrey.vidal@joly.fr,Customer Active,7,Marie D.
+CL00058,Pinto,Services B2B,PME (11-250),Île-de-France,Standard,2026-02-10,Events/Salons,Paul Sanchez,paul.sanchez@pinto.fr,Churned,7,Karim T.
+CL00059,Dias,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-06-29,Events/Salons,Eugène Girard,eugène.girard@dias.fr,Customer Active,6,Karim T.
+CL00060,Morin S.A.,Tech & SaaS,ETI (251-5000),Île-de-France,Premium,2025-09-29,Outbound Sales,Jacques Cordier,jacques.cordier@morins.a..fr,Customer Active,8,Léa M.
+CL00061,Leduc,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2024-06-18,Referral,Marcel Maréchal,marcel.maréchal@leduc.fr,Customer Active,7,Sophie L.
+CL00062,Gaillard S.A.R.L.,Services B2B,ETI (251-5000),Nouvelle-Aquitaine,Starter,2024-11-09,Google Ads,Adrien Perrier,adrien.perrier@gaillards.a.r.l..fr,Churned,6,Amine B.
+CL00063,De Sousa,Services B2B,ETI (251-5000),Auvergne-Rhône-Alpes,Starter,2024-09-22,LinkedIn Ads,Sébastien Briand,sébastien.briand@desousa.fr,Churned,5,Yanis F.
+CL00064,Meyer,Services B2B,TPE (1-10),Normandie,Starter,2025-12-24,Email Marketing,Laurent Collet,laurent.collet@meyer.fr,Customer Active,7,Amine B.
+CL00065,Boyer Delorme et Fils,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-07-05,Email Marketing,Élodie Bonnet,élodie.bonnet@boyerdelormeetfils.fr,Customer Active,9,Karim T.
+CL00066,Boyer,Education & Formation,TPE (1-10),Occitanie,Standard,2025-09-16,Content/SEO,Benoît Mary,benoît.mary@boyer.fr,Customer Active,9,Marie D.
+CL00067,Gaudin,Tech & SaaS,ETI (251-5000),Île-de-France,Standard,2024-10-01,Events/Salons,Dominique Laporte,dominique.laporte@gaudin.fr,Customer Active,9,Karim T.
+CL00068,Boyer Grégoire SA,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2024-10-03,Referral,Claude Lemoine,claude.lemoine@boyergrégoiresa.fr,Customer Active,8,Marie D.
+CL00069,Valentin SA,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2024-06-11,Content/SEO,Margot Huet,margot.huet@valentinsa.fr,Customer Active,9,Amine B.
+CL00070,Mathieu,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Standard,2024-09-07,Referral,Hélène Hoarau,hélène.hoarau@mathieu.fr,Customer Active,8,Yanis F.
+CL00071,Legendre SA,Services B2B,TPE (1-10),Île-de-France,Premium,2024-10-08,Google Ads,Astrid Descamps,astrid.descamps@legendresa.fr,Customer Active,8,Léa M.
+CL00072,Bertin,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-08-10,Events/Salons,Lucas Laroche,lucas.laroche@bertin.fr,Customer Active,8,Yanis F.
+CL00073,Dupuis,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Premium,2024-09-09,LinkedIn Ads,Rémy Delaunay,rémy.delaunay@dupuis.fr,Customer Active,8,Yanis F.
+CL00074,Leconte Imbert SARL,Industrie & Manufacturing,PME (11-250),Pays de la Loire,Standard,2024-04-17,Content/SEO,Céline Gomes,céline.gomes@leconteimbertsarl.fr,Customer Active,5,Léa M.
+CL00075,Petit S.A.R.L.,Industrie & Manufacturing,TPE (1-10),Île-de-France,Standard,2024-08-02,Referral,Laurence Thibault,laurence.thibault@petits.a.r.l..fr,Customer Active,2,Yanis F.
+CL00076,Legrand S.A.S.,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2026-03-18,Referral,Marcel Guillou,marcel.guillou@legrands.a.s..fr,Customer Active,7,Karim T.
+CL00077,Payet,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2026-02-12,LinkedIn Ads,Adèle Muller,adèle.muller@payet.fr,Customer Active,6,Sophie L.
+CL00078,Lemaître Jacquet S.A.,Services B2B,TPE (1-10),Île-de-France,Premium,2024-06-28,LinkedIn Ads,Brigitte Devaux,brigitte.devaux@lemaîtrejacquets.a..fr,Customer Champion,9,Yanis F.
+CL00079,Raymond,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-02-03,LinkedIn Ads,Susan Guibert,susan.guibert@raymond.fr,Customer Active,5,Yanis F.
+CL00080,Martineau S.A.S.,Services B2B,ETI (251-5000),Auvergne-Rhône-Alpes,Standard,2025-06-15,Direct,Théophile Dupré,théophile.dupré@martineaus.a.s..fr,Customer Active,8,Amine B.
+CL00081,Lucas SARL,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-05-21,LinkedIn Ads,Gabriel Gautier,gabriel.gautier@lucassarl.fr,Customer Active,8,Léa M.
+CL00082,Maillard Carre S.A.S.,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2025-03-01,Email Marketing,Marc Wagner,marc.wagner@maillardcarres.a.s..fr,Churned,8,Sophie L.
+CL00083,Martins,Industrie & Manufacturing,PME (11-250),Île-de-France,Starter,2025-07-27,Events/Salons,Marianne Couturier,marianne.couturier@martins.fr,Churned,6,Yanis F.
+CL00084,Bodin,Services B2B,ETI (251-5000),Île-de-France,Standard,2025-02-04,Direct,Claudine Deschamps,claudine.deschamps@bodin.fr,Customer Active,9,Karim T.
+CL00085,Morin et Fils,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-12-13,Content/SEO,Audrey Baron,audrey.baron@morinetfils.fr,Customer Active,9,Marie D.
+CL00086,Bernard SARL,Retail & E-commerce,TPE (1-10),Normandie,Standard,2025-01-22,Referral,Pénélope Dumont,pénélope.dumont@bernardsarl.fr,Customer Active,6,Marie D.
+CL00087,Renard,Tech & SaaS,TPE (1-10),Grand Est,Standard,2024-12-17,Events/Salons,Nicole Pichon,nicole.pichon@renard.fr,Customer Active,7,Amine B.
+CL00088,Guilbert,Finance & Assurance,PME (11-250),Île-de-France,Standard,2024-09-02,Events/Salons,Alain Marie,alain.marie@guilbert.fr,Customer Active,7,Amine B.
+CL00089,Blot S.A.,Tech & SaaS,PME (11-250),Île-de-France,Starter,2024-12-13,Direct,Émilie Da Silva,émilie.da silva@blots.a..fr,Customer Active,5,Yanis F.
+CL00090,Guillon,Tech & SaaS,PME (11-250),Normandie,Standard,2025-03-09,Referral,Françoise Caron,françoise.caron@guillon.fr,Customer Active,9,Marie D.
+CL00091,Rodriguez,Tech & SaaS,TPE (1-10),Grand Est,Starter,2025-09-27,Email Marketing,Augustin Le Gall,augustin.le gall@rodriguez.fr,Customer Active,8,Amine B.
+CL00092,Fournier,Industrie & Manufacturing,PME (11-250),Nouvelle-Aquitaine,Starter,2025-09-09,Content/SEO,Agathe Lacroix,agathe.lacroix@fournier.fr,Customer Active,5,Marie D.
+CL00093,Martineau Henry SARL,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-04-07,Referral,Renée Vaillant,renée.vaillant@martineauhenrysarl.fr,Customer Active,7,Karim T.
+CL00094,Legendre,Santé & Pharma,ETI (251-5000),Auvergne-Rhône-Alpes,Starter,2024-09-27,Events/Salons,Océane Meyer,océane.meyer@legendre.fr,Customer Active,5,Amine B.
+CL00095,Goncalves Schmitt S.A.R.L.,Services B2B,PME (11-250),Pays de la Loire,Standard,2025-03-03,Referral,André Colin,andré.colin@goncalvesschmitts.a..fr,Churned,9,Amine B.
+CL00096,Bouchet,Education & Formation,TPE (1-10),Grand Est,Standard,2026-01-11,Referral,Suzanne Laroche,suzanne.laroche@bouchet.fr,Customer Active,9,Léa M.
+CL00097,Da Costa Leroux et Fils,Industrie & Manufacturing,TPE (1-10),Île-de-France,Starter,2025-12-26,Events/Salons,Franck Weber,franck.weber@dacostalerouxetfils.fr,Churned,6,Amine B.
+CL00098,Lelièvre S.A.,Finance & Assurance,ETI (251-5000),Grand Est,Standard,2025-06-21,LinkedIn Ads,Luc Jacques,luc.jacques@lelièvres.a..fr,Customer Active,6,Yanis F.
+CL00099,Schneider,Tech & SaaS,PME (11-250),Île-de-France,Standard,2026-02-07,Google Ads,Valentine Dumas,valentine.dumas@schneider.fr,Customer Active,9,Yanis F.
+CL00100,Laurent Delmas S.A.,Tech & SaaS,PME (11-250),Hauts-de-France,Standard,2024-05-24,Outbound Sales,Andrée Boulanger,andrée.boulanger@laurentdelmass.a..fr,Customer Active,7,Marie D.
+CL00101,Muller,Services B2B,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-01-26,Referral,Pénélope Lopes,pénélope.lopes@muller.fr,Customer Active,6,Karim T.
+CL00102,Clerc,Services B2B,TPE (1-10),Île-de-France,Starter,2025-05-15,Google Ads,Danielle Alexandre,danielle.alexandre@clerc.fr,Customer Active,7,Amine B.
+CL00103,Leroy,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Premium,2024-11-20,Events/Salons,Gabriel Bertin,gabriel.bertin@leroy.fr,Customer Champion,9,Sophie L.
+CL00104,Blin Aubry SA,Services B2B,PME (11-250),Île-de-France,Standard,2025-04-26,Content/SEO,Franck Godard,franck.godard@blinaubrysa.fr,Customer Active,8,Sophie L.
+CL00105,Barre,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-11-13,Events/Salons,Nathalie Bouvier,nathalie.bouvier@barre.fr,Customer Active,5,Léa M.
+CL00106,Seguin,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Starter,2025-07-04,LinkedIn Ads,Danielle Ferreira,danielle.ferreira@seguin.fr,Customer Active,6,Karim T.
+CL00107,Verdier,Industrie & Manufacturing,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-06-19,Email Marketing,Laurent Adam,laurent.adam@verdier.fr,Customer Active,3,Yanis F.
+CL00108,Neveu S.A.R.L.,Industrie & Manufacturing,PME (11-250),Île-de-France,Premium,2025-02-14,Outbound Sales,Adrien Dijoux,adrien.dijoux@neveus.a.r.l..fr,Customer Active,3,Sophie L.
+CL00109,Marchal Perret SA,Services B2B,TPE (1-10),Occitanie,Standard,2025-07-29,LinkedIn Ads,Margot Rémy,margot.rémy@marchalperretsa.fr,Churned,9,Marie D.
+CL00110,Dupré,Services B2B,PME (11-250),Hauts-de-France,Starter,2025-01-22,Outbound Sales,Claude Denis,claude.denis@dupré.fr,Customer Active,4,Karim T.
+CL00111,Guillou,Education & Formation,TPE (1-10),Hauts-de-France,Standard,2025-06-11,Direct,Thierry Martineau,thierry.martineau@guillou.fr,Customer Active,9,Sophie L.
+CL00112,Millet,Tech & SaaS,ETI (251-5000),Île-de-France,Standard,2024-12-13,LinkedIn Ads,Anne Grenier,anne.grenier@millet.fr,Customer Active,7,Karim T.
+CL00113,Lenoir,Services B2B,PME (11-250),Hauts-de-France,Starter,2026-03-18,Outbound Sales,Gilbert Olivier,gilbert.olivier@lenoir.fr,Customer Active,4,Marie D.
+CL00114,Chartier,Tech & SaaS,PME (11-250),Île-de-France,Standard,2026-03-10,Google Ads,Alex Labbé,alex.labbé@chartier.fr,Prospect,8,Yanis F.
+CL00115,Chauvet Colas SARL,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-04-08,LinkedIn Ads,Anne Lévy,anne.lévy@chauvetcolassarl.fr,Customer Active,9,Sophie L.
+CL00116,Bailly SARL,Education & Formation,TPE (1-10),Île-de-France,Starter,2025-06-28,Events/Salons,Marc Perret,marc.perret@baillysarl.fr,Churned,5,Yanis F.
+CL00117,Turpin,Tech & SaaS,PME (11-250),Île-de-France,Premium,2024-06-25,Outbound Sales,Capucine Pichon,capucine.pichon@turpin.fr,Customer Active,8,Léa M.
+CL00118,Gros Reynaud et Fils,Santé & Pharma,PME (11-250),Île-de-France,Starter,2026-04-20,Google Ads,Jean Delmas,jean.delmas@grosreynaudetfils.fr,Customer Active,6,Sophie L.
+CL00119,Jacquet S.A.S.,Tech & SaaS,TPE (1-10),Grand Est,Standard,2024-10-02,Direct,Margaud Couturier,margaud.couturier@jacquets.a.s..fr,Customer Active,9,Karim T.
+CL00120,Morin,Retail & E-commerce,TPE (1-10),Hauts-de-France,Starter,2025-05-20,Outbound Sales,Thérèse Hamel,thérèse.hamel@morin.fr,Customer Active,8,Marie D.
+CL00121,Maillet Ruiz S.A.,Médias & Communication,PME (11-250),Auvergne-Rhône-Alpes,Premium,2024-01-27,Direct,Susan Philippe,susan.philippe@mailletruizs.a..fr,Customer Champion,9,Amine B.
+CL00122,Laurent Lambert S.A.,Services B2B,TPE (1-10),Île-de-France,Standard,2024-03-09,Referral,Christelle Bourdon,christelle.bourdon@laurentlamberts.a..fr,Customer Active,8,Marie D.
+CL00123,Pineau S.A.R.L.,Santé & Pharma,TPE (1-10),Occitanie,Premium,2024-09-07,Direct,Louise Bruneau,louise.bruneau@pineaus.a.r.l..fr,Customer Champion,10,Yanis F.
+CL00124,Wagner Grenier S.A.R.L.,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-07-01,Content/SEO,Clémence Alexandre,clémence.alexandre@wagnergreniers.a.r.l.fr,Customer Active,6,Sophie L.
+CL00125,Caron Bègue et Fils,Education & Formation,PME (11-250),Auvergne-Rhône-Alpes,Premium,2024-08-04,LinkedIn Ads,Aimé Hamel,aimé.hamel@caronbègueetfils.fr,Customer Champion,9,Amine B.
+CL00126,Merle S.A.R.L.,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Standard,2025-09-20,Email Marketing,Matthieu Schmitt,matthieu.schmitt@merles.a.r.l..fr,Customer Active,2,Léa M.
+CL00127,Girard,Retail & E-commerce,ETI (251-5000),Île-de-France,Standard,2026-03-11,Email Marketing,Frédérique Menard,frédérique.menard@girard.fr,Customer Active,6,Sophie L.
+CL00128,Pineau S.A.,Tech & SaaS,TPE (1-10),Occitanie,Standard,2025-07-12,Events/Salons,Suzanne Barthelemy,suzanne.barthelemy@pineaus.a..fr,Customer Active,7,Léa M.
+CL00129,Faivre,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Premium,2026-04-09,Outbound Sales,Capucine Raymond,capucine.raymond@faivre.fr,Prospect,4,Sophie L.
+CL00130,Lévy,Finance & Assurance,TPE (1-10),Île-de-France,Premium,2025-10-10,Direct,Caroline Leroux,caroline.leroux@lévy.fr,Customer Active,8,Marie D.
+CL00131,Lebreton,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-01-27,Email Marketing,Raymond Hamel,raymond.hamel@lebreton.fr,Customer Active,8,Marie D.
+CL00132,Diaz Baron S.A.S.,Tech & SaaS,TPE (1-10),Hauts-de-France,Standard,2024-03-13,Email Marketing,Claire Toussaint,claire.toussaint@diazbarons.a.s..fr,Customer Active,9,Karim T.
+CL00133,Paris Besnard SA,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-08-20,Direct,Michèle Renault,michèle.renault@parisbesnardsa.fr,Customer Active,9,Sophie L.
+CL00134,Maillard Daniel SARL,Médias & Communication,TPE (1-10),Île-de-France,Starter,2024-07-06,Events/Salons,Élodie Faure,élodie.faure@maillarddanielsarl.fr,Customer Active,6,Amine B.
+CL00135,Fernandes Grondin S.A.R.L.,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-02-27,Referral,Marine Brunet,marine.brunet@fernandesgrondins.a..fr,Churned,8,Léa M.
+CL00136,Andre Legros S.A.R.L.,Tech & SaaS,ETI (251-5000),Pays de la Loire,Standard,2024-02-05,Referral,Vincent Allard,vincent.allard@andrelegross.a.r.l..fr,Customer Active,9,Karim T.
+CL00137,Legros,Tech & SaaS,ETI (251-5000),Auvergne-Rhône-Alpes,Standard,2026-04-02,Email Marketing,Charles Leclerc,charles.leclerc@legros.fr,Customer Active,9,Sophie L.
+CL00138,Perrier,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2025-05-16,Email Marketing,Pénélope Mary,pénélope.mary@perrier.fr,Churned,7,Marie D.
+CL00139,Salmon S.A.S.,Tech & SaaS,PME (11-250),Auvergne-Rhône-Alpes,Starter,2025-03-27,Direct,Alex Martel,alex.martel@salmons.a.s..fr,Churned,5,Amine B.
+CL00140,Benard SARL,Services B2B,PME (11-250),Nouvelle-Aquitaine,Standard,2024-06-16,Events/Salons,Odette Perrier,odette.perrier@benardsarl.fr,Customer Active,9,Marie D.
+CL00141,Tanguy,Services B2B,PME (11-250),Hauts-de-France,Starter,2025-05-08,Email Marketing,Océane Guyon,océane.guyon@tanguy.fr,Churned,6,Amine B.
+CL00142,Coulon Vasseur SARL,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-01-11,Email Marketing,Bernadette Vallée,bernadette.vallée@coulonvasseursarl.fr,Churned,9,Karim T.
+CL00143,Perrier SARL,Services B2B,ETI (251-5000),Île-de-France,Standard,2024-09-01,Content/SEO,Marguerite Potier,marguerite.potier@perriersarl.fr,Customer Active,6,Yanis F.
+CL00144,Ramos,Retail & E-commerce,PME (11-250),Île-de-France,Premium,2025-07-08,LinkedIn Ads,Jacques Bigot,jacques.bigot@ramos.fr,Customer Champion,9,Léa M.
+CL00145,Loiseau Joubert SA,Services B2B,TPE (1-10),Nouvelle-Aquitaine,Starter,2024-03-12,Referral,Anaïs Allain,anaïs.allain@loiseaujoubertsa.fr,Churned,8,Karim T.
+CL00146,Perez et Fils,Retail & E-commerce,TPE (1-10),Hauts-de-France,Starter,2024-08-28,Direct,Aurélie Dufour,aurélie.dufour@perezetfils.fr,Customer Active,4,Marie D.
+CL00147,Vidal,Tech & SaaS,PME (11-250),Normandie,Standard,2024-11-24,Google Ads,Benoît Bertin,benoît.bertin@vidal.fr,Customer Active,6,Amine B.
+CL00148,Millet,Education & Formation,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-10-24,Outbound Sales,Marcel De Sousa,marcel.de sousa@millet.fr,Customer Active,8,Marie D.
+CL00149,Marques,Tech & SaaS,PME (11-250),Bretagne,Starter,2024-10-06,Outbound Sales,Patricia Gillet,patricia.gillet@marques.fr,Customer Active,4,Karim T.
+CL00150,Chrétien,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2024-11-03,Content/SEO,Véronique De Oliveira,véronique.de oliveira@chrétien.fr,Customer Active,5,Amine B.
+CL00151,Faure,Industrie & Manufacturing,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-09-08,Referral,Charlotte Moreau,charlotte.moreau@faure.fr,Customer Active,4,Marie D.
+CL00152,Marty S.A.,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-05-23,Outbound Sales,Manon Muller,manon.muller@martys.a..fr,Churned,9,Karim T.
+CL00153,Faivre SA,Education & Formation,PME (11-250),Grand Est,Starter,2025-09-04,Google Ads,Paul Bourgeois,paul.bourgeois@faivresa.fr,Customer Active,5,Yanis F.
+CL00154,Loiseau S.A.,Industrie & Manufacturing,TPE (1-10),Bretagne,Starter,2025-02-03,Content/SEO,Olivier Marchand,olivier.marchand@loiseaus.a..fr,Customer Active,4,Marie D.
+CL00155,Laroche,Tech & SaaS,TPE (1-10),Hauts-de-France,Starter,2024-12-22,LinkedIn Ads,Gabriel Thibault,gabriel.thibault@laroche.fr,Customer Active,7,Marie D.
+CL00156,Turpin Bonnin SARL,Industrie & Manufacturing,PME (11-250),Île-de-France,Starter,2024-03-28,Email Marketing,Pauline Tessier,pauline.tessier@turpinbonninsarl.fr,Churned,6,Karim T.
+CL00157,Seguin Seguin et Fils,Tech & SaaS,PME (11-250),Île-de-France,Premium,2026-03-16,LinkedIn Ads,Michelle Noël,michelle.noël@seguinseguinetfils.fr,Customer Active,10,Karim T.
+CL00158,Langlois Nicolas S.A.S.,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2024-03-10,Email Marketing,André Langlois,andré.langlois@langloisnicolass.a.s.fr,Churned,5,Sophie L.
+CL00159,Chauvin,Services B2B,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-12-07,LinkedIn Ads,Michelle Philippe,michelle.philippe@chauvin.fr,Churned,6,Sophie L.
+CL00160,Allain et Fils,Education & Formation,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-05-07,Google Ads,Véronique Techer,véronique.techer@allainetfils.fr,Churned,4,Karim T.
+CL00161,Henry Grenier SARL,Retail & E-commerce,TPE (1-10),Bretagne,Standard,2025-11-06,LinkedIn Ads,Claude Pottier,claude.pottier@henrygreniersarl.fr,Customer Active,7,Sophie L.
+CL00162,Moreno SA,Retail & E-commerce,PME (11-250),Île-de-France,Standard,2024-01-02,Referral,Adélaïde Rossi,adélaïde.rossi@morenosa.fr,Churned,8,Marie D.
+CL00163,Peltier,Médias & Communication,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-03-07,Direct,Alexandrie Muller,alexandrie.muller@peltier.fr,Customer Active,8,Amine B.
+CL00164,Richard,Retail & E-commerce,PME (11-250),Hauts-de-France,Starter,2025-11-02,Direct,Claude De Oliveira,claude.de oliveira@richard.fr,Churned,6,Karim T.
+CL00165,Gautier,Services B2B,PME (11-250),Nouvelle-Aquitaine,Starter,2024-10-15,Content/SEO,Aurore Étienne,aurore.étienne@gautier.fr,Customer Active,5,Amine B.
+CL00166,Neveu,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-10-22,LinkedIn Ads,Honoré Gay,honoré.gay@neveu.fr,Customer Active,8,Léa M.
+CL00167,Peron Barbe et Fils,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-04-07,Events/Salons,Richard Chauvet,richard.chauvet@peronbarbeetfils.fr,Customer Active,8,Yanis F.
+CL00168,Turpin,Retail & E-commerce,TPE (1-10),Normandie,Standard,2025-01-06,Google Ads,Bernadette Foucher,bernadette.foucher@turpin.fr,Customer Active,9,Yanis F.
+CL00169,Breton,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2024-08-14,Google Ads,Dominique Moulin,dominique.moulin@breton.fr,Customer Active,6,Amine B.
+CL00170,Lopes S.A.R.L.,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-07-16,Email Marketing,Patrick Hamel,patrick.hamel@lopess.a.r.l..fr,Customer Active,6,Léa M.
+CL00171,Colas,Retail & E-commerce,PME (11-250),Occitanie,Premium,2025-06-07,Direct,Juliette Laroche,juliette.laroche@colas.fr,Customer Champion,9,Karim T.
+CL00172,Marques,Services B2B,ETI (251-5000),Île-de-France,Standard,2025-11-12,Events/Salons,Antoine Costa,antoine.costa@marques.fr,Customer Active,6,Sophie L.
+CL00173,Vidal,Retail & E-commerce,ETI (251-5000),Île-de-France,Standard,2025-07-03,Content/SEO,Claire Lecomte,claire.lecomte@vidal.fr,Customer Active,8,Yanis F.
+CL00174,Poirier,Santé & Pharma,TPE (1-10),Hauts-de-France,Standard,2025-05-03,LinkedIn Ads,Zacharie Guyot,zacharie.guyot@poirier.fr,Customer Active,7,Karim T.
+CL00175,Berthelot,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2025-04-22,Email Marketing,Alain Blondel,alain.blondel@berthelot.fr,Churned,7,Amine B.
+CL00176,Clément Guillot et Fils,Tech & SaaS,PME (11-250),Normandie,Starter,2024-03-04,Outbound Sales,Anouk Camus,anouk.camus@clémentguillotetfils.fr,Customer Active,6,Yanis F.
+CL00177,Blot Ollivier et Fils,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2025-04-13,Direct,Michèle Marin,michèle.marin@blotollivieretfils.fr,Customer Active,5,Marie D.
+CL00178,Durand,Tech & SaaS,TPE (1-10),Occitanie,Premium,2024-04-13,Referral,Éric Cousin,éric.cousin@durand.fr,Customer Champion,9,Karim T.
+CL00179,Lebon Jacquot S.A.,Tech & SaaS,PME (11-250),Île-de-France,Standard,2026-04-16,Direct,Thibault Dupré,thibault.dupré@lebonjacquots.a..fr,Customer Active,9,Yanis F.
+CL00180,Reynaud,Tech & SaaS,ETI (251-5000),Hauts-de-France,Standard,2025-12-01,Direct,Françoise Laporte,françoise.laporte@reynaud.fr,Customer Active,8,Yanis F.
+CL00181,Lamy,Services B2B,PME (11-250),Île-de-France,Standard,2025-04-14,Events/Salons,Noémi Dias,noémi.dias@lamy.fr,Customer Active,6,Sophie L.
+CL00182,Benard,Finance & Assurance,TPE (1-10),Bretagne,Standard,2024-05-17,Email Marketing,Martine De Sousa,martine.de sousa@benard.fr,Customer Active,6,Marie D.
+CL00183,Schneider,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-04-13,Google Ads,Philippe Grondin,philippe.grondin@schneider.fr,Customer Active,7,Marie D.
+CL00184,Mace S.A.,Retail & E-commerce,ETI (251-5000),Île-de-France,Starter,2026-02-06,LinkedIn Ads,Thomas Mathieu,thomas.mathieu@maces.a..fr,Customer Active,8,Sophie L.
+CL00185,Olivier Fabre et Fils,Services B2B,TPE (1-10),Pays de la Loire,Standard,2025-05-01,Direct,Christine Baron,christine.baron@olivierfabreetfils.fr,Customer Active,8,Yanis F.
+CL00186,Roussel,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-08-05,Content/SEO,Victoire Leclercq,victoire.leclercq@roussel.fr,Customer Active,7,Amine B.
+CL00187,Dumas,Retail & E-commerce,ETI (251-5000),Île-de-France,Standard,2026-01-03,Events/Salons,Agnès Colin,agnès.colin@dumas.fr,Customer Active,6,Karim T.
+CL00188,Garcia,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2024-08-15,Referral,Mathilde Joubert,mathilde.joubert@garcia.fr,Customer Active,7,Léa M.
+CL00189,Paris Lambert SA,Finance & Assurance,PME (11-250),Île-de-France,Standard,2025-11-23,Outbound Sales,Françoise Klein,françoise.klein@parislambertsa.fr,Customer Active,9,Sophie L.
+CL00190,Diaz Chrétien S.A.R.L.,Education & Formation,PME (11-250),Normandie,Standard,2024-01-20,Email Marketing,François Richard,françois.richard@diazchrétiens.a.r.l..fr,Customer Active,6,Marie D.
+CL00191,Lelièvre,Services B2B,TPE (1-10),Île-de-France,Premium,2025-12-18,Google Ads,Christiane Besnard,christiane.besnard@lelièvre.fr,Customer Champion,9,Yanis F.
+CL00192,Gonzalez,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-10-12,Referral,Bernard Fleury,bernard.fleury@gonzalez.fr,Customer Active,6,Karim T.
+CL00193,Noël,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Premium,2025-04-12,LinkedIn Ads,Valentine François,valentine.françois@noël.fr,Customer Active,4,Karim T.
+CL00194,Marin,Services B2B,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2026-03-10,LinkedIn Ads,David Verdier,david.verdier@marin.fr,Customer Active,7,Yanis F.
+CL00195,Fernandes S.A.,Tech & SaaS,PME (11-250),Île-de-France,Starter,2025-03-17,Email Marketing,Suzanne Thibault,suzanne.thibault@fernandess.a..fr,Customer Active,7,Yanis F.
+CL00196,Clément,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-09-11,Email Marketing,Paul Lemaire,paul.lemaire@clément.fr,Customer Active,4,Yanis F.
+CL00197,Seguin,Services B2B,PME (11-250),Grand Est,Standard,2026-04-13,LinkedIn Ads,Jeannine Maurice,jeannine.maurice@seguin.fr,Prospect,9,Marie D.
+CL00198,Diallo Barbe S.A.R.L.,Services B2B,TPE (1-10),Île-de-France,Standard,2026-04-07,Referral,Catherine Pichon,catherine.pichon@diallobarbes.a.r.l..fr,Prospect,9,Yanis F.
+CL00199,Pruvost,Education & Formation,TPE (1-10),Île-de-France,Standard,2024-01-27,Google Ads,Aurélie Schneider,aurélie.schneider@pruvost.fr,Customer Active,7,Yanis F.
+CL00200,Bourdon et Fils,Industrie & Manufacturing,PME (11-250),Île-de-France,Premium,2026-02-22,Google Ads,Eugène Ledoux,eugène.ledoux@bourdonetfils.fr,Customer Active,4,Karim T.
+CL00201,Toussaint Lecomte SARL,Education & Formation,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-11-16,Direct,Margaud Faure,margaud.faure@toussaintlecomtesarl.fr,Customer Active,8,Sophie L.
+CL00202,Dupuis Giraud S.A.S.,Santé & Pharma,TPE (1-10),Normandie,Standard,2024-07-28,Email Marketing,Denis Barbier,denis.barbier@dupuisgirauds.a.s..fr,Customer Active,7,Karim T.
+CL00203,Lejeune S.A.R.L.,Services B2B,ETI (251-5000),Grand Est,Standard,2025-02-12,Referral,Marie Valentin,marie.valentin@lejeunes.a.r.l..fr,Customer Active,9,Karim T.
+CL00204,Klein,Industrie & Manufacturing,TPE (1-10),Île-de-France,Starter,2024-10-20,LinkedIn Ads,Arthur Grondin,arthur.grondin@klein.fr,Customer Active,5,Yanis F.
+CL00205,Munoz,Industrie & Manufacturing,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2024-07-01,LinkedIn Ads,Roland Boutin,roland.boutin@munoz.fr,Customer Active,6,Amine B.
+CL00206,Guérin,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2026-02-09,Content/SEO,Marianne Rey,marianne.rey@guérin.fr,Churned,7,Marie D.
+CL00207,Toussaint,Retail & E-commerce,ETI (251-5000),Pays de la Loire,Standard,2026-03-01,Google Ads,Jacqueline Peltier,jacqueline.peltier@toussaint.fr,Customer Active,8,Marie D.
+CL00208,Lamy Noël S.A.S.,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2026-02-11,Outbound Sales,Maurice Jourdan,maurice.jourdan@lamynoëls.a.s..fr,Customer Active,5,Léa M.
+CL00209,Da Costa Blanchard SA,Tech & SaaS,PME (11-250),Grand Est,Standard,2026-03-05,Direct,Charles Gaillard,charles.gaillard@dacostablanchardsa.fr,Customer Active,8,Amine B.
+CL00210,Valentin,Tech & SaaS,ETI (251-5000),Île-de-France,Starter,2025-04-28,Referral,Océane Colas,océane.colas@valentin.fr,Customer Active,7,Amine B.
+CL00211,Navarro,Tech & SaaS,PME (11-250),Île-de-France,Starter,2025-03-05,Direct,Gérard Bigot,gérard.bigot@navarro.fr,Churned,5,Karim T.
+CL00212,Bonnin,Services B2B,TPE (1-10),Hauts-de-France,Standard,2024-09-08,Content/SEO,Anne Maillard,anne.maillard@bonnin.fr,Customer Active,9,Amine B.
+CL00213,Navarro,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2025-07-23,Email Marketing,Édouard Joseph,édouard.joseph@navarro.fr,Customer Active,7,Sophie L.
+CL00214,Lesage et Fils,Services B2B,PME (11-250),Île-de-France,Standard,2024-10-07,Google Ads,Tristan Texier,tristan.texier@lesageetfils.fr,Customer Active,6,Amine B.
+CL00215,Michel,Finance & Assurance,PME (11-250),Grand Est,Standard,2025-08-06,Direct,Éric Rolland,éric.rolland@michel.fr,Customer Active,8,Sophie L.
+CL00216,Salmon et Fils,Santé & Pharma,PME (11-250),Normandie,Standard,2026-03-25,Direct,Valentine Royer,valentine.royer@salmonetfils.fr,Customer Active,9,Yanis F.
+CL00217,Ledoux S.A.,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Starter,2025-12-03,Referral,Charlotte Paul,charlotte.paul@ledouxs.a..fr,Customer Active,6,Amine B.
+CL00218,Lopes,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-04-25,Google Ads,Jules Mary,jules.mary@lopes.fr,Customer Active,8,Karim T.
+CL00219,Bousquet,Services B2B,PME (11-250),Pays de la Loire,Standard,2025-08-01,LinkedIn Ads,Sylvie Marin,sylvie.marin@bousquet.fr,Customer Active,7,Karim T.
+CL00220,Lelièvre SARL,Santé & Pharma,PME (11-250),Grand Est,Standard,2024-02-19,Events/Salons,Anouk Le Roux,anouk.le roux@lelièvresarl.fr,Customer Active,7,Amine B.
+CL00221,Leconte,Tech & SaaS,ETI (251-5000),Bretagne,Premium,2024-10-20,Outbound Sales,François Renard,françois.renard@leconte.fr,Customer Active,8,Sophie L.
+CL00222,Bouchet,Services B2B,PME (11-250),Normandie,Standard,2024-04-25,Outbound Sales,Marine Costa,marine.costa@bouchet.fr,Customer Active,9,Léa M.
+CL00223,Dupré,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-11-15,Email Marketing,Andrée Samson,andrée.samson@dupré.fr,Customer Active,7,Karim T.
+CL00224,De Sousa SA,Education & Formation,PME (11-250),Grand Est,Starter,2024-04-18,Content/SEO,Thomas Fleury,thomas.fleury@desousasa.fr,Customer Active,8,Karim T.
+CL00225,Ferreira,Santé & Pharma,TPE (1-10),Île-de-France,Starter,2024-07-14,Events/Salons,Pénélope Antoine,pénélope.antoine@ferreira.fr,Customer Active,4,Karim T.
+CL00226,Descamps S.A.S.,Finance & Assurance,TPE (1-10),Île-de-France,Premium,2025-10-13,LinkedIn Ads,Célina Pasquier,célina.pasquier@descampss.a.s..fr,Customer Champion,10,Yanis F.
+CL00227,Roche S.A.S.,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2026-01-12,Events/Salons,Agnès Loiseau,agnès.loiseau@roches.a.s..fr,Customer Active,6,Léa M.
+CL00228,Toussaint,Finance & Assurance,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-07-18,Events/Salons,Capucine Samson,capucine.samson@toussaint.fr,Customer Active,5,Amine B.
+CL00229,Martins SARL,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-07-15,Outbound Sales,Emmanuelle Payet,emmanuelle.payet@martinssarl.fr,Customer Active,5,Karim T.
+CL00230,Navarro,Education & Formation,ETI (251-5000),Nouvelle-Aquitaine,Starter,2025-02-25,Email Marketing,Marthe Vallée,marthe.vallée@navarro.fr,Customer Active,7,Sophie L.
+CL00231,Leroy et Fils,Santé & Pharma,TPE (1-10),Île-de-France,Starter,2024-06-05,Google Ads,Julie Dupuis,julie.dupuis@leroyetfils.fr,Customer Active,7,Marie D.
+CL00232,Langlois Courtois SA,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2026-04-03,Direct,Françoise Cordier,françoise.cordier@langloiscourtoissa.fr,Customer Active,9,Amine B.
+CL00233,Jean SA,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-09-08,Events/Salons,Célina Lemaire,célina.lemaire@jeansa.fr,Customer Active,7,Marie D.
+CL00234,Didier Auger SARL,Tech & SaaS,TPE (1-10),Bretagne,Standard,2025-07-25,Outbound Sales,Danielle Munoz,danielle.munoz@didieraugersarl.fr,Customer Active,7,Léa M.
+CL00235,Legros,Médias & Communication,PME (11-250),Île-de-France,Standard,2024-04-09,Google Ads,Victoire Guillet,victoire.guillet@legros.fr,Customer Active,7,Yanis F.
+CL00236,Berger,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2024-11-19,Content/SEO,Cécile Courtois,cécile.courtois@berger.fr,Customer Active,6,Yanis F.
+CL00237,Jacob Aubert S.A.S.,Retail & E-commerce,TPE (1-10),Île-de-France,Premium,2025-10-10,Events/Salons,Danielle Letellier,danielle.letellier@jacobauberts.a.s..fr,Customer Champion,10,Amine B.
+CL00238,Muller Baron S.A.R.L.,Finance & Assurance,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-08-09,Email Marketing,Zacharie Guillou,zacharie.guillou@mullerbarons.a.r.l..fr,Customer Active,9,Sophie L.
+CL00239,Bernard,Education & Formation,TPE (1-10),Grand Est,Standard,2025-04-13,Direct,Roland Pages,roland.pages@bernard.fr,Customer Active,9,Yanis F.
+CL00240,Coste,Tech & SaaS,PME (11-250),Île-de-France,Starter,2024-10-26,Outbound Sales,Inès Delmas,inès.delmas@coste.fr,Customer Active,4,Léa M.
+CL00241,Gérard,Industrie & Manufacturing,TPE (1-10),Île-de-France,Premium,2024-03-04,Direct,Caroline Tanguy,caroline.tanguy@gérard.fr,Customer Active,2,Amine B.
+CL00242,Barre,Retail & E-commerce,PME (11-250),Nouvelle-Aquitaine,Standard,2025-03-06,Content/SEO,Xavier Courtois,xavier.courtois@barre.fr,Churned,9,Marie D.
+CL00243,Pineau,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-12-16,Referral,Tristan Roche,tristan.roche@pineau.fr,Customer Active,9,Léa M.
+CL00244,Masse Jacob S.A.,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2024-04-01,Events/Salons,Philippine Bouchet,philippine.bouchet@massejacobs.a..fr,Customer Active,8,Amine B.
+CL00245,Prévost et Fils,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Standard,2026-03-27,Events/Salons,Christelle Munoz,christelle.munoz@prévostetfils.fr,Customer Active,6,Léa M.
+CL00246,Collin,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Premium,2025-10-08,LinkedIn Ads,Margaud Gilles,margaud.gilles@collin.fr,Customer Active,8,Léa M.
+CL00247,Costa Da Silva S.A.,Retail & E-commerce,ETI (251-5000),Normandie,Starter,2025-07-02,Outbound Sales,Constance Maury,constance.maury@costadasilvas.a..fr,Churned,5,Léa M.
+CL00248,Roussel,Santé & Pharma,TPE (1-10),Île-de-France,Starter,2026-01-25,Outbound Sales,Camille Besnard,camille.besnard@roussel.fr,Customer Active,8,Sophie L.
+CL00249,Laine S.A.R.L.,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-12-24,Events/Salons,Alexandre Mace,alexandre.mace@laines.a.r.l..fr,Customer Active,4,Marie D.
+CL00250,Lejeune Bègue S.A.,Industrie & Manufacturing,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-04-27,Direct,Denis Lelièvre,denis.lelièvre@lejeunebègues.a..fr,Customer Active,2,Léa M.
+CL00251,Maillot,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2024-02-15,Outbound Sales,Laurence Jacquot,laurence.jacquot@maillot.fr,Customer Active,7,Sophie L.
+CL00252,Delahaye,Industrie & Manufacturing,PME (11-250),Île-de-France,Standard,2025-06-23,Content/SEO,Édouard Boulanger,édouard.boulanger@delahaye.fr,Customer Active,3,Marie D.
+CL00253,Prévost,Services B2B,PME (11-250),Nouvelle-Aquitaine,Premium,2024-03-13,Google Ads,Lorraine Wagner,lorraine.wagner@prévost.fr,Customer Champion,10,Yanis F.
+CL00254,Allard,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2024-05-11,Content/SEO,Auguste Maurice,auguste.maurice@allard.fr,Churned,6,Amine B.
+CL00255,Huet et Fils,Santé & Pharma,PME (11-250),Île-de-France,Premium,2025-01-01,Referral,Marianne Hervé,marianne.hervé@huetetfils.fr,Customer Champion,10,Marie D.
+CL00256,Letellier Robin S.A.R.L.,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Premium,2024-10-03,Outbound Sales,Eugène Samson,eugène.samson@letellierrobins.a.r..fr,Customer Active,8,Sophie L.
+CL00257,Hebert S.A.,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Premium,2024-11-20,Content/SEO,Marine Ribeiro,marine.ribeiro@heberts.a..fr,Customer Champion,9,Sophie L.
+CL00258,Lambert SARL,Retail & E-commerce,ETI (251-5000),Grand Est,Standard,2025-10-28,Referral,Stéphanie Lefèvre,stéphanie.lefèvre@lambertsarl.fr,Customer Active,9,Sophie L.
+CL00259,Pelletier,Retail & E-commerce,PME (11-250),Occitanie,Standard,2026-03-18,Email Marketing,Alix Perret,alix.perret@pelletier.fr,Customer Active,7,Marie D.
+CL00260,Moulin Laporte S.A.R.L.,Santé & Pharma,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-08-14,Direct,Geneviève Normand,geneviève.normand@moulinlaportes.a.r.l.fr,Customer Active,9,Yanis F.
+CL00261,Picard Roger SA,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-10-04,Google Ads,Juliette Weber,juliette.weber@picardrogersa.fr,Churned,8,Yanis F.
+CL00262,Mahe Guillon S.A.,Services B2B,ETI (251-5000),Île-de-France,Starter,2024-01-23,Events/Salons,Nicolas Pinto,nicolas.pinto@maheguillons.a..fr,Customer Active,4,Yanis F.
+CL00263,Jacques,Santé & Pharma,PME (11-250),Île-de-France,Standard,2024-12-14,Direct,Pierre Martineau,pierre.martineau@jacques.fr,Churned,9,Léa M.
+CL00264,Turpin SARL,Retail & E-commerce,PME (11-250),Bretagne,Standard,2025-02-11,Referral,Margaret Morvan,margaret.morvan@turpinsarl.fr,Customer Active,8,Yanis F.
+CL00265,Legrand Pichon SARL,Finance & Assurance,TPE (1-10),Île-de-France,Standard,2025-05-20,Google Ads,Jacqueline Ribeiro,jacqueline.ribeiro@legrandpichonsarl.fr,Customer Active,6,Marie D.
+CL00266,Blot,Education & Formation,TPE (1-10),Occitanie,Premium,2025-07-04,LinkedIn Ads,Philippe Pineau,philippe.pineau@blot.fr,Customer Active,8,Marie D.
+CL00267,Philippe,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2025-05-09,Referral,Alice Guillet,alice.guillet@philippe.fr,Churned,8,Léa M.
+CL00268,Gomez S.A.R.L.,Retail & E-commerce,ETI (251-5000),Île-de-France,Starter,2025-02-14,Direct,Henriette Pelletier,henriette.pelletier@gomezs.a.r.l..fr,Customer Active,6,Karim T.
+CL00269,Bonnin,Santé & Pharma,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-06-25,Email Marketing,Théodore Simon,théodore.simon@bonnin.fr,Churned,8,Yanis F.
+CL00270,Paris,Retail & E-commerce,TPE (1-10),Occitanie,Starter,2024-01-20,Direct,Alain Moreno,alain.moreno@paris.fr,Churned,8,Amine B.
+CL00271,Seguin et Fils,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-04-21,Direct,Colette Renault,colette.renault@seguinetfils.fr,Customer Active,9,Yanis F.
+CL00272,Seguin Benard S.A.,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2026-01-21,Email Marketing,Luce Aubert,luce.aubert@seguinbenards.a..fr,Customer Active,6,Yanis F.
+CL00273,Potier,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-04-01,Content/SEO,Olivie Mace,olivie.mace@potier.fr,Customer Active,8,Marie D.
+CL00274,Techer Pereira et Fils,Retail & E-commerce,PME (11-250),Hauts-de-France,Starter,2025-05-14,Direct,Madeleine Fournier,madeleine.fournier@techerpereiraetfils.fr,Customer Active,6,Marie D.
+CL00275,Besnard,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-07-25,Google Ads,Arthur Delorme,arthur.delorme@besnard.fr,Customer Active,9,Amine B.
+CL00276,Foucher,Tech & SaaS,PME (11-250),Nouvelle-Aquitaine,Standard,2024-11-22,Outbound Sales,Gilles Robin,gilles.robin@foucher.fr,Customer Active,7,Amine B.
+CL00277,Millet,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Premium,2024-09-24,Google Ads,Océane Legros,océane.legros@millet.fr,Customer Champion,9,Léa M.
+CL00278,Bourgeois Payet S.A.S.,Santé & Pharma,PME (11-250),Auvergne-Rhône-Alpes,Starter,2025-03-06,Content/SEO,Aimée Laporte,aimée.laporte@bourgeoispayets.a.s..fr,Customer Active,4,Yanis F.
+CL00279,Gaillard,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2024-07-06,Referral,Pierre Leduc,pierre.leduc@gaillard.fr,Customer Active,7,Amine B.
+CL00280,Letellier,Industrie & Manufacturing,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-04-07,LinkedIn Ads,Yves Noël,yves.noël@letellier.fr,Customer Active,5,Léa M.
+CL00281,Sanchez,Industrie & Manufacturing,PME (11-250),Île-de-France,Starter,2024-03-28,Content/SEO,Guy Faivre,guy.faivre@sanchez.fr,Customer Active,4,Amine B.
+CL00282,Labbé Ramos et Fils,Tech & SaaS,PME (11-250),Île-de-France,Starter,2026-01-06,Direct,Anastasie Pascal,anastasie.pascal@labbéramosetfils.fr,Customer Active,8,Amine B.
+CL00283,Robin,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2024-04-28,Email Marketing,Sophie Delaunay,sophie.delaunay@robin.fr,Customer Active,7,Yanis F.
+CL00284,Aubry S.A.S.,Tech & SaaS,PME (11-250),Normandie,Standard,2024-09-03,LinkedIn Ads,Gérard De Sousa,gérard.de sousa@aubrys.a.s..fr,Customer Active,9,Léa M.
+CL00285,Maillet,Tech & SaaS,PME (11-250),Île-de-France,Starter,2026-01-07,Events/Salons,Océane Maillet,océane.maillet@maillet.fr,Customer Active,7,Marie D.
+CL00286,Mary,Retail & E-commerce,PME (11-250),Hauts-de-France,Starter,2024-08-16,LinkedIn Ads,Alex Diaz,alex.diaz@mary.fr,Customer Active,8,Yanis F.
+CL00287,Nicolas,Retail & E-commerce,PME (11-250),Hauts-de-France,Starter,2026-01-16,Events/Salons,Margot Rey,margot.rey@nicolas.fr,Customer Active,4,Karim T.
+CL00288,Laurent,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-07-19,Content/SEO,Laure Guilbert,laure.guilbert@laurent.fr,Customer Active,7,Sophie L.
+CL00289,Bourdon,Santé & Pharma,TPE (1-10),Pays de la Loire,Starter,2024-08-29,Outbound Sales,Matthieu Jourdan,matthieu.jourdan@bourdon.fr,Churned,4,Marie D.
+CL00290,Bousquet S.A.R.L.,Tech & SaaS,ETI (251-5000),Île-de-France,Standard,2025-12-13,Outbound Sales,Martine Hernandez,martine.hernandez@bousquets.a.r.l..fr,Customer Active,9,Yanis F.
+CL00291,Ferreira,Services B2B,TPE (1-10),Bretagne,Standard,2024-04-22,Direct,Guillaume Lambert,guillaume.lambert@ferreira.fr,Customer Active,8,Marie D.
+CL00292,Bailly S.A.R.L.,Tech & SaaS,PME (11-250),Grand Est,Starter,2025-07-06,Content/SEO,Gabriel Pereira,gabriel.pereira@baillys.a.r.l..fr,Customer Active,4,Amine B.
+CL00293,Tanguy Dufour S.A.R.L.,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Premium,2025-02-09,Direct,Cécile Lemaître,cécile.lemaître@tanguydufours.a.r.l..fr,Customer Active,8,Karim T.
+CL00294,Coste,Tech & SaaS,TPE (1-10),Grand Est,Premium,2024-04-22,Email Marketing,Noémi Petitjean,noémi.petitjean@coste.fr,Customer Champion,9,Amine B.
+CL00295,Legros Bègue SA,Services B2B,TPE (1-10),Normandie,Premium,2025-10-20,Referral,Victoire Camus,victoire.camus@legrosbèguesa.fr,Customer Active,8,Amine B.
+CL00296,Guyot,Tech & SaaS,PME (11-250),Bretagne,Standard,2024-10-25,Content/SEO,Arthur Blot,arthur.blot@guyot.fr,Customer Active,7,Amine B.
+CL00297,Carpentier,Services B2B,TPE (1-10),Normandie,Standard,2025-10-02,Google Ads,Capucine Hebert,capucine.hebert@carpentier.fr,Customer Active,8,Sophie L.
+CL00298,Étienne Perrin et Fils,Services B2B,TPE (1-10),Bretagne,Premium,2025-05-26,Events/Salons,Alexandrie Devaux,alexandrie.devaux@étienneperrinetfils.fr,Customer Champion,9,Sophie L.
+CL00299,Bonnet,Tech & SaaS,TPE (1-10),Hauts-de-France,Starter,2025-05-31,Events/Salons,Anastasie Baron,anastasie.baron@bonnet.fr,Customer Active,5,Amine B.
+CL00300,Rivière De Sousa SA,Services B2B,PME (11-250),Normandie,Starter,2025-03-01,Outbound Sales,Margaud Lecomte,margaud.lecomte@rivièredesousasa.fr,Customer Active,5,Léa M.
+CL00301,Girard SARL,Santé & Pharma,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2024-12-24,LinkedIn Ads,Patrick Marchand,patrick.marchand@girardsarl.fr,Churned,8,Sophie L.
+CL00302,Muller Salmon S.A.S.,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-02-03,Referral,Marc Coste,marc.coste@mullersalmons.a.s..fr,Customer Active,9,Karim T.
+CL00303,Rey Boulanger S.A.,Santé & Pharma,TPE (1-10),Île-de-France,Premium,2025-06-29,Outbound Sales,Simone Godard,simone.godard@reyboulangers.a..fr,Customer Active,8,Karim T.
+CL00304,Baron S.A.,Industrie & Manufacturing,PME (11-250),Île-de-France,Standard,2025-06-23,Direct,Gilles Gimenez,gilles.gimenez@barons.a..fr,Churned,3,Amine B.
+CL00305,Roger,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2025-01-04,Direct,Frédéric Peltier,frédéric.peltier@roger.fr,Churned,4,Amine B.
+CL00306,Payet SA,Santé & Pharma,TPE (1-10),Provence-Alpes-Côte d'Azur,Starter,2024-01-10,Email Marketing,Agathe Gomez,agathe.gomez@payetsa.fr,Churned,6,Yanis F.
+CL00307,Durand,Finance & Assurance,PME (11-250),Île-de-France,Starter,2024-08-16,Email Marketing,Jérôme Aubry,jérôme.aubry@durand.fr,Customer Active,4,Léa M.
+CL00308,Marchand et Fils,Santé & Pharma,PME (11-250),Île-de-France,Starter,2025-06-18,Google Ads,Astrid Laine,astrid.laine@marchandetfils.fr,Customer Active,5,Amine B.
+CL00309,Vallet SA,Services B2B,TPE (1-10),Provence-Alpes-Côte d'Azur,Premium,2025-05-03,Events/Salons,Christelle Pons,christelle.pons@valletsa.fr,Churned,8,Karim T.
+CL00310,Blanchet,Tech & SaaS,ETI (251-5000),Île-de-France,Starter,2026-02-22,Direct,Jeanne Nicolas,jeanne.nicolas@blanchet.fr,Churned,7,Sophie L.
+CL00311,Gaudin,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Premium,2026-02-18,Direct,Matthieu Bonneau,matthieu.bonneau@gaudin.fr,Customer Active,8,Yanis F.
+CL00312,Petitjean et Fils,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2026-04-15,Events/Salons,Dorothée Hernandez,dorothée.hernandez@petitjeanetfils.fr,Prospect,8,Karim T.
+CL00313,Weiss,Retail & E-commerce,PME (11-250),Grand Est,Standard,2024-11-09,Email Marketing,Antoine Bonnet,antoine.bonnet@weiss.fr,Customer Active,9,Yanis F.
+CL00314,Maréchal,Santé & Pharma,PME (11-250),Île-de-France,Starter,2025-09-15,LinkedIn Ads,Aurélie Torres,aurélie.torres@maréchal.fr,Customer Active,8,Léa M.
+CL00315,Marin et Fils,Education & Formation,TPE (1-10),Nouvelle-Aquitaine,Starter,2026-01-16,Direct,Capucine Legrand,capucine.legrand@marinetfils.fr,Churned,4,Léa M.
+CL00316,Lebrun S.A.S.,Education & Formation,ETI (251-5000),Île-de-France,Standard,2024-12-23,LinkedIn Ads,William François,william.françois@lebruns.a.s..fr,Customer Active,7,Marie D.
+CL00317,Paris Ferrand et Fils,Retail & E-commerce,ETI (251-5000),Île-de-France,Premium,2025-08-19,Google Ads,Isabelle Lévy,isabelle.lévy@parisferrandetfils.fr,Customer Champion,9,Amine B.
+CL00318,Weber,Retail & E-commerce,ETI (251-5000),Île-de-France,Standard,2025-04-28,Email Marketing,Jeannine Laporte,jeannine.laporte@weber.fr,Customer Active,9,Yanis F.
+CL00319,De Sousa,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2024-09-27,Referral,Corinne Texier,corinne.texier@desousa.fr,Churned,5,Karim T.
+CL00320,Perrin,Tech & SaaS,TPE (1-10),Grand Est,Standard,2024-09-24,Content/SEO,Stéphanie Boutin,stéphanie.boutin@perrin.fr,Customer Active,6,Yanis F.
+CL00321,Bègue et Fils,Services B2B,PME (11-250),Île-de-France,Starter,2024-09-15,Google Ads,Pauline Courtois,pauline.courtois@bègueetfils.fr,Customer Active,5,Karim T.
+CL00322,Perret Sauvage S.A.,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2024-02-11,Events/Salons,Antoinette Maillot,antoinette.maillot@perretsauvages.a..fr,Customer Active,8,Sophie L.
+CL00323,Alexandre,Industrie & Manufacturing,TPE (1-10),Île-de-France,Starter,2025-01-28,Outbound Sales,Arnaude Chauveau,arnaude.chauveau@alexandre.fr,Churned,3,Karim T.
+CL00324,Bouvier S.A.R.L.,Finance & Assurance,TPE (1-10),Hauts-de-France,Starter,2025-08-07,LinkedIn Ads,Thomas Chartier,thomas.chartier@bouviers.a.r.l..fr,Churned,4,Marie D.
+CL00325,Besson,Tech & SaaS,PME (11-250),Occitanie,Premium,2025-11-19,Outbound Sales,Honoré Torres,honoré.torres@besson.fr,Customer Active,8,Marie D.
+CL00326,Mercier,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-11-30,Google Ads,Éric Clément,éric.clément@mercier.fr,Customer Active,7,Karim T.
+CL00327,Lesage SA,Services B2B,PME (11-250),Hauts-de-France,Standard,2024-05-06,Outbound Sales,Noémi Rousset,noémi.rousset@lesagesa.fr,Churned,9,Sophie L.
+CL00328,Dumont,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2024-04-26,Events/Salons,Frédérique Lopez,frédérique.lopez@dumont.fr,Customer Active,6,Yanis F.
+CL00329,Leconte,Santé & Pharma,PME (11-250),Bretagne,Standard,2024-11-01,Content/SEO,Gérard Bouchet,gérard.bouchet@leconte.fr,Churned,7,Marie D.
+CL00330,Chartier,Industrie & Manufacturing,TPE (1-10),Occitanie,Standard,2024-01-25,Email Marketing,Odette Briand,odette.briand@chartier.fr,Customer Active,6,Léa M.
+CL00331,Hervé S.A.S.,Services B2B,TPE (1-10),Occitanie,Starter,2024-03-26,LinkedIn Ads,Thierry Benard,thierry.benard@hervés.a.s..fr,Customer Active,5,Léa M.
+CL00332,Verdier S.A.S.,Finance & Assurance,ETI (251-5000),Île-de-France,Standard,2024-11-26,Email Marketing,Marcel Meyer,marcel.meyer@verdiers.a.s..fr,Customer Active,8,Amine B.
+CL00333,Hubert,Education & Formation,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-08-19,Outbound Sales,Camille Nicolas,camille.nicolas@hubert.fr,Customer Active,9,Sophie L.
+CL00334,Berthelot,Tech & SaaS,PME (11-250),Île-de-France,Standard,2024-02-02,Email Marketing,Alexandrie Noël,alexandrie.noël@berthelot.fr,Customer Active,7,Karim T.
+CL00335,Baudry,Industrie & Manufacturing,PME (11-250),Île-de-France,Premium,2024-05-31,Direct,Maurice Gilbert,maurice.gilbert@baudry.fr,Customer Active,3,Léa M.
+CL00336,Raynaud et Fils,Education & Formation,TPE (1-10),Bretagne,Standard,2026-01-02,LinkedIn Ads,Véronique Lemonnier,véronique.lemonnier@raynaudetfils.fr,Customer Active,8,Léa M.
+CL00337,Leroy,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-09-15,Direct,Jules Maillard,jules.maillard@leroy.fr,Customer Active,8,Marie D.
+CL00338,Maillot,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2024-05-29,Outbound Sales,Adèle Robert,adèle.robert@maillot.fr,Customer Active,8,Léa M.
+CL00339,Meunier Moreno et Fils,Tech & SaaS,PME (11-250),Bretagne,Starter,2026-04-01,Google Ads,Andrée Muller,andrée.muller@meuniermorenoetfils.fr,Prospect,8,Karim T.
+CL00340,Traore Couturier SA,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2024-10-08,Outbound Sales,Éric Letellier,éric.letellier@traorecouturiersa.fr,Customer Active,8,Sophie L.
+CL00341,Mallet Humbert S.A.R.L.,Tech & SaaS,TPE (1-10),Île-de-France,Premium,2024-07-31,Content/SEO,Zacharie Barbier,zacharie.barbier@mallethumberts.a.r.l.fr,Customer Champion,10,Karim T.
+CL00342,Langlois,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-05-21,Events/Salons,Michelle Germain,michelle.germain@langlois.fr,Customer Active,7,Amine B.
+CL00343,Roux S.A.,Retail & E-commerce,TPE (1-10),Normandie,Premium,2025-12-20,Google Ads,Hugues Faivre,hugues.faivre@rouxs.a..fr,Customer Champion,9,Amine B.
+CL00344,Parent SA,Education & Formation,ETI (251-5000),Île-de-France,Starter,2024-03-04,Outbound Sales,Richard Pichon,richard.pichon@parentsa.fr,Customer Active,4,Marie D.
+CL00345,Vallée,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2025-05-31,Content/SEO,Julie Pichon,julie.pichon@vallée.fr,Customer Active,8,Yanis F.
+CL00346,Maillard,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-08-13,Events/Salons,Martin Faivre,martin.faivre@maillard.fr,Churned,7,Amine B.
+CL00347,Barre S.A.R.L.,Industrie & Manufacturing,PME (11-250),Auvergne-Rhône-Alpes,Premium,2024-03-15,Google Ads,Frédéric Jacquet,frédéric.jacquet@barres.a.r.l..fr,Customer Active,4,Karim T.
+CL00348,Laine,Industrie & Manufacturing,PME (11-250),Pays de la Loire,Standard,2024-04-08,Direct,Margot Le Gall,margot.le gall@laine.fr,Customer Active,5,Léa M.
+CL00349,Vasseur S.A.R.L.,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-11-10,Email Marketing,Joséphine Lefèvre,joséphine.lefèvre@vasseurs.a.r.l..fr,Customer Active,6,Yanis F.
+CL00350,Martins SARL,Services B2B,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-03-23,Google Ads,Marcel Gosselin,marcel.gosselin@martinssarl.fr,Customer Active,4,Yanis F.
+CL00351,Salmon Adam SARL,Santé & Pharma,PME (11-250),Auvergne-Rhône-Alpes,Starter,2024-12-22,Content/SEO,Victor Mathieu,victor.mathieu@salmonadamsarl.fr,Customer Active,4,Léa M.
+CL00352,Mahe et Fils,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-01-30,Google Ads,Aurore Roger,aurore.roger@maheetfils.fr,Churned,7,Léa M.
+CL00353,Gillet Rossi et Fils,Industrie & Manufacturing,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2026-04-07,Content/SEO,Michel Charrier,michel.charrier@gilletrossietfils.fr,Customer Active,3,Sophie L.
+CL00354,Guérin,Finance & Assurance,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2026-02-14,Email Marketing,Anastasie Traore,anastasie.traore@guérin.fr,Customer Active,8,Léa M.
+CL00355,Nguyen SA,Services B2B,PME (11-250),Grand Est,Premium,2024-01-11,Google Ads,Céline Garnier,céline.garnier@nguyensa.fr,Customer Champion,10,Marie D.
+CL00356,Bruneau,Finance & Assurance,ETI (251-5000),Provence-Alpes-Côte d'Azur,Premium,2025-10-07,Email Marketing,Aurélie Baudry,aurélie.baudry@bruneau.fr,Customer Champion,10,Léa M.
+CL00357,Lacombe,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2026-01-17,Google Ads,Lucie Delattre,lucie.delattre@lacombe.fr,Customer Active,9,Marie D.
+CL00358,Noël,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-08-13,Direct,Anne Lefebvre,anne.lefebvre@noël.fr,Customer Active,8,Amine B.
+CL00359,Picard,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-11-26,LinkedIn Ads,Suzanne Maurice,suzanne.maurice@picard.fr,Customer Active,7,Léa M.
+CL00360,Blot,Industrie & Manufacturing,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-01-12,Google Ads,Agnès Blanc,agnès.blanc@blot.fr,Customer Active,3,Karim T.
+CL00361,Gautier,Santé & Pharma,TPE (1-10),Île-de-France,Starter,2025-02-16,LinkedIn Ads,Patrick Nguyen,patrick.nguyen@gautier.fr,Customer Active,8,Yanis F.
+CL00362,Hardy,Services B2B,TPE (1-10),Pays de la Loire,Standard,2025-03-22,LinkedIn Ads,Édouard Delaunay,édouard.delaunay@hardy.fr,Customer Active,6,Léa M.
+CL00363,Vallet,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-08-22,LinkedIn Ads,Yves Louis,yves.louis@vallet.fr,Customer Active,6,Karim T.
+CL00364,Merle,Education & Formation,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-01-14,Events/Salons,Jean Garnier,jean.garnier@merle.fr,Customer Active,8,Yanis F.
+CL00365,Laporte S.A.S.,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Starter,2024-08-30,Events/Salons,Léon Diallo,léon.diallo@laportes.a.s..fr,Customer Active,5,Sophie L.
+CL00366,Marty,Tech & SaaS,PME (11-250),Grand Est,Premium,2024-12-14,Outbound Sales,Nathalie Imbert,nathalie.imbert@marty.fr,Customer Champion,10,Sophie L.
+CL00367,Huet Henry S.A.,Tech & SaaS,PME (11-250),Bretagne,Starter,2025-11-12,Direct,Pierre Philippe,pierre.philippe@huethenrys.a..fr,Customer Active,6,Karim T.
+CL00368,Marion Brunet et Fils,Tech & SaaS,PME (11-250),Nouvelle-Aquitaine,Starter,2024-10-23,Content/SEO,Denis Schmitt,denis.schmitt@marionbrunetetfils.fr,Churned,4,Léa M.
+CL00369,Barthelemy,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Standard,2026-04-02,Direct,Olivie Thibault,olivie.thibault@barthelemy.fr,Prospect,5,Léa M.
+CL00370,Bazin,Industrie & Manufacturing,TPE (1-10),Nouvelle-Aquitaine,Starter,2025-06-29,Email Marketing,Geneviève Weiss,geneviève.weiss@bazin.fr,Customer Active,3,Sophie L.
+CL00371,Techer,Industrie & Manufacturing,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-02-18,Google Ads,Thomas Fernandes,thomas.fernandes@techer.fr,Customer Active,2,Léa M.
+CL00372,Mercier,Retail & E-commerce,TPE (1-10),Île-de-France,Starter,2024-08-08,Referral,Charlotte Pichon,charlotte.pichon@mercier.fr,Customer Active,5,Yanis F.
+CL00373,Paris,Services B2B,PME (11-250),Bretagne,Standard,2025-08-07,Email Marketing,Jeanne Lefèvre,jeanne.lefèvre@paris.fr,Customer Active,7,Léa M.
+CL00374,Guillou,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2024-06-03,Events/Salons,David Ruiz,david.ruiz@guillou.fr,Customer Active,5,Léa M.
+CL00375,Sauvage,Tech & SaaS,TPE (1-10),Pays de la Loire,Standard,2025-07-10,Outbound Sales,Auguste Boyer,auguste.boyer@sauvage.fr,Customer Active,8,Sophie L.
+CL00376,Renault,Santé & Pharma,PME (11-250),Hauts-de-France,Starter,2025-12-25,LinkedIn Ads,Denis Imbert,denis.imbert@renault.fr,Customer Active,5,Léa M.
+CL00377,Bonneau S.A.S.,Retail & E-commerce,TPE (1-10),Pays de la Loire,Premium,2024-11-20,Google Ads,Corinne Jacob,corinne.jacob@bonneaus.a.s..fr,Customer Champion,9,Léa M.
+CL00378,Blin,Médias & Communication,TPE (1-10),Pays de la Loire,Standard,2026-01-29,LinkedIn Ads,Françoise Rousset,françoise.rousset@blin.fr,Customer Active,8,Sophie L.
+CL00379,Lebreton S.A.S.,Tech & SaaS,TPE (1-10),Grand Est,Standard,2025-06-23,Events/Salons,Manon Roche,manon.roche@lebretons.a.s..fr,Customer Active,9,Yanis F.
+CL00380,Texier,Retail & E-commerce,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-04-20,LinkedIn Ads,Christelle Charrier,christelle.charrier@texier.fr,Customer Active,7,Léa M.
+CL00381,Bonnet Lebreton SA,Services B2B,PME (11-250),Île-de-France,Premium,2026-01-29,Direct,Suzanne Le Goff,suzanne.le goff@bonnetlebretonsa.fr,Customer Active,8,Karim T.
+CL00382,Bodin et Fils,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2024-04-19,Email Marketing,Jérôme Fournier,jérôme.fournier@bodinetfils.fr,Customer Active,6,Marie D.
+CL00383,Neveu Navarro S.A.R.L.,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2025-03-22,Content/SEO,Édith Barbe,édith.barbe@neveunavarros.a.r.l..fr,Churned,5,Léa M.
+CL00384,Marchal Guichard SARL,Tech & SaaS,TPE (1-10),Normandie,Standard,2025-11-22,LinkedIn Ads,Amélie Lejeune,amélie.lejeune@marchalguichardsarl.fr,Customer Active,7,Yanis F.
+CL00385,Potier,Retail & E-commerce,PME (11-250),Grand Est,Standard,2025-11-05,Referral,Joséphine Roux,joséphine.roux@potier.fr,Customer Active,6,Marie D.
+CL00386,François,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-01-17,Content/SEO,Vincent Gauthier,vincent.gauthier@françois.fr,Customer Active,7,Yanis F.
+CL00387,Jacquet,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2024-01-08,Direct,Philippe Ramos,philippe.ramos@jacquet.fr,Customer Active,9,Amine B.
+CL00388,Le Roux Faure S.A.S.,Tech & SaaS,TPE (1-10),Île-de-France,Standard,2025-09-03,Google Ads,Margaud Blanchard,margaud.blanchard@lerouxfaures.a.s..fr,Customer Active,8,Léa M.
+CL00389,Ruiz,Retail & E-commerce,TPE (1-10),Provence-Alpes-Côte d'Azur,Starter,2024-10-31,Direct,Marcelle Rocher,marcelle.rocher@ruiz.fr,Customer Active,7,Amine B.
+CL00390,Dumont,Finance & Assurance,PME (11-250),Nouvelle-Aquitaine,Premium,2025-07-25,LinkedIn Ads,Jeannine Neveu,jeannine.neveu@dumont.fr,Customer Champion,10,Amine B.
+CL00391,Ruiz S.A.S.,Finance & Assurance,PME (11-250),Auvergne-Rhône-Alpes,Starter,2025-09-07,Email Marketing,Alexandria Weiss,alexandria.weiss@ruizs.a.s..fr,Churned,4,Sophie L.
+CL00392,Rodriguez,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2024-02-03,LinkedIn Ads,Marguerite Boutin,marguerite.boutin@rodriguez.fr,Churned,4,Amine B.
+CL00393,Imbert et Fils,Retail & E-commerce,PME (11-250),Normandie,Standard,2025-07-04,Direct,Audrey Grégoire,audrey.grégoire@imbertetfils.fr,Customer Active,8,Sophie L.
+CL00394,Moreau,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2024-12-07,Events/Salons,Agnès Ruiz,agnès.ruiz@moreau.fr,Churned,5,Yanis F.
+CL00395,Benoit Leblanc S.A.R.L.,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2024-02-19,Events/Salons,Léon Jean,léon.jean@benoitleblancs.a.r.l.fr,Customer Active,9,Karim T.
+CL00396,Meyer Garnier SARL,Tech & SaaS,PME (11-250),Occitanie,Starter,2024-11-01,Google Ads,Camille Roussel,camille.roussel@meyergarniersarl.fr,Churned,7,Karim T.
+CL00397,Peltier SARL,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Standard,2024-02-09,Events/Salons,Pauline Maurice,pauline.maurice@peltiersarl.fr,Customer Active,7,Yanis F.
+CL00398,Godard Mallet S.A.,Santé & Pharma,PME (11-250),Île-de-France,Standard,2024-10-14,Google Ads,Isaac Arnaud,isaac.arnaud@godardmallets.a..fr,Customer Active,8,Marie D.
+CL00399,Mace Navarro SA,Industrie & Manufacturing,PME (11-250),Hauts-de-France,Premium,2024-05-06,Outbound Sales,Antoinette Marchal,antoinette.marchal@macenavarrosa.fr,Customer Active,6,Léa M.
+CL00400,Hebert Bourdon SARL,Tech & SaaS,PME (11-250),Île-de-France,Starter,2026-01-09,LinkedIn Ads,Odette Bouvet,odette.bouvet@hebertbourdonsarl.fr,Customer Active,5,Karim T.
+CL00401,Rey,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Premium,2025-11-26,Content/SEO,Élisabeth Dupuis,élisabeth.dupuis@rey.fr,Customer Champion,9,Amine B.
+CL00402,Lelièvre,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-02-27,LinkedIn Ads,Victoire Leclercq,victoire.leclercq@lelièvre.fr,Customer Active,6,Léa M.
+CL00403,Potier,Finance & Assurance,PME (11-250),Nouvelle-Aquitaine,Standard,2025-06-26,Email Marketing,Henriette Besnard,henriette.besnard@potier.fr,Customer Active,6,Léa M.
+CL00404,Lecoq,Industrie & Manufacturing,PME (11-250),Nouvelle-Aquitaine,Standard,2024-10-09,Content/SEO,Roland Merle,roland.merle@lecoq.fr,Customer Active,2,Sophie L.
+CL00405,Gaudin,Industrie & Manufacturing,ETI (251-5000),Île-de-France,Standard,2024-10-17,Direct,Éléonore Humbert,éléonore.humbert@gaudin.fr,Customer Active,2,Karim T.
+CL00406,Bourgeois Texier S.A.,Services B2B,TPE (1-10),Île-de-France,Standard,2025-11-30,LinkedIn Ads,Philippe Roux,philippe.roux@bourgeoistexiers.a..fr,Customer Active,9,Yanis F.
+CL00407,Guichard,Retail & E-commerce,PME (11-250),Île-de-France,Standard,2024-06-11,Direct,Françoise Henry,françoise.henry@guichard.fr,Customer Active,6,Karim T.
+CL00408,Jacquet SA,Education & Formation,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-07-14,LinkedIn Ads,Paulette Renard,paulette.renard@jacquetsa.fr,Customer Active,9,Karim T.
+CL00409,Lebreton,Finance & Assurance,TPE (1-10),Provence-Alpes-Côte d'Azur,Starter,2025-03-08,Google Ads,Denise Caron,denise.caron@lebreton.fr,Customer Active,7,Marie D.
+CL00410,Robin,Finance & Assurance,TPE (1-10),Hauts-de-France,Standard,2024-09-30,Google Ads,Matthieu Lebreton,matthieu.lebreton@robin.fr,Customer Active,9,Léa M.
+CL00411,Michel,Tech & SaaS,TPE (1-10),Nouvelle-Aquitaine,Starter,2025-01-20,Email Marketing,Arnaude Vincent,arnaude.vincent@michel.fr,Customer Active,8,Yanis F.
+CL00412,Gaudin,Services B2B,TPE (1-10),Hauts-de-France,Standard,2026-03-07,Email Marketing,Alix Huet,alix.huet@gaudin.fr,Churned,7,Marie D.
+CL00413,Faure,Santé & Pharma,PME (11-250),Île-de-France,Premium,2026-03-26,Email Marketing,Alix Hubert,alix.hubert@faure.fr,Customer Active,9,Léa M.
+CL00414,Julien SA,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2025-08-27,Content/SEO,Virginie Delannoy,virginie.delannoy@juliensa.fr,Customer Active,4,Amine B.
+CL00415,Rodrigues,Services B2B,TPE (1-10),Grand Est,Standard,2024-05-03,Email Marketing,Guillaume Morel,guillaume.morel@rodrigues.fr,Customer Active,8,Amine B.
+CL00416,Georges,Tech & SaaS,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-10-29,Referral,Marthe Joly,marthe.joly@georges.fr,Customer Active,7,Marie D.
+CL00417,Pons,Industrie & Manufacturing,PME (11-250),Île-de-France,Standard,2024-07-21,Outbound Sales,Laetitia Thomas,laetitia.thomas@pons.fr,Customer Active,5,Yanis F.
+CL00418,Moreau SARL,Education & Formation,TPE (1-10),Grand Est,Standard,2025-08-06,Events/Salons,Martin Gérard,martin.gérard@moreausarl.fr,Customer Active,9,Léa M.
+CL00419,Masson,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-08-22,Events/Salons,Philippine Hervé,philippine.hervé@masson.fr,Customer Active,7,Sophie L.
+CL00420,Hernandez Rivière SA,Tech & SaaS,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-08-03,Content/SEO,Olivier Humbert,olivier.humbert@hernandezrivièresa.fr,Customer Active,8,Marie D.
+CL00421,Andre,Retail & E-commerce,PME (11-250),Île-de-France,Standard,2024-08-05,Email Marketing,Frédéric Didier,frédéric.didier@andre.fr,Customer Active,6,Marie D.
+CL00422,Lefort S.A.S.,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Premium,2025-12-18,Direct,Hortense Guillot,hortense.guillot@leforts.a.s..fr,Customer Champion,10,Sophie L.
+CL00423,Klein Gilbert SA,Tech & SaaS,PME (11-250),Auvergne-Rhône-Alpes,Standard,2024-06-05,LinkedIn Ads,Laetitia Benard,laetitia.benard@kleingilbertsa.fr,Customer Active,7,Marie D.
+CL00424,Masse Delattre S.A.,Retail & E-commerce,ETI (251-5000),Hauts-de-France,Standard,2024-10-08,Referral,Margot Laroche,margot.laroche@massedelattres.a..fr,Customer Active,6,Karim T.
+CL00425,Hardy SARL,Services B2B,ETI (251-5000),Île-de-France,Premium,2024-07-23,Outbound Sales,Daniel Laine,daniel.laine@hardysarl.fr,Customer Champion,9,Léa M.
+CL00426,Perrier S.A.R.L.,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2026-03-15,Events/Salons,Benjamin Bousquet,benjamin.bousquet@perriers.a.r.l..fr,Customer Active,6,Marie D.
+CL00427,Besson,Retail & E-commerce,PME (11-250),Île-de-France,Premium,2025-02-18,LinkedIn Ads,Philippe Letellier,philippe.letellier@besson.fr,Customer Champion,10,Marie D.
+CL00428,Hamon SA,Tech & SaaS,PME (11-250),Île-de-France,Standard,2025-06-17,Events/Salons,Adélaïde Guillot,adélaïde.guillot@hamonsa.fr,Customer Active,7,Yanis F.
+CL00429,Leleu S.A.S.,Industrie & Manufacturing,PME (11-250),Bretagne,Starter,2026-04-10,Google Ads,Nathalie Boulay,nathalie.boulay@leleus.a.s..fr,Customer Active,5,Amine B.
+CL00430,Lucas,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2024-03-03,Outbound Sales,Benjamin Benard,benjamin.benard@lucas.fr,Customer Active,7,Marie D.
+CL00431,Weiss,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-01-03,Referral,Jérôme Merle,jérôme.merle@weiss.fr,Customer Active,6,Amine B.
+CL00432,Grenier,Tech & SaaS,PME (11-250),Île-de-France,Premium,2026-02-28,Events/Salons,Christiane Lefort,christiane.lefort@grenier.fr,Customer Champion,9,Karim T.
+CL00433,Dufour Andre et Fils,Tech & SaaS,TPE (1-10),Île-de-France,Starter,2025-11-30,Events/Salons,Philippine Albert,philippine.albert@dufourandreetfils.fr,Customer Active,8,Marie D.
+CL00434,Cousin S.A.,Finance & Assurance,ETI (251-5000),Pays de la Loire,Standard,2024-09-10,Outbound Sales,Benjamin Bourgeois,benjamin.bourgeois@cousins.a..fr,Customer Active,6,Marie D.
+CL00435,Gomes SARL,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-04-14,Email Marketing,Denise Chauvin,denise.chauvin@gomessarl.fr,Churned,6,Léa M.
+CL00436,Fleury,Tech & SaaS,TPE (1-10),Hauts-de-France,Standard,2025-12-25,LinkedIn Ads,Auguste Chrétien,auguste.chrétien@fleury.fr,Customer Active,6,Léa M.
+CL00437,Renault Hamon SA,Santé & Pharma,PME (11-250),Île-de-France,Premium,2026-04-26,LinkedIn Ads,Marcelle Rémy,marcelle.rémy@renaulthamonsa.fr,Customer Active,10,Léa M.
+CL00438,Denis,Services B2B,TPE (1-10),Île-de-France,Premium,2024-10-30,Google Ads,Susanne Tessier,susanne.tessier@denis.fr,Customer Champion,9,Karim T.
+CL00439,Alexandre,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2025-06-08,Email Marketing,Noémi Besnard,noémi.besnard@alexandre.fr,Customer Active,9,Sophie L.
+CL00440,Maillot,Services B2B,PME (11-250),Île-de-France,Standard,2025-10-30,Direct,Julien Mahe,julien.mahe@maillot.fr,Customer Active,8,Karim T.
+CL00441,Tessier,Retail & E-commerce,PME (11-250),Île-de-France,Standard,2024-11-01,Events/Salons,Susanne Paul,susanne.paul@tessier.fr,Customer Active,7,Sophie L.
+CL00442,Perez,Services B2B,PME (11-250),Pays de la Loire,Starter,2025-09-16,Direct,Nathalie Lamy,nathalie.lamy@perez.fr,Customer Active,8,Yanis F.
+CL00443,Perret S.A.S.,Tech & SaaS,TPE (1-10),Pays de la Loire,Standard,2024-06-30,Direct,Valentine Arnaud,valentine.arnaud@perrets.a.s..fr,Customer Active,7,Sophie L.
+CL00444,Lebrun,Services B2B,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-10-19,Content/SEO,François Chevalier,françois.chevalier@lebrun.fr,Customer Active,6,Léa M.
+CL00445,Peltier,Services B2B,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2025-11-17,Google Ads,Théodore Schneider,théodore.schneider@peltier.fr,Customer Active,7,Karim T.
+CL00446,Marion,Tech & SaaS,PME (11-250),Île-de-France,Standard,2024-11-01,LinkedIn Ads,Michelle Launay,michelle.launay@marion.fr,Customer Active,7,Yanis F.
+CL00447,Blot Hebert SARL,Finance & Assurance,PME (11-250),Île-de-France,Standard,2024-11-26,LinkedIn Ads,Caroline Dupont,caroline.dupont@blothebertsarl.fr,Customer Active,8,Sophie L.
+CL00448,Bonneau,Tech & SaaS,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-04-08,Events/Salons,Bernadette Paris,bernadette.paris@bonneau.fr,Customer Active,8,Léa M.
+CL00449,Sanchez et Fils,Retail & E-commerce,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-03-15,Referral,Lucie Lebon,lucie.lebon@sanchezetfils.fr,Customer Active,7,Sophie L.
+CL00450,Blanchet,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2025-03-13,Events/Salons,Suzanne Bouvet,suzanne.bouvet@blanchet.fr,Customer Active,7,Sophie L.
+CL00451,Martinez Meunier S.A.S.,Services B2B,PME (11-250),Hauts-de-France,Standard,2024-04-06,Content/SEO,Margaret Navarro,margaret.navarro@martinezmeuniers.a.s.fr,Churned,7,Marie D.
+CL00452,Marchand SA,Services B2B,TPE (1-10),Provence-Alpes-Côte d'Azur,Premium,2024-05-17,Email Marketing,Noël Merle,noël.merle@marchandsa.fr,Customer Active,8,Karim T.
+CL00453,Étienne,Services B2B,PME (11-250),Grand Est,Starter,2026-04-04,Outbound Sales,Alice Duhamel,alice.duhamel@étienne.fr,Customer Active,5,Léa M.
+CL00454,Texier S.A.,Tech & SaaS,PME (11-250),Hauts-de-France,Starter,2026-01-08,Events/Salons,Margaret Lebreton,margaret.lebreton@texiers.a..fr,Customer Active,5,Marie D.
+CL00455,Guichard,Services B2B,ETI (251-5000),Hauts-de-France,Premium,2024-05-22,Content/SEO,Capucine Ledoux,capucine.ledoux@guichard.fr,Customer Active,8,Sophie L.
+CL00456,Baudry S.A.,Santé & Pharma,TPE (1-10),Île-de-France,Premium,2026-01-01,Content/SEO,Éléonore Poulain,éléonore.poulain@baudrys.a..fr,Customer Champion,10,Marie D.
+CL00457,Bouvier,Santé & Pharma,PME (11-250),Île-de-France,Standard,2026-01-16,Outbound Sales,Manon Lopes,manon.lopes@bouvier.fr,Customer Active,6,Yanis F.
+CL00458,Noël Michel et Fils,Santé & Pharma,TPE (1-10),Île-de-France,Standard,2025-07-06,Google Ads,Julien Didier,julien.didier@noëlmicheletfils.fr,Customer Active,9,Karim T.
+CL00459,Guilbert,Services B2B,PME (11-250),Nouvelle-Aquitaine,Premium,2025-05-16,Google Ads,Georges Charles,georges.charles@guilbert.fr,Customer Champion,9,Yanis F.
+CL00460,Fischer,Tech & SaaS,PME (11-250),Provence-Alpes-Côte d'Azur,Standard,2026-02-13,LinkedIn Ads,Caroline Benoit,caroline.benoit@fischer.fr,Customer Active,6,Amine B.
+CL00461,Lemonnier,Services B2B,PME (11-250),Île-de-France,Standard,2024-01-07,Google Ads,Claudine Bourgeois,claudine.bourgeois@lemonnier.fr,Customer Active,8,Marie D.
+CL00462,Dufour SA,Services B2B,ETI (251-5000),Auvergne-Rhône-Alpes,Standard,2025-04-25,Referral,Catherine Giraud,catherine.giraud@dufoursa.fr,Customer Active,9,Marie D.
+CL00463,Fernandez,Médias & Communication,PME (11-250),Grand Est,Standard,2025-02-15,Google Ads,Suzanne Normand,suzanne.normand@fernandez.fr,Customer Active,6,Karim T.
+CL00464,Martineau,Tech & SaaS,TPE (1-10),Auvergne-Rhône-Alpes,Standard,2025-08-18,Referral,Adélaïde Lacombe,adélaïde.lacombe@martineau.fr,Customer Active,6,Léa M.
+CL00465,Dias S.A.S.,Tech & SaaS,TPE (1-10),Bretagne,Standard,2024-01-05,LinkedIn Ads,Stéphane Ribeiro,stéphane.ribeiro@diass.a.s..fr,Customer Active,7,Marie D.
+CL00466,Mendès Lacombe et Fils,Finance & Assurance,TPE (1-10),Nouvelle-Aquitaine,Standard,2025-09-08,Outbound Sales,Lucie Roger,lucie.roger@mendèslacombeetfils.fr,Customer Active,6,Yanis F.
+CL00467,Grégoire,Retail & E-commerce,TPE (1-10),Nouvelle-Aquitaine,Starter,2025-06-28,Email Marketing,Maurice Rivière,maurice.rivière@grégoire.fr,Customer Active,4,Marie D.
+CL00468,Joly Gomez S.A.R.L.,Services B2B,PME (11-250),Auvergne-Rhône-Alpes,Standard,2025-08-17,Outbound Sales,André Alves,andré.alves@jolygomezs.a.r.l..fr,Customer Active,6,Yanis F.
+CL00469,Bigot,Retail & E-commerce,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2024-10-27,LinkedIn Ads,Suzanne Courtois,suzanne.courtois@bigot.fr,Customer Active,4,Yanis F.
+CL00470,Raymond Fernandez SA,Services B2B,TPE (1-10),Occitanie,Standard,2025-04-20,Outbound Sales,Thierry Chauvin,thierry.chauvin@raymondfernandezsa.fr,Customer Active,9,Marie D.
+CL00471,Laine,Retail & E-commerce,TPE (1-10),Île-de-France,Standard,2024-08-10,Outbound Sales,Antoinette Lecoq,antoinette.lecoq@laine.fr,Customer Active,8,Yanis F.
+CL00472,Bruneau,Services B2B,ETI (251-5000),Provence-Alpes-Côte d'Azur,Starter,2025-05-04,Events/Salons,David Marchand,david.marchand@bruneau.fr,Customer Active,7,Léa M.
+CL00473,Clerc,Santé & Pharma,TPE (1-10),Auvergne-Rhône-Alpes,Starter,2026-01-03,Google Ads,David Lebreton,david.lebreton@clerc.fr,Customer Active,5,Karim T.
+CL00474,Bazin,Santé & Pharma,PME (11-250),Île-de-France,Standard,2024-10-27,Content/SEO,Diane Barre,diane.barre@bazin.fr,Churned,8,Léa M.
+CL00475,Valette Courtois et Fils,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2025-02-09,Direct,Jacqueline Vidal,jacqueline.vidal@valettecourtoisetfil.fr,Customer Active,5,Sophie L.
+CL00476,Lesage Gaudin SA,Industrie & Manufacturing,TPE (1-10),Île-de-France,Standard,2025-09-17,Referral,Véronique Denis,véronique.denis@lesagegaudinsa.fr,Customer Active,3,Amine B.
+CL00477,Bailly Gaillard S.A.,Education & Formation,PME (11-250),Île-de-France,Starter,2024-03-07,Outbound Sales,Tristan Lacombe,tristan.lacombe@baillygaillards.a..fr,Customer Active,7,Sophie L.
+CL00478,Perrot Paul SARL,Finance & Assurance,PME (11-250),Île-de-France,Standard,2026-02-03,Events/Salons,Camille Chevalier,camille.chevalier@perrotpaulsarl.fr,Customer Active,8,Yanis F.
+CL00479,Pierre,Santé & Pharma,TPE (1-10),Bretagne,Premium,2024-04-19,Email Marketing,Luce Courtois,luce.courtois@pierre.fr,Customer Champion,10,Yanis F.
+CL00480,Marchand,Tech & SaaS,PME (11-250),Île-de-France,Premium,2025-01-24,Direct,Lorraine Bailly,lorraine.bailly@marchand.fr,Customer Champion,9,Marie D.
+CL00481,Gaudin et Fils,Services B2B,TPE (1-10),Provence-Alpes-Côte d'Azur,Standard,2024-10-03,Content/SEO,Jean Allain,jean.allain@gaudinetfils.fr,Customer Active,8,Karim T.
+CL00482,Picard Delmas S.A.S.,Services B2B,TPE (1-10),Pays de la Loire,Standard,2024-06-28,Google Ads,Michelle Texier,michelle.texier@picarddelmass.a.s..fr,Customer Active,7,Yanis F.
+CL00483,Thibault,Services B2B,PME (11-250),Provence-Alpes-Côte d'Azur,Starter,2025-11-23,Google Ads,Augustin Leroy,augustin.leroy@thibault.fr,Customer Active,5,Amine B.
+CL00484,Lambert et Fils,Tech & SaaS,PME (11-250),Hauts-de-France,Standard,2024-12-24,Email Marketing,Pénélope Verdier,pénélope.verdier@lambertetfils.fr,Customer Active,9,Marie D.
+CL00485,Gilles,Retail & E-commerce,PME (11-250),Île-de-France,Starter,2025-04-28,Content/SEO,Marc Gosselin,marc.gosselin@gilles.fr,Customer Active,4,Karim T.
+CL00486,Maurice,Services B2B,ETI (251-5000),Île-de-France,Premium,2024-11-03,LinkedIn Ads,Lucie Martinez,lucie.martinez@maurice.fr,Customer Champion,10,Léa M.
+CL00487,Techer,Services B2B,PME (11-250),Île-de-France,Starter,2024-06-18,Email Marketing,Émilie Charpentier,émilie.charpentier@techer.fr,Customer Active,8,Yanis F.
+CL00488,Guillet,Retail & E-commerce,TPE (1-10),Hauts-de-France,Premium,2026-01-27,Google Ads,Patrick Pottier,patrick.pottier@guillet.fr,Customer Champion,9,Karim T.
+CL00489,Léger,Retail & E-commerce,ETI (251-5000),Île-de-France,Standard,2025-06-05,Email Marketing,Cécile Legrand,cécile.legrand@léger.fr,Customer Active,8,Marie D.
+CL00490,Barbier S.A.R.L.,Finance & Assurance,PME (11-250),Bretagne,Starter,2024-12-02,Referral,Arnaude Guillet,arnaude.guillet@barbiers.a.r.l..fr,Customer Active,7,Sophie L.
+CL00491,Martins,Services B2B,PME (11-250),Bretagne,Starter,2024-01-20,LinkedIn Ads,Zacharie Seguin,zacharie.seguin@martins.fr,Customer Active,5,Amine B.
+CL00492,Bouvier Wagner SARL,Santé & Pharma,TPE (1-10),Grand Est,Standard,2026-03-08,Outbound Sales,Nath Barre,nath.barre@bouvierwagnersarl.fr,Prospect,6,Amine B.
+CL00493,Dumont,Finance & Assurance,TPE (1-10),Île-de-France,Standard,2025-07-11,Direct,Patricia Lemaître,patricia.lemaître@dumont.fr,Customer Active,7,Sophie L.
+CL00494,Julien S.A.,Retail & E-commerce,ETI (251-5000),Pays de la Loire,Standard,2024-01-30,Events/Salons,Chantal Rivière,chantal.rivière@juliens.a..fr,Customer Active,8,Amine B.
+CL00495,Lebreton,Santé & Pharma,PME (11-250),Auvergne-Rhône-Alpes,Starter,2026-03-18,Outbound Sales,Paul Blanchard,paul.blanchard@lebreton.fr,Customer Active,7,Marie D.
+CL00496,Girard SARL,Retail & E-commerce,PME (11-250),Occitanie,Standard,2024-09-20,Email Marketing,Alice Chauvet,alice.chauvet@girardsarl.fr,Customer Active,8,Amine B.
+CL00497,Menard,Services B2B,TPE (1-10),Île-de-France,Standard,2025-03-21,Direct,Hugues Millet,hugues.millet@menard.fr,Customer Active,9,Karim T.
+CL00498,Aubert,Retail & E-commerce,TPE (1-10),Île-de-France,Premium,2024-01-08,Email Marketing,Paulette Leroux,paulette.leroux@aubert.fr,Customer Champion,9,Léa M.
+CL00499,Buisson,Tech & SaaS,PME (11-250),Hauts-de-France,Starter,2025-01-06,Google Ads,Chantal Didier,chantal.didier@buisson.fr,Customer Active,4,Sophie L.
+CL00500,Mahe,Finance & Assurance,PME (11-250),Nouvelle-Aquitaine,Standard,2025-10-12,Direct,Alphonse Robin,alphonse.robin@mahe.fr,Customer Active,8,Léa M.

@@ -1,0 +1,29 @@
+venv : cd ~/projects/vector-poc
+source .venv/bin/activate
+
+
+
+
+Pour pouvoir démarrer efficacement sur Vector, j'aurais besoin que vous me transmettiez/clarifiiez les éléments suivants. J'ai organisé par priorité :
+🔴 Accès indispensables (jour 1)
+
+Email pro Welyne + accès aux outils internes (Slack/Teams, Notion/Jira si utilisés)
+Accès au repo GitHub du projet Vector (ou création s'il n'existe pas)
+Clé API OpenAI / Azure OpenAI de l'entreprise (avec budget alloué pour le stage)
+Accès à la base de données ou aux données de démo officielles d'AI Commandos
+Compte sur l'infra cloud si Vector doit y tourner (AWS/Azure/OVH/Scaleway)
+
+🟠 Documents et specs nécessaires (1ère semaine)
+
+Cahier des charges d'AI Commandos pour Vector — s'il existe
+Architecture cible de la plateforme AI Commandos (comment Vector s'intègre)
+Spécifications de CORE (l'orchestrateur) : comment Vector va recevoir ses missions et renvoyer ses résultats — protocole, format JSON, etc.
+Charte graphique / design system si je dois faire du frontend
+Conventions de code Welyne (style guide, branching strategy, commits, etc.)
+
+🟡 Cadrage du projet (à clarifier en réunion)
+
+Périmètre exact attendu pour Vector v1 : parmi les 4 features annoncées (multi-sources, détection d'opportunités, dashboards, recommandations), lesquelles sont prioritaires en v1 ?
+Framework d'agent utilisé : OpenAI SDK direct, LangChain, LangGraph, custom maison ?
+Frontend dans mon scope ou pas : je code aussi le Next.js des dashboards, ou seulement l'API backend ?
+Stratégie RGPD : on utilise OpenAI direct ou Azure OpenAI EU ? Vraies données client ou démo synthétiques en dev ?

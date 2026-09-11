@@ -1,0 +1,1001 @@
+deal_id,customer_name,industry,region,product_line,deal_stage,opportunity_amount_usd,discount_rate_pct,close_date,probability_pct,sales_rep,account_manager,contract_type,competitor,customer_health_score,days_in_pipeline,is_renewal
+IBM-DEAL-00001,Northwind Retail,Public Sector,EMEA,IBM watsonx,Negotiation,461853,0.7,2025-02-17,82,Hiroshi Sato,Elena Popov,Renewal,Microsoft Azure,48,124,Yes
+IBM-DEAL-00002,Blue Yonder Airlines,Energy & Utilities,Asia Pacific,IBM Cloud Pak,Closed Won,449004,8.4,2025-07-03,100,Chen Wei,Takeshi Yamamoto,New Business,Salesforce,86,314,No
+IBM-DEAL-00003,Woodgrove Bank,Manufacturing,Americas,IBM watsonx,Discovery,1061395,19.1,2025-07-14,22,Emma O'Brien,Sarah Johnson,New Business,SAP,52,237,No
+IBM-DEAL-00004,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Negotiation,1420140,18.5,2026-02-02,72,Sofia Martinez,Elena Popov,Cross-sell,Microsoft Azure,38,122,No
+IBM-DEAL-00005,Shell plc,Energy & Utilities,EMEA,IBM Cloud Pak,Proposal,645652,5.4,2025-10-15,48,Yuki Tanaka,Mohammed Al-Rashid,Cross-sell,Snowflake,69,139,No
+IBM-DEAL-00006,NHS England,Public Sector,EMEA,IBM watsonx,Negotiation,1734116,10.3,2025-05-09,77,Emma O'Brien,Aisha Bello,Renewal,AWS,70,10,Yes
+IBM-DEAL-00007,Lucerne Publishing,Retail & Consumer,Americas,IBM Quantum,Negotiation,1818587,3.4,2026-01-26,84,Chen Wei,Aisha Bello,New Business,Microsoft Azure,45,281,No
+IBM-DEAL-00008,US Department of Veterans Affairs,Public Sector,Americas,Red Hat OpenShift,Proposal,1142165,16.8,2025-03-07,42,Hiroshi Sato,Elena Popov,New Business,Google Cloud,77,248,No
+IBM-DEAL-00009,Pacific Northwest Utilities,Telecommunications,Japan,IBM Quantum,Discovery,2556999,12.2,2025-10-29,22,Sofia Martinez,David Chen,Renewal,AWS,49,8,Yes
+IBM-DEAL-00010,Consolidated Messenger,Retail & Consumer,Japan,IBM watsonx,Proposal,515001,7.8,2025-07-30,43,Chen Wei,Elena Popov,Renewal,AWS,64,32,Yes
+IBM-DEAL-00011,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Proposal,495658,1.1,2025-10-04,57,Priya Sharma,Takeshi Yamamoto,Cross-sell,AWS,88,12,No
+IBM-DEAL-00012,BT Group,Telecommunications,EMEA,IBM watsonx,Closed Won,1251823,21.1,2026-02-06,100,Rajiv Menon,David Chen,Renewal,Google Cloud,92,254,Yes
+IBM-DEAL-00013,Blue Yonder Airlines,Banking & Financial Services,Americas,IBM Quantum,Qualification,3537114,2.6,2025-10-19,17,Fatima El-Amrani,James O'Connor,New Business,Microsoft Azure,50,301,No
+IBM-DEAL-00014,Parnell Aerospace,Transportation,Asia Pacific,Red Hat OpenShift,Qualification,178638,11.8,2025-09-17,13,Lars Andersson,James O'Connor,Cross-sell,SAP,51,72,No
+IBM-DEAL-00015,Meridian Bank,Public Sector,Americas,Red Hat OpenShift,Qualification,1185194,3.4,2025-05-25,13,Emma O'Brien,Rachel Green,New Business,SAP,73,112,No
+IBM-DEAL-00016,Margie's Travel,Banking & Financial Services,Americas,IBM Cloud Pak,Closed Lost,1913192,12.1,2025-08-07,0,Marcus Thompson,David Chen,New Business,AWS,45,9,No
+IBM-DEAL-00017,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Closed Lost,1560760,4.6,2025-05-08,0,Yuki Tanaka,Mohammed Al-Rashid,Cross-sell,Snowflake,16,186,No
+IBM-DEAL-00018,Rakuten Group,Retail & Consumer,Japan,Red Hat OpenShift,Proposal,276388,17.3,2025-02-25,61,Isabela Costa,Aisha Bello,Expansion,None (Green Field),59,24,No
+IBM-DEAL-00019,Siemens AG,Manufacturing,EMEA,IBM Cloud Pak,Qualification,1532813,14.1,2025-07-24,18,Emma O'Brien,Mohammed Al-Rashid,New Business,SAP,78,279,No
+IBM-DEAL-00020,VanArsdel Ltd.,Telecommunications,Japan,IBM Consulting,Proposal,1518856,15.6,2025-01-01,58,Fatima El-Amrani,Aisha Bello,Renewal,Oracle,68,280,Yes
+IBM-DEAL-00021,Atlas Logistics,Telecommunications,Japan,IBM Consulting,Discovery,1556996,6.6,2025-10-08,32,Fatima El-Amrani,Rachel Green,Renewal,Salesforce,88,5,Yes
+IBM-DEAL-00022,Blue Yonder Airlines,Healthcare & Life Sciences,Asia Pacific,IBM Consulting,Discovery,2430160,4.4,2025-01-13,27,Isabela Costa,Takeshi Yamamoto,Renewal,None (Green Field),37,130,Yes
+IBM-DEAL-00023,Pacific Northwest Utilities,Manufacturing,EMEA,IBM Consulting,Closed Won,3611384,4.8,2026-02-16,100,Chen Wei,Rachel Green,New Business,None (Green Field),97,270,No
+IBM-DEAL-00024,Southridge Video,Transportation,Japan,IBM Storage,Closed Won,912787,5.4,2025-11-23,100,Sofia Martinez,James O'Connor,Renewal,None (Green Field),83,271,Yes
+IBM-DEAL-00025,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Negotiation,1774490,11.9,2025-08-01,67,Anna Kowalski,Takeshi Yamamoto,Renewal,Snowflake,38,110,Yes
+IBM-DEAL-00026,Atlas Logistics,Manufacturing,Japan,IBM watsonx,Qualification,3045799,8.9,2025-03-26,20,Nia Okafor,David Chen,Renewal,Google Cloud,88,244,Yes
+IBM-DEAL-00027,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Discovery,1227092,16.5,2026-03-02,32,Rajiv Menon,Aisha Bello,New Business,AWS,61,134,No
+IBM-DEAL-00028,HSBC Holdings,Banking & Financial Services,EMEA,Red Hat OpenShift,Qualification,525265,2.8,2025-12-09,14,Lars Andersson,Mohammed Al-Rashid,New Business,Oracle,42,293,No
+IBM-DEAL-00029,Blue Yonder Airlines,Public Sector,Americas,IBM Consulting,Negotiation,3372378,20.7,2025-04-12,77,Chen Wei,David Chen,Cross-sell,Oracle,39,308,No
+IBM-DEAL-00030,Trey Research,Banking & Financial Services,Japan,IBM Storage,Closed Lost,1523333,3.4,2025-04-01,0,Klaus Weber,Rachel Green,New Business,Salesforce,43,338,No
+IBM-DEAL-00031,Wingtip Toys,Public Sector,Japan,IBM watsonx,Negotiation,1284436,18.7,2025-04-04,77,Emma O'Brien,David Chen,Renewal,SAP,66,113,Yes
+IBM-DEAL-00032,Humongous Insurance,Transportation,Japan,IBM Z Systems,Discovery,6053131,5.4,2025-12-06,32,Fatima El-Amrani,Aisha Bello,New Business,None (Green Field),72,193,No
+IBM-DEAL-00033,Siemens AG,Manufacturing,EMEA,IBM Cloud Pak,Closed Lost,789920,10.7,2026-01-06,0,Diego Ramirez,Elena Popov,Renewal,Salesforce,43,310,Yes
+IBM-DEAL-00034,HSBC Holdings,Banking & Financial Services,EMEA,Red Hat OpenShift,Negotiation,1513340,10.8,2026-03-23,69,Priya Sharma,David Chen,Renewal,Salesforce,35,298,Yes
+IBM-DEAL-00035,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Qualification,2775250,1.9,2025-05-08,14,Yuki Tanaka,Takeshi Yamamoto,Renewal,Snowflake,42,290,Yes
+IBM-DEAL-00036,Parnell Aerospace,Banking & Financial Services,Americas,Red Hat OpenShift,Discovery,354372,5.3,2025-10-10,22,Klaus Weber,James O'Connor,New Business,Microsoft Azure,39,85,No
+IBM-DEAL-00037,Adventure Works,Manufacturing,Asia Pacific,IBM Storage,Negotiation,823920,4.9,2025-03-18,71,Diego Ramirez,Rachel Green,Renewal,AWS,52,77,Yes
+IBM-DEAL-00038,Quantum Chemicals,Transportation,Americas,IBM Consulting,Negotiation,880289,5.0,2025-12-12,84,Emma O'Brien,David Chen,Expansion,Microsoft Azure,88,299,No
+IBM-DEAL-00039,Margie's Travel,Retail & Consumer,Japan,IBM Consulting,Qualification,3296922,14.7,2026-03-16,21,Nia Okafor,David Chen,Renewal,Snowflake,45,173,Yes
+IBM-DEAL-00040,Pacific Northwest Utilities,Banking & Financial Services,Japan,IBM Z Systems,Proposal,4431663,13.8,2026-01-25,64,Isabela Costa,Rachel Green,New Business,Salesforce,38,109,No
+IBM-DEAL-00041,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Cloud Pak,Proposal,535890,10.2,2025-03-02,47,Emma O'Brien,Takeshi Yamamoto,New Business,None (Green Field),76,83,No
+IBM-DEAL-00042,Kensington Hospital Group,Manufacturing,EMEA,IBM Quantum,Closed Won,3001080,20.6,2025-09-17,100,Klaus Weber,Mohammed Al-Rashid,New Business,Salesforce,83,6,No
+IBM-DEAL-00043,Kensington Hospital Group,Transportation,Asia Pacific,IBM Quantum,Discovery,2109263,18.8,2025-07-30,32,Marcus Thompson,Rachel Green,Cross-sell,SAP,37,167,No
+IBM-DEAL-00044,Litware Inc.,Transportation,Americas,IBM Consulting,Negotiation,1168971,17.2,2025-05-16,78,Nia Okafor,Aisha Bello,Renewal,Snowflake,56,324,Yes
+IBM-DEAL-00045,Adventure Works,Manufacturing,Asia Pacific,Red Hat OpenShift,Proposal,1436889,2.2,2025-03-27,43,Diego Ramirez,Aisha Bello,Renewal,Microsoft Azure,79,158,Yes
+IBM-DEAL-00046,Alpine Ski House,Retail & Consumer,EMEA,IBM watsonx,Negotiation,1662146,61.1,2025-08-25,72,Diego Ramirez,Mohammed Al-Rashid,Expansion,None (Green Field),75,135,No
+IBM-DEAL-00047,BT Group,Telecommunications,EMEA,IBM Consulting,Discovery,3614810,8.4,2025-07-03,32,Nia Okafor,James O'Connor,Renewal,,71,156,Yes
+IBM-DEAL-00048,Quantum Chemicals,Public Sector,EMEA,IBM Consulting,Negotiation,2261928,15.9,2025-12-04,84,Diego Ramirez,Rachel Green,Renewal,AWS,78,75,Yes
+IBM-DEAL-00049,Southridge Video,Energy & Utilities,EMEA,IBM watsonx,Closed Won,1388593,6.0,2025-03-26,100,Chen Wei,Rachel Green,Expansion,Salesforce,83,251,No
+IBM-DEAL-00050,Pacific Northwest Utilities,Telecommunications,Americas,IBM Storage,Proposal,812980,14.8,2025-12-11,54,Chen Wei,Elena Popov,New Business,Snowflake,51,304,No
+IBM-DEAL-00051,Graphic Design Institute,Healthcare & Life Sciences,Japan,Red Hat OpenShift,Proposal,120099,20.8,2025-06-05,44,Nia Okafor,Rachel Green,New Business,AWS,66,64,No
+IBM-DEAL-00052,Fourth Coffee,Energy & Utilities,Americas,IBM Storage,Closed Won,114810,4.8,2025-08-16,100,Lars Andersson,David Chen,Renewal,AWS,82,190,Yes
+IBM-DEAL-00053,Beacon Financial,Healthcare & Life Sciences,EMEA,IBM Consulting,Qualification,2394430,17.3,2025-04-16,20,Yuki Tanaka,Aisha Bello,Renewal,Oracle,39,288,Yes
+IBM-DEAL-00054,Mayo Clinic,Healthcare & Life Sciences,Americas,Red Hat OpenShift,Closed Won,70330,7.9,2026-02-08,100,Marcus Thompson,Takeshi Yamamoto,Renewal,SAP,82,306,Yes
+IBM-DEAL-00055,Litware Inc.,Transportation,EMEA,Red Hat OpenShift,Closed Won,985584,14.2,2025-01-16,100,Isabela Costa,Sarah Johnson,New Business,Snowflake,76,250,No
+IBM-DEAL-00056,US Department of Veterans Affairs,Public Sector,Americas,IBM Consulting,Discovery,4219013,11.1,2025-08-09,39,Hiroshi Sato,Aisha Bello,Renewal,Oracle,41,63,Yes
+IBM-DEAL-00057,Southridge Video,Public Sector,Asia Pacific,Red Hat OpenShift,Proposal,179124,2.1,2026-01-14,42,Fatima El-Amrani,Sarah Johnson,Renewal,Microsoft Azure,58,71,Yes
+IBM-DEAL-00058,Fabrikam Health,Public Sector,Asia Pacific,IBM Cloud Pak,Discovery,1104790,7.7,2025-10-12,35,Anna Kowalski,James O'Connor,Renewal,Salesforce,58,63,Yes
+IBM-DEAL-00059,VanArsdel Ltd.,Banking & Financial Services,EMEA,IBM Quantum,Proposal,357302,11.7,2025-07-12,44,Fatima El-Amrani,Sarah Johnson,Renewal,SAP,61,237,Yes
+IBM-DEAL-00060,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Proposal,1674911,16.6,2025-02-28,54,Klaus Weber,James O'Connor,Renewal,AWS,57,225,Yes
+IBM-DEAL-00061,Toyota Motor Corp,Manufacturing,Japan,Red Hat OpenShift,Closed Won,319474,10.9,2025-08-09,100,Lars Andersson,Sarah Johnson,Expansion,Snowflake,80,71,No
+IBM-DEAL-00062,Adventure Works,Telecommunications,Japan,IBM Consulting,Proposal,2947799,7.1,2026-02-15,43,Yuki Tanaka,Takeshi Yamamoto,Renewal,SAP,74,240,Yes
+IBM-DEAL-00063,Trey Research,Manufacturing,Asia Pacific,IBM Security QRadar,Negotiation,569723,4.3,2026-02-02,81,Jean-Luc Dubois,Mohammed Al-Rashid,New Business,Google Cloud,57,184,No
+IBM-DEAL-00064,NHS England,Public Sector,EMEA,IBM Consulting,Closed Won,3141597,21.7,2025-06-15,100,Diego Ramirez,James O'Connor,Expansion,Google Cloud,95,166,No
+IBM-DEAL-00065,Contoso Manufacturing,Banking & Financial Services,Asia Pacific,IBM Storage,Closed Won,1329766,13.1,2025-07-16,100,Jean-Luc Dubois,Aisha Bello,New Business,Microsoft Azure,89,302,No
+IBM-DEAL-00066,Trey Research,Healthcare & Life Sciences,EMEA,IBM watsonx,Closed Lost,1549835,6.2,2025-07-29,0,Sofia Martinez,Aisha Bello,Renewal,Microsoft Azure,31,311,Yes
+IBM-DEAL-00067,Fourth Coffee,Telecommunications,Americas,IBM Consulting,Discovery,3332981,2.8,2025-12-29,40,Marcus Thompson,Sarah Johnson,New Business,Snowflake,40,163,No
+IBM-DEAL-00068,Alpine Ski House,Manufacturing,Asia Pacific,Red Hat OpenShift,Discovery,305552,18.6,2025-02-21,24,Marcus Thompson,Takeshi Yamamoto,Renewal,Microsoft Azure,67,281,Yes
+IBM-DEAL-00069,Blue Yonder Airlines,Transportation,Americas,IBM Z Systems,Discovery,5025431,16.5,2025-08-18,34,Klaus Weber,Elena Popov,Renewal,Oracle,49,278,Yes
+IBM-DEAL-00070,Nod Publishers,Energy & Utilities,Japan,Red Hat OpenShift,Closed Won,231182,10.6,2025-07-10,100,Emma O'Brien,Rachel Green,Expansion,AWS,92,57,No
+IBM-DEAL-00071,Graphic Design Institute,Transportation,Asia Pacific,Red Hat OpenShift,Proposal,501722,1.8,2025-04-25,51,Marcus Thompson,Mohammed Al-Rashid,Renewal,AWS,36,168,Yes
+IBM-DEAL-00072,Horizon Telecom,Transportation,Americas,Red Hat OpenShift,Discovery,1175925,20.7,2025-11-08,24,Chen Wei,David Chen,New Business,AWS,68,221,No
+IBM-DEAL-00073,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Proposal,1249409,6.4,2025-01-01,47,Sofia Martinez,Aisha Bello,New Business,Oracle,74,185,No
+IBM-DEAL-00074,Northwind Retail,Energy & Utilities,Japan,IBM watsonx,Proposal,146559,1.5,2025-05-04,63,Fatima El-Amrani,Mohammed Al-Rashid,Renewal,AWS,81,326,Yes
+IBM-DEAL-00075,NHS England,Public Sector,EMEA,IBM Z Systems,Negotiation,829835,20.8,2025-01-19,69,Fatima El-Amrani,James O'Connor,Renewal,Microsoft Azure,53,108,Yes
+IBM-DEAL-00076,NHS England,Public Sector,EMEA,IBM watsonx,Closed Won,1092276,8.1,2025-07-24,100,Klaus Weber,Aisha Bello,Renewal,Snowflake,98,230,Yes
+IBM-DEAL-00077,Wingtip Toys,Energy & Utilities,EMEA,IBM Consulting,Qualification,2616073,9.8,2026-01-03,19,Lars Andersson,Takeshi Yamamoto,New Business,None (Green Field),62,90,No
+IBM-DEAL-00078,NHS England,Public Sector,EMEA,IBM Z Systems,Negotiation,7083193,18.7,2025-12-14,70,Lars Andersson,Aisha Bello,Renewal,Microsoft Azure,85,229,Yes
+IBM-DEAL-00079,Woodgrove Bank,Telecommunications,Japan,IBM Security QRadar,Proposal,381018,5.5,2025-02-28,52,Chen Wei,James O'Connor,Renewal,None (Green Field),36,100,Yes
+IBM-DEAL-00080,Quantum Chemicals,Manufacturing,Americas,IBM watsonx,Discovery,453221,17.8,2026-03-09,34,Diego Ramirez,Mohammed Al-Rashid,New Business,AWS,55,182,No
+IBM-DEAL-00081,Graphic Design Institute,Healthcare & Life Sciences,EMEA,IBM Storage,Proposal,1201867,12.6,2025-08-28,51,Diego Ramirez,Takeshi Yamamoto,New Business,Google Cloud,86,287,No
+IBM-DEAL-00082,Adventure Works,Retail & Consumer,Asia Pacific,IBM Consulting,Negotiation,1248718,17.2,2025-11-24,76,Rajiv Menon,Sarah Johnson,Renewal,Google Cloud,72,98,Yes
+IBM-DEAL-00083,Graphic Design Institute,Telecommunications,Asia Pacific,IBM Storage,Negotiation,615565,2.8,2025-06-05,82,Marcus Thompson,Mohammed Al-Rashid,New Business,AWS,74,278,No
+IBM-DEAL-00084,Contoso Manufacturing,Banking & Financial Services,Americas,IBM watsonx,Negotiation,1046814,9.2,2025-11-24,85,Yuki Tanaka,Takeshi Yamamoto,Renewal,Salesforce,36,259,Yes
+IBM-DEAL-00085,Horizon Telecom,Transportation,EMEA,IBM Cloud Pak,Closed Won,1508589,21.5,2025-03-08,100,Emma O'Brien,Rachel Green,New Business,AWS,99,194,No
+IBM-DEAL-00086,Atlas Logistics,Manufacturing,EMEA,IBM Storage,Negotiation,1640381,3.5,2025-09-21,71,Nia Okafor,Rachel Green,Cross-sell,Salesforce,64,260,No
+IBM-DEAL-00087,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Negotiation,1833708,2.4,2025-03-10,74,Jean-Luc Dubois,Aisha Bello,Expansion,Snowflake,51,192,No
+IBM-DEAL-00088,Margie's Travel,Healthcare & Life Sciences,EMEA,Red Hat OpenShift,Closed Won,1352202,16.6,2025-04-12,100,Marcus Thompson,Aisha Bello,Renewal,Snowflake,94,265,Yes
+IBM-DEAL-00089,Tailspin Traders,Telecommunications,Asia Pacific,IBM watsonx,Negotiation,2575261,7.4,2026-03-01,74,Anna Kowalski,Aisha Bello,Cross-sell,SAP,67,277,No
+IBM-DEAL-00090,Northwind Retail,Transportation,Asia Pacific,Red Hat OpenShift,Closed Won,84052,3.8,2025-11-19,100,Rajiv Menon,Sarah Johnson,Expansion,Snowflake,98,322,No
+IBM-DEAL-00091,Consolidated Messenger,Energy & Utilities,Japan,IBM Quantum,Qualification,1923818,22.0,2025-09-02,14,Fatima El-Amrani,Aisha Bello,Renewal,SAP,68,197,Yes
+IBM-DEAL-00092,Lucerne Publishing,Transportation,EMEA,Red Hat OpenShift,Discovery,631085,15.5,2025-12-20,29,Emma O'Brien,James O'Connor,New Business,SAP,80,255,No
+IBM-DEAL-00093,VanArsdel Ltd.,Retail & Consumer,Asia Pacific,IBM watsonx,Qualification,2836346,5.6,2025-09-03,24,Marcus Thompson,Sarah Johnson,Cross-sell,Salesforce,48,108,No
+IBM-DEAL-00094,Graphic Design Institute,Manufacturing,Americas,IBM watsonx,Proposal,661578,0.1,2025-10-09,61,Diego Ramirez,Aisha Bello,New Business,None (Green Field),45,213,No
+IBM-DEAL-00095,Graphic Design Institute,Banking & Financial Services,EMEA,IBM Z Systems,Closed Won,4059431,10.9,2026-01-19,100,Fatima El-Amrani,James O'Connor,Expansion,Microsoft Azure,84,24,No
+IBM-DEAL-00096,Tailspin Traders,Transportation,Asia Pacific,IBM watsonx,Discovery,2804105,5.7,2025-04-06,34,Priya Sharma,Takeshi Yamamoto,New Business,Salesforce,35,177,No
+IBM-DEAL-00097,Alpine Ski House,Retail & Consumer,Japan,IBM Cloud Pak,Discovery,1933744,16.6,2025-06-18,27,Yuki Tanaka,David Chen,New Business,Microsoft Azure,54,303,No
+IBM-DEAL-00098,Parnell Aerospace,Healthcare & Life Sciences,Asia Pacific,IBM Cloud Pak,Closed Lost,702506,10.0,2025-11-07,0,Jean-Luc Dubois,Elena Popov,New Business,None (Green Field),33,217,No
+IBM-DEAL-00099,Woodgrove Bank,Healthcare & Life Sciences,Americas,IBM watsonx,Proposal,2090540,7.2,2025-09-24,58,Isabela Costa,David Chen,Renewal,Oracle,63,64,Yes
+IBM-DEAL-00100,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Qualification,70295,16.4,2025-10-24,18,Rajiv Menon,Sarah Johnson,New Business,Snowflake,39,28,No
+IBM-DEAL-00101,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Security QRadar,Negotiation,427650,21.8,2025-07-15,78,Marcus Thompson,Aisha Bello,Cross-sell,Snowflake,63,198,No
+IBM-DEAL-00102,Siemens AG,Manufacturing,EMEA,IBM Storage,Closed Lost,998746,9.3,2025-07-14,0,Chen Wei,David Chen,Expansion,None (Green Field),24,131,No
+IBM-DEAL-00103,Northwind Retail,Manufacturing,EMEA,IBM watsonx,Proposal,3373672,5.4,2025-01-23,61,Rajiv Menon,Mohammed Al-Rashid,Renewal,Oracle,60,229,Yes
+IBM-DEAL-00104,Southridge Video,Telecommunications,EMEA,IBM Cloud Pak,Negotiation,1794597,6.6,2025-02-01,72,Klaus Weber,David Chen,New Business,Google Cloud,70,307,No
+IBM-DEAL-00105,Southridge Video,Energy & Utilities,Japan,IBM watsonx,Closed Won,1210524,6.6,2025-12-29,100,Marcus Thompson,Takeshi Yamamoto,Renewal,Microsoft Azure,79,242,Yes
+IBM-DEAL-00106,Woodgrove Bank,Healthcare & Life Sciences,EMEA,IBM watsonx,Negotiation,353768,16.8,2026-01-06,66,Fatima El-Amrani,James O'Connor,Renewal,Oracle,77,291,Yes
+IBM-DEAL-00107,Proseware Systems,Transportation,EMEA,IBM Consulting,Proposal,4425928,6.2,2025-08-27,47,Klaus Weber,Rachel Green,Renewal,SAP,69,337,Yes
+IBM-DEAL-00108,Consolidated Messenger,Telecommunications,Asia Pacific,IBM Z Systems,Discovery,358355,20.6,2025-10-24,24,Nia Okafor,Elena Popov,Renewal,Salesforce,81,218,Yes
+IBM-DEAL-00109,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Proposal,687804,15.8,2025-09-08,45,Sofia Martinez,David Chen,Renewal,Microsoft Azure,46,282,Yes
+IBM-DEAL-00110,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Proposal,40145820,14.0,2025-11-12,41,Anna Kowalski,James O'Connor,New Business,Microsoft Azure,65,254,No
+IBM-DEAL-00111,Sterling Manufacturing,Retail & Consumer,Americas,Red Hat OpenShift,Discovery,1045197,7.8,2026-02-12,39,Yuki Tanaka,Elena Popov,Renewal,SAP,60,45,Yes
+IBM-DEAL-00112,Contoso Manufacturing,Healthcare & Life Sciences,Japan,IBM Cloud Pak,Qualification,681328,18.6,2025-11-27,10,Yuki Tanaka,Elena Popov,Renewal,AWS,85,174,Yes
+IBM-DEAL-00113,JPMorgan Chase,Banking & Financial Services,Americas,IBM Consulting,Proposal,321000,3.9,2026-03-12,61,Nia Okafor,Sarah Johnson,New Business,Oracle,55,13,No
+IBM-DEAL-00114,Trey Research,Energy & Utilities,EMEA,IBM Storage,Qualification,134189,5.1,2025-02-08,21,Emma O'Brien,Rachel Green,Renewal,Snowflake,56,314,Yes
+IBM-DEAL-00115,Kensington Hospital Group,Healthcare & Life Sciences,Asia Pacific,IBM Storage,Qualification,890063,51.2,2026-01-14,14,Lars Andersson,James O'Connor,Renewal,SAP,59,167,Yes
+IBM-DEAL-00116,Atlas Logistics,Healthcare & Life Sciences,Americas,IBM watsonx,Negotiation,1451980,9.1,2026-02-03,75,Nia Okafor,Mohammed Al-Rashid,Renewal,Oracle,40,291,Yes
+IBM-DEAL-00117,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Closed Won,1115705,20.8,2026-01-05,100,Anna Kowalski,Takeshi Yamamoto,New Business,Oracle,95,258,No
+IBM-DEAL-00118,Trey Research,Energy & Utilities,EMEA,IBM Cloud Pak,Negotiation,1244536,8.8,2025-06-13,80,Fatima El-Amrani,Takeshi Yamamoto,Renewal,None (Green Field),53,329,Yes
+IBM-DEAL-00119,City Power & Light,Retail & Consumer,Americas,Red Hat OpenShift,Negotiation,699170,1.5,2026-03-11,79,Emma O'Brien,Mohammed Al-Rashid,Renewal,None (Green Field),85,214,Yes
+IBM-DEAL-00120,Horizon Telecom,Energy & Utilities,Japan,IBM Consulting,Proposal,2900046,20.1,2025-02-25,65,Nia Okafor,Aisha Bello,Expansion,SAP,84,132,No
+IBM-DEAL-00121,Singapore Airlines,Transportation,Asia Pacific,IBM Security QRadar,Negotiation,483458,10.2,2025-12-14,72,Chen Wei,James O'Connor,Renewal,Google Cloud,72,261,Yes
+IBM-DEAL-00122,Fourth Coffee,Telecommunications,Asia Pacific,IBM Cloud Pak,Proposal,903198,15.9,2025-08-20,51,Anna Kowalski,Aisha Bello,Expansion,Salesforce,55,39,No
+IBM-DEAL-00123,Humongous Insurance,Retail & Consumer,EMEA,IBM Cloud Pak,Proposal,1827362,4.1,2025-12-03,65,Isabela Costa,Takeshi Yamamoto,Renewal,Microsoft Azure,62,207,Yes
+IBM-DEAL-00124,Adventure Works,Healthcare & Life Sciences,EMEA,IBM Cloud Pak,Qualification,2273397,21.3,2025-06-10,25,Isabela Costa,Mohammed Al-Rashid,New Business,Snowflake,73,203,No
+IBM-DEAL-00125,Wingtip Toys,Retail & Consumer,Asia Pacific,IBM watsonx,Discovery,2227554,8.5,2025-11-02,24,Priya Sharma,Mohammed Al-Rashid,New Business,Snowflake,43,299,No
+IBM-DEAL-00126,Fabrikam Health,Telecommunications,Americas,IBM Consulting,Proposal,4284921,14.4,2025-07-29,57,Priya Sharma,Sarah Johnson,New Business,Snowflake,78,256,No
+IBM-DEAL-00127,Siemens AG,Manufacturing,EMEA,IBM Consulting,Proposal,4199989,12.1,2025-02-27,63,Lars Andersson,David Chen,New Business,Salesforce,71,63,No
+IBM-DEAL-00128,Humongous Insurance,Public Sector,Americas,IBM Z Systems,Closed Won,7508582,21.9,2026-02-02,100,Lars Andersson,Takeshi Yamamoto,New Business,Oracle,100,126,No
+IBM-DEAL-00129,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Negotiation,3156615,6.4,2025-10-21,70,Hiroshi Sato,David Chen,Renewal,AWS,52,268,Yes
+IBM-DEAL-00130,Humongous Insurance,Retail & Consumer,Asia Pacific,IBM Storage,Negotiation,213365,5.9,2025-08-01,80,Sofia Martinez,Takeshi Yamamoto,Expansion,AWS,59,236,No
+IBM-DEAL-00131,Quantum Chemicals,Telecommunications,Americas,IBM Quantum,Qualification,2334826,17.5,2025-07-23,24,Diego Ramirez,Aisha Bello,Expansion,Oracle,48,224,No
+IBM-DEAL-00132,Fabrikam Health,Banking & Financial Services,Americas,IBM Consulting,Qualification,2182897,21.8,2025-08-08,15,Emma O'Brien,Sarah Johnson,Expansion,Salesforce,47,72,No
+IBM-DEAL-00133,Blue Yonder Airlines,Banking & Financial Services,Japan,IBM Consulting,Closed Won,859534,0.0,2025-09-02,100,Anna Kowalski,Aisha Bello,Renewal,Oracle,77,72,Yes
+IBM-DEAL-00134,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Closed Won,1399291,8.1,2025-06-03,100,Sofia Martinez,David Chen,New Business,Google Cloud,79,200,No
+IBM-DEAL-00135,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Negotiation,501967,3.1,2025-03-05,71,Marcus Thompson,Elena Popov,Renewal,SAP,72,201,Yes
+IBM-DEAL-00136,Nod Publishers,Banking & Financial Services,Asia Pacific,IBM watsonx,Discovery,1382677,17.2,2026-02-11,32,Sofia Martinez,David Chen,Renewal,Snowflake,50,258,Yes
+IBM-DEAL-00137,Atlas Logistics,Telecommunications,EMEA,IBM Security QRadar,Closed Won,650895,1.5,2025-05-15,100,Diego Ramirez,Takeshi Yamamoto,Cross-sell,Microsoft Azure,81,25,No
+IBM-DEAL-00138,Fourth Coffee,Public Sector,Americas,IBM Cloud Pak,Discovery,2189732,12.9,2026-01-26,24,Yuki Tanaka,David Chen,Renewal,AWS,88,337,Yes
+IBM-DEAL-00139,Fabrikam Health,Public Sector,EMEA,IBM watsonx,Negotiation,2461626,11.5,2026-02-05,70,Emma O'Brien,Sarah Johnson,Renewal,Google Cloud,87,137,Yes
+IBM-DEAL-00140,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Negotiation,1969237,11.2,2025-01-29,80,Chen Wei,Sarah Johnson,Cross-sell,Google Cloud,66,295,No
+IBM-DEAL-00141,Humongous Insurance,Banking & Financial Services,Japan,IBM Cloud Pak,Discovery,2378882,17.7,2026-01-01,21,Fatima El-Amrani,James O'Connor,Cross-sell,Snowflake,82,340,No
+IBM-DEAL-00142,Fabrikam Health,Retail & Consumer,EMEA,IBM Storage,Closed Lost,1015373,49.0,2026-02-01,0,Diego Ramirez,Elena Popov,Cross-sell,AWS,29,172,No
+IBM-DEAL-00143,City Power & Light,Manufacturing,EMEA,IBM watsonx,Discovery,3032719,19.3,2025-06-21,31,Yuki Tanaka,Takeshi Yamamoto,Renewal,Salesforce,35,197,Yes
+IBM-DEAL-00144,Wingtip Toys,Banking & Financial Services,EMEA,IBM Quantum,Negotiation,4564695,1.9,2025-02-18,76,Hiroshi Sato,Mohammed Al-Rashid,Renewal,Snowflake,67,73,Yes
+IBM-DEAL-00145,Southridge Video,Telecommunications,Japan,IBM Cloud Pak,Discovery,517065,3.4,2025-03-26,38,Jean-Luc Dubois,Rachel Green,New Business,SAP,63,243,No
+IBM-DEAL-00146,NHS England,Public Sector,EMEA,IBM Cloud Pak,Negotiation,1283483,15.6,2025-07-02,71,Priya Sharma,David Chen,Renewal,Microsoft Azure,60,267,Yes
+IBM-DEAL-00147,Litware Inc.,Transportation,Americas,IBM Storage,Qualification,314129,4.4,2025-07-25,17,Sofia Martinez,David Chen,New Business,AWS,58,327,No
+IBM-DEAL-00148,Wingtip Toys,Telecommunications,Americas,IBM watsonx,Discovery,2085322,8.7,2025-01-16,38,Emma O'Brien,James O'Connor,Renewal,Google Cloud,59,223,Yes
+IBM-DEAL-00149,Nod Publishers,Transportation,Japan,IBM Quantum,Qualification,1269691,14.1,2026-02-13,22,Lars Andersson,Rachel Green,Renewal,Microsoft Azure,68,132,Yes
+IBM-DEAL-00150,Kensington Hospital Group,Public Sector,EMEA,IBM watsonx,Qualification,361375,10.4,2025-07-03,18,Yuki Tanaka,James O'Connor,Renewal,Oracle,84,304,Yes
+IBM-DEAL-00151,Graphic Design Institute,Energy & Utilities,Asia Pacific,Red Hat OpenShift,Discovery,1267603,7.0,2026-01-13,27,Marcus Thompson,Elena Popov,Cross-sell,Microsoft Azure,79,188,No
+IBM-DEAL-00152,Alpine Ski House,Transportation,Americas,IBM watsonx,Discovery,2089831,0.0,2025-11-11,36,Fatima El-Amrani,David Chen,New Business,SAP,47,71,No
+IBM-DEAL-00153,Woodgrove Bank,Healthcare & Life Sciences,Asia Pacific,IBM Security QRadar,Negotiation,332720,21.5,2026-01-10,75,Lars Andersson,Elena Popov,Renewal,None (Green Field),62,332,Yes
+IBM-DEAL-00154,Nod Publishers,Retail & Consumer,EMEA,IBM Security QRadar,Closed Won,927083,21.9,2025-10-18,100,Yuki Tanaka,Sarah Johnson,Cross-sell,SAP,76,98,No
+IBM-DEAL-00155,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Qualification,792246,4.6,2025-12-21,20,Rajiv Menon,Takeshi Yamamoto,Expansion,Salesforce,39,184,No
+IBM-DEAL-00156,Kensington Hospital Group,Telecommunications,Japan,IBM watsonx,Closed Won,756017,17.6,2025-01-18,100,Fatima El-Amrani,Mohammed Al-Rashid,Renewal,SAP,84,15,Yes
+IBM-DEAL-00157,Wingtip Toys,Telecommunications,Japan,IBM Security QRadar,Negotiation,439856,2.2,2025-04-16,84,Chen Wei,David Chen,Renewal,Salesforce,47,214,Yes
+IBM-DEAL-00158,HSBC Holdings,Banking & Financial Services,EMEA,IBM Z Systems,Negotiation,4279286,4.4,2025-01-14,84,Chen Wei,James O'Connor,New Business,Salesforce,48,92,No
+IBM-DEAL-00159,NHS England,Public Sector,EMEA,IBM Consulting,Closed Won,1610171,9.8,2025-05-15,100,Rajiv Menon,Mohammed Al-Rashid,New Business,Salesforce,89,243,No
+IBM-DEAL-00160,Atlas Logistics,Manufacturing,Americas,IBM Storage,Proposal,1105862,10.4,2026-03-28,57,Rajiv Menon,Mohammed Al-Rashid,Expansion,Salesforce,50,248,No
+IBM-DEAL-00161,Consolidated Messenger,Manufacturing,EMEA,IBM watsonx,Negotiation,2715777,3.3,2025-11-01,71,Fatima El-Amrani,James O'Connor,New Business,AWS,51,168,No
+IBM-DEAL-00162,Atlas Logistics,Healthcare & Life Sciences,Japan,IBM watsonx,Negotiation,537994,2.2,2025-05-27,68,Klaus Weber,Rachel Green,Renewal,SAP,90,279,Yes
+IBM-DEAL-00163,Pacific Northwest Utilities,Banking & Financial Services,Japan,IBM Quantum,Discovery,2403048,19.7,2025-01-11,35,Chen Wei,Elena Popov,New Business,Salesforce,56,160,No
+IBM-DEAL-00164,Margie's Travel,Energy & Utilities,Americas,IBM watsonx,Closed Won,2251363,19.1,2026-02-25,100,Nia Okafor,Mohammed Al-Rashid,New Business,Google Cloud,76,268,No
+IBM-DEAL-00165,Siemens AG,Manufacturing,EMEA,IBM Storage,Proposal,1517724,4.4,2025-07-08,51,Anna Kowalski,Elena Popov,New Business,Snowflake,87,242,No
+IBM-DEAL-00166,VanArsdel Ltd.,Telecommunications,EMEA,IBM Storage,Closed Won,637833,0.6,2025-01-26,100,Jean-Luc Dubois,James O'Connor,New Business,Oracle,80,297,No
+IBM-DEAL-00167,Meridian Bank,Transportation,EMEA,IBM Consulting,Qualification,2773789,15.6,2025-05-21,18,Diego Ramirez,Takeshi Yamamoto,Renewal,SAP,,197,Yes
+IBM-DEAL-00168,Woodgrove Bank,Public Sector,Asia Pacific,IBM Consulting,Discovery,3073111,5.7,2025-12-31,28,Rajiv Menon,Takeshi Yamamoto,Renewal,Oracle,76,157,Yes
+IBM-DEAL-00169,Nod Publishers,Public Sector,Japan,IBM Z Systems,Negotiation,6435190,16.0,2025-04-24,83,Diego Ramirez,Mohammed Al-Rashid,Renewal,None (Green Field),78,278,Yes
+IBM-DEAL-00170,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Security QRadar,Proposal,837365,14.4,2025-04-24,45,Lars Andersson,James O'Connor,Renewal,Salesforce,57,119,Yes
+IBM-DEAL-00171,NHS England,Public Sector,EMEA,IBM Consulting,Qualification,4243308,2.6,2025-12-15,16,Marcus Thompson,Mohammed Al-Rashid,Cross-sell,Salesforce,59,276,No
+IBM-DEAL-00172,Beacon Financial,Retail & Consumer,Asia Pacific,IBM Quantum,Qualification,1633309,6.9,2025-01-30,20,Priya Sharma,Rachel Green,New Business,Salesforce,35,236,No
+IBM-DEAL-00173,Sterling Manufacturing,Energy & Utilities,Japan,Red Hat OpenShift,Qualification,916472,59.7,2026-01-23,16,Yuki Tanaka,Aisha Bello,Renewal,Oracle,88,276,Yes
+IBM-DEAL-00174,Adventure Works,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Proposal,718894,15.1,2025-03-10,56,Nia Okafor,David Chen,Renewal,SAP,56,255,Yes
+IBM-DEAL-00175,Blue Yonder Airlines,Healthcare & Life Sciences,Asia Pacific,IBM Security QRadar,Proposal,214827,13.7,2025-11-01,60,Isabela Costa,Takeshi Yamamoto,Expansion,Microsoft Azure,38,60,No
+IBM-DEAL-00176,NHS England,Public Sector,EMEA,IBM Consulting,Negotiation,2309732,13.7,2025-12-25,81,Diego Ramirez,Sarah Johnson,New Business,AWS,43,219,No
+IBM-DEAL-00177,City Power & Light,Telecommunications,Japan,IBM Cloud Pak,Proposal,2076050,7.3,2025-01-02,46,Marcus Thompson,Sarah Johnson,New Business,AWS,35,50,No
+IBM-DEAL-00178,Graphic Design Institute,Transportation,Asia Pacific,IBM Cloud Pak,Closed Won,1278727,7.9,2025-12-13,100,Rajiv Menon,David Chen,New Business,AWS,85,223,No
+IBM-DEAL-00179,Cascade Retail,Public Sector,Americas,IBM Cloud Pak,Qualification,1974862,6.0,2025-07-17,22,Chen Wei,Mohammed Al-Rashid,New Business,Snowflake,79,249,No
+IBM-DEAL-00180,BT Group,Telecommunications,EMEA,Red Hat OpenShift,Proposal,418660,17.1,2025-11-10,54,Hiroshi Sato,Rachel Green,Renewal,None (Green Field),36,71,Yes
+IBM-DEAL-00181,Graphic Design Institute,Telecommunications,Americas,IBM Z Systems,Proposal,49395576,3.3,2026-02-28,61,Klaus Weber,Rachel Green,Renewal,Microsoft Azure,70,318,Yes
+IBM-DEAL-00182,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Negotiation,1070661,1.7,2025-08-16,77,Fatima El-Amrani,Sarah Johnson,New Business,None (Green Field),86,298,No
+IBM-DEAL-00183,Contoso Manufacturing,Banking & Financial Services,Americas,IBM Storage,Negotiation,1219296,4.6,2025-12-10,81,Isabela Costa,Aisha Bello,Cross-sell,SAP,64,179,No
+IBM-DEAL-00184,Cascade Retail,Healthcare & Life Sciences,Americas,IBM Security QRadar,Discovery,873769,6.4,2025-09-25,40,Hiroshi Sato,Sarah Johnson,New Business,Microsoft Azure,58,59,No
+IBM-DEAL-00185,Consolidated Messenger,Transportation,EMEA,IBM Security QRadar,Proposal,913146,14.8,2025-03-05,60,Marcus Thompson,Rachel Green,New Business,,84,235,No
+IBM-DEAL-00186,Horizon Telecom,Retail & Consumer,EMEA,IBM Security QRadar,Proposal,670605,19.4,2025-09-16,59,Diego Ramirez,Rachel Green,New Business,Oracle,59,219,No
+IBM-DEAL-00187,Parnell Aerospace,Telecommunications,EMEA,IBM watsonx,Discovery,2584997,15.6,2025-04-02,31,Klaus Weber,Takeshi Yamamoto,Renewal,SAP,67,282,Yes
+IBM-DEAL-00188,Sterling Manufacturing,Banking & Financial Services,Americas,IBM watsonx,Negotiation,1204788,16.5,2025-03-24,71,Diego Ramirez,Elena Popov,New Business,Google Cloud,53,133,No
+IBM-DEAL-00189,NHS England,Public Sector,EMEA,IBM Security QRadar,Negotiation,219191,17.3,2026-02-13,82,Fatima El-Amrani,David Chen,Expansion,,79,152,No
+IBM-DEAL-00190,Cascade Retail,Manufacturing,Asia Pacific,IBM Security QRadar,Negotiation,338192,21.6,2025-02-08,71,Emma O'Brien,,Renewal,AWS,46,93,Yes
+IBM-DEAL-00191,Fourth Coffee,Banking & Financial Services,EMEA,Red Hat OpenShift,Closed Won,1145407,12.1,2025-02-07,100,Priya Sharma,Takeshi Yamamoto,Renewal,Oracle,100,167,Yes
+IBM-DEAL-00192,Trey Research,Telecommunications,Asia Pacific,IBM Cloud Pak,Negotiation,2414408,18.1,2025-11-29,80,Yuki Tanaka,David Chen,Cross-sell,SAP,35,63,No
+IBM-DEAL-00193,Kensington Hospital Group,Public Sector,Asia Pacific,IBM watsonx,Closed Won,1835764,19.8,2025-04-09,100,Anna Kowalski,Sarah Johnson,Renewal,AWS,85,268,Yes
+IBM-DEAL-00194,Litware Inc.,Manufacturing,Japan,IBM Consulting,Negotiation,244254,10.1,2025-06-19,69,Sofia Martinez,Elena Popov,Cross-sell,AWS,37,49,No
+IBM-DEAL-00195,Southridge Video,Banking & Financial Services,Japan,IBM Consulting,Negotiation,619664,12.9,2025-12-25,84,Diego Ramirez,Sarah Johnson,Renewal,SAP,89,42,Yes
+IBM-DEAL-00196,Northwind Retail,Transportation,EMEA,IBM Consulting,Proposal,4622868,62.5,2025-11-21,65,Marcus Thompson,Sarah Johnson,New Business,SAP,44,157,No
+IBM-DEAL-00197,Wingtip Toys,Public Sector,EMEA,IBM Security QRadar,Discovery,712308,18.7,2025-03-14,33,Chen Wei,Mohammed Al-Rashid,Cross-sell,Oracle,45,99,No
+IBM-DEAL-00198,Beacon Financial,Healthcare & Life Sciences,Asia Pacific,IBM Consulting,Discovery,4131849,20.9,2025-07-02,38,Jean-Luc Dubois,Aisha Bello,New Business,Oracle,43,340,No
+IBM-DEAL-00199,Fourth Coffee,Telecommunications,Asia Pacific,Red Hat OpenShift,Discovery,1368935,9.6,2026-03-07,27,Lars Andersson,James O'Connor,New Business,SAP,58,73,No
+IBM-DEAL-00200,Toyota Motor Corp,Manufacturing,Japan,IBM Quantum,Proposal,791412,16.0,2025-01-10,48,Jean-Luc Dubois,David Chen,New Business,Microsoft Azure,89,264,No
+IBM-DEAL-00201,Fourth Coffee,Telecommunications,Japan,IBM watsonx,Negotiation,378793,11.2,2025-07-23,74,Priya Sharma,Mohammed Al-Rashid,Expansion,Microsoft Azure,58,262,No
+IBM-DEAL-00202,Fourth Coffee,Transportation,Asia Pacific,IBM watsonx,Discovery,806812,14.7,2025-09-23,28,Rajiv Menon,David Chen,Expansion,Snowflake,85,189,No
+IBM-DEAL-00203,Margie's Travel,Public Sector,EMEA,IBM Cloud Pak,Negotiation,2061072,21.4,2025-04-25,67,Klaus Weber,David Chen,Renewal,SAP,68,212,Yes
+IBM-DEAL-00204,NHS England,Public Sector,EMEA,IBM Cloud Pak,Discovery,556312,14.5,2025-08-01,39,Jean-Luc Dubois,Mohammed Al-Rashid,New Business,AWS,86,174,No
+IBM-DEAL-00205,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Qualification,287528,20.3,2025-09-22,14,Diego Ramirez,Sarah Johnson,Renewal,Microsoft Azure,60,311,Yes
+IBM-DEAL-00206,Graphic Design Institute,Energy & Utilities,EMEA,IBM Storage,Discovery,277796,15.1,2025-08-21,36,Chen Wei,David Chen,Expansion,AWS,73,307,No
+IBM-DEAL-00207,Fourth Coffee,Healthcare & Life Sciences,EMEA,IBM Z Systems,Qualification,1026237,2.9,2025-11-05,13,Rajiv Menon,Takeshi Yamamoto,Renewal,Snowflake,69,5,Yes
+IBM-DEAL-00208,Litware Inc.,Energy & Utilities,EMEA,IBM Cloud Pak,Closed Won,797935,12.0,2025-05-12,100,Anna Kowalski,Takeshi Yamamoto,Expansion,Microsoft Azure,81,7,No
+IBM-DEAL-00209,Fourth Coffee,Energy & Utilities,Asia Pacific,IBM Cloud Pak,Proposal,1395160,8.7,2025-04-15,59,Klaus Weber,James O'Connor,Renewal,None (Green Field),61,287,Yes
+IBM-DEAL-00210,Tailspin Traders,Healthcare & Life Sciences,EMEA,IBM Z Systems,Discovery,4379624,7.4,2025-10-09,26,Sofia Martinez,Mohammed Al-Rashid,Renewal,Google Cloud,74,31,Yes
+IBM-DEAL-00211,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Proposal,2660158,14.4,2025-05-27,52,Klaus Weber,Rachel Green,New Business,,80,310,No
+IBM-DEAL-00212,City Power & Light,Banking & Financial Services,EMEA,IBM Consulting,Proposal,54173,1.9,2025-05-22,60,Jean-Luc Dubois,David Chen,Renewal,SAP,84,209,Yes
+IBM-DEAL-00213,Singapore Airlines,Transportation,Asia Pacific,Red Hat OpenShift,Closed Lost,499576,13.3,2025-04-10,0,Chen Wei,Sarah Johnson,New Business,Microsoft Azure,39,211,No
+IBM-DEAL-00214,Lucerne Publishing,Public Sector,Japan,Red Hat OpenShift,Closed Won,1041059,19.7,2026-03-18,100,Yuki Tanaka,Elena Popov,Renewal,AWS,75,251,Yes
+IBM-DEAL-00215,Lucerne Publishing,Manufacturing,Asia Pacific,IBM watsonx,Closed Won,2722980,10.5,2025-07-01,100,Jean-Luc Dubois,Rachel Green,Renewal,Salesforce,81,298,Yes
+IBM-DEAL-00216,Siemens AG,Manufacturing,EMEA,IBM watsonx,Negotiation,532487,2.6,2025-02-10,69,Rajiv Menon,Rachel Green,New Business,Microsoft Azure,78,257,No
+IBM-DEAL-00217,Margie's Travel,Transportation,EMEA,Red Hat OpenShift,Discovery,1234354,2.8,2025-09-27,27,Priya Sharma,Rachel Green,Cross-sell,Salesforce,86,221,No
+IBM-DEAL-00218,Meridian Bank,Manufacturing,Japan,IBM Consulting,Negotiation,1614948,12.1,2025-05-02,73,Jean-Luc Dubois,Takeshi Yamamoto,New Business,SAP,52,246,No
+IBM-DEAL-00219,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Negotiation,2309497,17.7,2025-10-12,68,Marcus Thompson,Rachel Green,Cross-sell,Oracle,62,200,No
+IBM-DEAL-00220,Southridge Video,Transportation,Asia Pacific,IBM Cloud Pak,Qualification,315935,17.9,2025-09-01,13,Lars Andersson,Aisha Bello,Expansion,AWS,88,327,No
+IBM-DEAL-00221,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Negotiation,2586772,11.8,2026-02-04,83,Isabela Costa,Sarah Johnson,Renewal,SAP,53,186,Yes
+IBM-DEAL-00222,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Proposal,4840243,8.9,2025-02-06,59,Diego Ramirez,James O'Connor,Cross-sell,SAP,40,87,No
+IBM-DEAL-00223,Woodgrove Bank,Transportation,Japan,IBM watsonx,Qualification,1432746,16.4,2026-01-19,17,Klaus Weber,David Chen,Expansion,Google Cloud,40,112,No
+IBM-DEAL-00224,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Closed Won,2640189,5.0,2026-01-13,100,Anna Kowalski,David Chen,New Business,Google Cloud,84,231,No
+IBM-DEAL-00225,Margie's Travel,Transportation,EMEA,Red Hat OpenShift,Discovery,1021063,14.0,2025-10-16,39,Yuki Tanaka,Sarah Johnson,Renewal,Salesforce,62,273,Yes
+IBM-DEAL-00226,Meridian Bank,Retail & Consumer,Asia Pacific,IBM Cloud Pak,Negotiation,1937065,16.8,2026-02-13,80,Jean-Luc Dubois,Takeshi Yamamoto,Renewal,Oracle,53,310,Yes
+IBM-DEAL-00227,Kensington Hospital Group,Energy & Utilities,EMEA,IBM Cloud Pak,Discovery,1122749,16.3,2026-02-19,39,Diego Ramirez,Sarah Johnson,Renewal,Oracle,52,216,Yes
+IBM-DEAL-00228,City Power & Light,Telecommunications,Americas,IBM watsonx,Qualification,1268274,49.3,2026-01-02,13,Hiroshi Sato,James O'Connor,Cross-sell,Oracle,63,9,No
+IBM-DEAL-00229,Contoso Manufacturing,Telecommunications,Americas,IBM Storage,Qualification,189704,12.0,2025-04-03,22,Yuki Tanaka,Takeshi Yamamoto,Cross-sell,Snowflake,47,133,No
+IBM-DEAL-00230,Shell plc,Energy & Utilities,EMEA,IBM Security QRadar,Negotiation,530793,8.6,2025-06-09,71,Chen Wei,James O'Connor,New Business,Microsoft Azure,55,86,No
+IBM-DEAL-00231,NHS England,Public Sector,EMEA,IBM watsonx,Negotiation,148198,45.8,2025-05-22,75,Klaus Weber,Mohammed Al-Rashid,New Business,Snowflake,72,66,No
+IBM-DEAL-00232,US Department of Veterans Affairs,Public Sector,Americas,IBM Cloud Pak,Closed Won,310715,7.8,2025-03-20,100,Lars Andersson,Rachel Green,Cross-sell,AWS,97,279,No
+IBM-DEAL-00233,Lucerne Publishing,Banking & Financial Services,Japan,IBM Security QRadar,Proposal,238676,12.0,2025-06-15,55,Priya Sharma,Sarah Johnson,Renewal,Salesforce,81,244,Yes
+IBM-DEAL-00234,Beacon Financial,Banking & Financial Services,Japan,IBM Security QRadar,Negotiation,550032,7.1,2025-02-02,76,Marcus Thompson,James O'Connor,Expansion,Snowflake,77,280,No
+IBM-DEAL-00235,Adventure Works,Banking & Financial Services,EMEA,IBM watsonx,Qualification,499202,0.7,2025-11-25,16,Emma O'Brien,David Chen,New Business,None (Green Field),88,203,No
+IBM-DEAL-00236,Consolidated Messenger,Transportation,Americas,IBM Z Systems,Proposal,9071713,18.1,2026-02-11,63,Diego Ramirez,Sarah Johnson,Renewal,Salesforce,80,34,Yes
+IBM-DEAL-00237,Kensington Hospital Group,Manufacturing,EMEA,IBM Consulting,Negotiation,4729395,16.5,2025-08-01,70,Hiroshi Sato,Sarah Johnson,New Business,SAP,82,59,No
+IBM-DEAL-00238,Blue Yonder Airlines,Transportation,Asia Pacific,Red Hat OpenShift,Closed Lost,960263,9.5,2026-01-07,0,Emma O'Brien,Aisha Bello,Renewal,Oracle,30,316,Yes
+IBM-DEAL-00239,Nod Publishers,Banking & Financial Services,EMEA,Red Hat OpenShift,Discovery,475516,18.8,2025-01-12,27,Marcus Thompson,Mohammed Al-Rashid,New Business,Google Cloud,84,146,No
+IBM-DEAL-00240,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Closed Won,2955832,10.6,2025-09-07,100,Nia Okafor,Sarah Johnson,Renewal,AWS,97,300,Yes
+IBM-DEAL-00241,Sterling Manufacturing,Energy & Utilities,Americas,IBM Quantum,Negotiation,245918,13.9,2025-11-20,84,Marcus Thompson,Aisha Bello,New Business,Salesforce,59,32,No
+IBM-DEAL-00242,Pacific Northwest Utilities,Transportation,Americas,IBM watsonx,Proposal,1494991,1.8,2025-10-20,44,Hiroshi Sato,Mohammed Al-Rashid,New Business,Snowflake,82,30,No
+IBM-DEAL-00243,City Power & Light,Manufacturing,EMEA,IBM watsonx,Discovery,205055,9.1,2025-07-07,38,Diego Ramirez,Mohammed Al-Rashid,Expansion,SAP,57,102,No
+IBM-DEAL-00244,Fourth Coffee,Transportation,Americas,Red Hat OpenShift,Negotiation,204965,2.5,2025-01-28,69,Anna Kowalski,Aisha Bello,New Business,Google Cloud,50,322,No
+IBM-DEAL-00245,Siemens AG,Manufacturing,EMEA,IBM Security QRadar,Proposal,306222,12.1,2025-11-15,64,Rajiv Menon,James O'Connor,New Business,Microsoft Azure,81,77,No
+IBM-DEAL-00246,Fabrikam Health,Transportation,Americas,IBM watsonx,Negotiation,459976,19.1,2025-11-29,76,Fatima El-Amrani,Rachel Green,Renewal,Snowflake,59,123,Yes
+IBM-DEAL-00247,Beacon Financial,Banking & Financial Services,Americas,IBM watsonx,Discovery,636096,15.1,2025-07-01,32,Emma O'Brien,David Chen,Renewal,Oracle,75,159,Yes
+IBM-DEAL-00248,Northwind Retail,Public Sector,EMEA,IBM watsonx,Negotiation,1739578,21.1,2025-11-10,67,Hiroshi Sato,James O'Connor,Expansion,Oracle,90,325,No
+IBM-DEAL-00249,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Discovery,2786217,19.8,2025-03-11,24,Chen Wei,Mohammed Al-Rashid,Renewal,Google Cloud,62,79,Yes
+IBM-DEAL-00250,Atlas Logistics,Energy & Utilities,Asia Pacific,IBM Z Systems,Closed Won,1524708,17.1,2025-02-24,100,Emma O'Brien,Elena Popov,Cross-sell,Microsoft Azure,79,99,No
+IBM-DEAL-00251,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Proposal,783081,8.5,2025-08-31,60,Anna Kowalski,James O'Connor,Expansion,Oracle,43,88,No
+IBM-DEAL-00252,Siemens AG,Manufacturing,EMEA,IBM watsonx,Closed Lost,2970105,7.1,2025-08-23,0,Nia Okafor,Aisha Bello,Cross-sell,Snowflake,25,223,No
+IBM-DEAL-00253,Contoso Manufacturing,Healthcare & Life Sciences,Japan,IBM Z Systems,Closed Won,2830413,21.6,2025-01-21,100,Diego Ramirez,James O'Connor,Expansion,Microsoft Azure,92,203,No
+IBM-DEAL-00254,Singapore Airlines,Transportation,Asia Pacific,Red Hat OpenShift,Negotiation,950208,17.1,2025-12-23,67,Priya Sharma,Rachel Green,Renewal,Snowflake,69,74,Yes
+IBM-DEAL-00255,Lucerne Publishing,Telecommunications,EMEA,IBM Security QRadar,Qualification,699873,8.0,2025-09-26,24,Priya Sharma,Aisha Bello,New Business,Google Cloud,80,201,No
+IBM-DEAL-00256,Alpine Ski House,Banking & Financial Services,Japan,IBM Cloud Pak,Closed Lost,8688636,2.9,2025-04-14,0,Anna Kowalski,Rachel Green,Renewal,Salesforce,10,323,Yes
+IBM-DEAL-00257,Wingtip Toys,Banking & Financial Services,EMEA,IBM Quantum,Negotiation,560360,4.1,2025-01-29,71,Diego Ramirez,Aisha Bello,New Business,Microsoft Azure,76,183,No
+IBM-DEAL-00258,NHS England,Public Sector,EMEA,IBM Cloud Pak,Negotiation,2183947,10.0,2025-10-24,83,Nia Okafor,Sarah Johnson,Renewal,AWS,58,23,Yes
+IBM-DEAL-00259,Proseware Systems,Public Sector,Asia Pacific,IBM Consulting,Negotiation,470604,16.1,2025-11-19,84,Diego Ramirez,Takeshi Yamamoto,Renewal,None (Green Field),68,49,Yes
+IBM-DEAL-00260,VanArsdel Ltd.,Retail & Consumer,Japan,IBM Consulting,Proposal,2122187,21.5,2025-01-01,45,Jean-Luc Dubois,Takeshi Yamamoto,Renewal,None (Green Field),42,17,Yes
+IBM-DEAL-00261,Meridian Bank,Manufacturing,Asia Pacific,IBM Cloud Pak,Discovery,1418635,16.9,2025-02-28,37,Anna Kowalski,Mohammed Al-Rashid,New Business,SAP,78,175,No
+IBM-DEAL-00262,Horizon Telecom,Banking & Financial Services,EMEA,IBM Consulting,Closed Won,4258832,9.1,2026-01-16,100,Anna Kowalski,Elena Popov,Renewal,Salesforce,76,271,Yes
+IBM-DEAL-00263,Adventure Works,Retail & Consumer,Asia Pacific,IBM Storage,Proposal,388063,12.6,2025-07-19,57,Fatima El-Amrani,David Chen,New Business,AWS,46,309,No
+IBM-DEAL-00264,Parnell Aerospace,Manufacturing,Asia Pacific,IBM watsonx,Qualification,465423,0.5,2025-09-05,16,Diego Ramirez,Aisha Bello,Renewal,Oracle,67,83,Yes
+IBM-DEAL-00265,Tailspin Traders,Manufacturing,Americas,IBM Z Systems,Proposal,3229476,15.1,2025-11-01,40,Diego Ramirez,David Chen,Renewal,SAP,90,49,Yes
+IBM-DEAL-00266,City Power & Light,Public Sector,Asia Pacific,IBM Consulting,Negotiation,600783,2.5,2025-11-15,73,Fatima El-Amrani,James O'Connor,Expansion,AWS,70,268,No
+IBM-DEAL-00267,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Proposal,249250,19.9,2025-01-26,41,Isabela Costa,Aisha Bello,Expansion,Microsoft Azure,41,201,No
+IBM-DEAL-00268,Wingtip Toys,Transportation,EMEA,IBM watsonx,Negotiation,1046142,14.2,2026-01-28,68,Emma O'Brien,Aisha Bello,Expansion,Oracle,64,245,No
+IBM-DEAL-00269,Southridge Video,Transportation,Japan,IBM watsonx,Proposal,749043,7.7,2025-10-22,54,Chen Wei,Aisha Bello,Renewal,AWS,43,265,Yes
+IBM-DEAL-00270,Atlas Logistics,Manufacturing,EMEA,IBM Consulting,Proposal,1791828,17.9,2025-10-30,50,Sofia Martinez,Rachel Green,Cross-sell,SAP,62,227,No
+IBM-DEAL-00271,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Qualification,2960231,17.9,2026-01-30,13,Sofia Martinez,Elena Popov,Cross-sell,SAP,87,199,No
+IBM-DEAL-00272,Meridian Bank,Retail & Consumer,EMEA,IBM Z Systems,Negotiation,1891370,4.5,2026-03-26,79,Lars Andersson,Sarah Johnson,New Business,Salesforce,55,158,No
+IBM-DEAL-00273,Nod Publishers,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Qualification,255054,18.9,2026-03-20,21,Fatima El-Amrani,Takeshi Yamamoto,Cross-sell,Snowflake,36,125,No
+IBM-DEAL-00274,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Closed Won,685588,19.2,2025-03-06,100,Klaus Weber,Takeshi Yamamoto,Renewal,AWS,79,10,Yes
+IBM-DEAL-00275,Beacon Financial,Energy & Utilities,EMEA,IBM Z Systems,Closed Won,2964732,9.3,2025-01-04,100,Lars Andersson,David Chen,Renewal,Oracle,93,260,Yes
+IBM-DEAL-00276,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Negotiation,610986,10.2,2025-02-10,81,Sofia Martinez,James O'Connor,New Business,AWS,68,317,No
+IBM-DEAL-00277,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Negotiation,3420738,17.6,2025-05-29,78,Rajiv Menon,Rachel Green,Renewal,Salesforce,45,23,Yes
+IBM-DEAL-00278,Rakuten Group,Retail & Consumer,Japan,IBM Consulting,Qualification,19006112,5.5,2025-11-12,12,Marcus Thompson,Rachel Green,New Business,Salesforce,52,145,No
+IBM-DEAL-00279,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Storage,Discovery,219696,18.1,2026-03-05,22,Priya Sharma,Elena Popov,Expansion,Snowflake,66,216,No
+IBM-DEAL-00280,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Proposal,2133297,15.0,2025-07-19,55,Diego Ramirez,Rachel Green,Renewal,Google Cloud,65,139,Yes
+IBM-DEAL-00281,Litware Inc.,Telecommunications,Japan,IBM Consulting,Discovery,2492776,5.6,2025-10-27,28,Jean-Luc Dubois,Aisha Bello,Renewal,Oracle,60,241,Yes
+IBM-DEAL-00282,HSBC Holdings,Banking & Financial Services,EMEA,IBM Storage,Qualification,1477596,9.8,2025-04-23,13,Sofia Martinez,David Chen,New Business,Salesforce,81,150,No
+IBM-DEAL-00283,Proseware Systems,Healthcare & Life Sciences,Americas,IBM Quantum,Negotiation,1699951,19.7,2025-12-23,85,Isabela Costa,James O'Connor,New Business,Salesforce,46,134,No
+IBM-DEAL-00284,Lucerne Publishing,Retail & Consumer,Americas,IBM Cloud Pak,Proposal,1143131,21.0,2025-05-16,41,Nia Okafor,Mohammed Al-Rashid,New Business,AWS,46,230,No
+IBM-DEAL-00285,Litware Inc.,Transportation,Asia Pacific,IBM watsonx,Negotiation,1955164,0.4,2025-09-12,73,Emma O'Brien,Mohammed Al-Rashid,New Business,Microsoft Azure,44,339,No
+IBM-DEAL-00286,Quantum Chemicals,Transportation,Japan,IBM Z Systems,Closed Won,4387716,8.5,2025-12-19,100,Lars Andersson,Aisha Bello,Renewal,AWS,99,251,Yes
+IBM-DEAL-00287,Wingtip Toys,Telecommunications,Asia Pacific,IBM watsonx,Closed Won,839285,21.3,2025-12-05,100,Lars Andersson,Rachel Green,Renewal,Snowflake,81,158,Yes
+IBM-DEAL-00288,Siemens AG,Manufacturing,EMEA,IBM watsonx,Discovery,349210,17.4,2025-11-26,32,Rajiv Menon,Takeshi Yamamoto,Cross-sell,Microsoft Azure,54,260,No
+IBM-DEAL-00289,Fourth Coffee,Manufacturing,Americas,IBM watsonx,Negotiation,2678640,1.0,2025-12-26,80,Diego Ramirez,Sarah Johnson,New Business,Microsoft Azure,76,71,No
+IBM-DEAL-00290,Litware Inc.,Healthcare & Life Sciences,Japan,IBM Consulting,Qualification,3443659,18.4,2026-01-13,16,Marcus Thompson,Aisha Bello,Renewal,SAP,78,210,Yes
+IBM-DEAL-00291,Trey Research,Healthcare & Life Sciences,Americas,IBM Cloud Pak,Discovery,1109626,5.4,2025-10-25,31,Nia Okafor,,Expansion,,37,73,No
+IBM-DEAL-00292,JPMorgan Chase,Banking & Financial Services,Americas,IBM Security QRadar,Discovery,675810,3.1,2025-05-19,35,Rajiv Menon,Mohammed Al-Rashid,Renewal,Snowflake,68,235,Yes
+IBM-DEAL-00293,Parnell Aerospace,Telecommunications,Japan,IBM watsonx,Qualification,2680942,8.0,2026-01-25,13,Jean-Luc Dubois,James O'Connor,New Business,Oracle,69,264,No
+IBM-DEAL-00294,Horizon Telecom,Transportation,EMEA,IBM watsonx,Qualification,1280647,4.6,2025-05-09,21,Priya Sharma,Mohammed Al-Rashid,Cross-sell,Microsoft Azure,56,320,No
+IBM-DEAL-00295,Cascade Retail,Telecommunications,Japan,IBM watsonx,Discovery,1334245,5.2,2025-07-31,23,Klaus Weber,David Chen,Renewal,Snowflake,90,107,Yes
+IBM-DEAL-00296,Kensington Hospital Group,Telecommunications,EMEA,IBM Z Systems,Proposal,1946267,7.4,2025-01-17,48,Isabela Costa,Rachel Green,New Business,Microsoft Azure,79,296,No
+IBM-DEAL-00297,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Storage,Negotiation,1429048,18.8,2025-02-14,70,Klaus Weber,Rachel Green,Renewal,None (Green Field),61,272,Yes
+IBM-DEAL-00298,Walmart Inc.,Retail & Consumer,Americas,IBM Z Systems,Closed Won,7915130,12.6,2025-01-03,100,Rajiv Menon,Takeshi Yamamoto,New Business,Microsoft Azure,88,27,No
+IBM-DEAL-00299,Cascade Retail,Transportation,EMEA,IBM watsonx,Negotiation,452806,6.5,2025-11-28,78,Isabela Costa,David Chen,Expansion,None (Green Field),40,13,No
+IBM-DEAL-00300,Alpine Ski House,Telecommunications,Japan,IBM Security QRadar,Negotiation,759304,7.3,2025-01-17,77,Jean-Luc Dubois,Sarah Johnson,New Business,Salesforce,53,223,No
+IBM-DEAL-00301,Woodgrove Bank,Banking & Financial Services,Americas,IBM Cloud Pak,Qualification,830468,15.5,2025-10-15,21,Chen Wei,Rachel Green,Renewal,Google Cloud,80,109,Yes
+IBM-DEAL-00302,Graphic Design Institute,Telecommunications,Asia Pacific,IBM Quantum,Proposal,655572,10.0,2025-09-14,41,Diego Ramirez,Rachel Green,Renewal,None (Green Field),68,67,Yes
+IBM-DEAL-00303,Adventure Works,Manufacturing,Japan,IBM watsonx,Discovery,489028,2.5,2025-03-17,22,Diego Ramirez,Takeshi Yamamoto,Renewal,Oracle,66,82,Yes
+IBM-DEAL-00304,Cascade Retail,Banking & Financial Services,Asia Pacific,IBM watsonx,Closed Won,1811760,12.7,2025-12-02,100,Isabela Costa,Rachel Green,New Business,None (Green Field),95,172,No
+IBM-DEAL-00305,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Discovery,676015,10.0,2025-03-27,21,Marcus Thompson,Mohammed Al-Rashid,Renewal,Salesforce,74,87,Yes
+IBM-DEAL-00306,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Negotiation,1502198,3.3,2025-08-18,75,Klaus Weber,Mohammed Al-Rashid,New Business,Salesforce,69,88,No
+IBM-DEAL-00307,Trey Research,Public Sector,Japan,IBM Quantum,Closed Won,3858650,7.5,2025-02-27,100,Diego Ramirez,David Chen,Cross-sell,Microsoft Azure,98,250,No
+IBM-DEAL-00308,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Proposal,2376422,4.3,2025-02-12,65,Klaus Weber,Aisha Bello,New Business,AWS,69,233,No
+IBM-DEAL-00309,Pacific Northwest Utilities,Retail & Consumer,Japan,IBM Cloud Pak,Discovery,1545915,19.2,2025-02-14,31,Hiroshi Sato,Takeshi Yamamoto,Renewal,Snowflake,48,232,Yes
+IBM-DEAL-00310,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Discovery,712667,9.0,2025-05-20,38,Marcus Thompson,Elena Popov,Renewal,None (Green Field),61,94,Yes
+IBM-DEAL-00311,Toyota Motor Corp,Manufacturing,Japan,IBM Storage,Proposal,510853,0.6,2025-01-02,54,Klaus Weber,Sarah Johnson,New Business,Salesforce,44,139,No
+IBM-DEAL-00312,Humongous Insurance,Banking & Financial Services,Americas,IBM Security QRadar,Closed Lost,640519,9.6,2025-05-13,0,Emma O'Brien,Mohammed Al-Rashid,Renewal,SAP,40,66,Yes
+IBM-DEAL-00313,VanArsdel Ltd.,Retail & Consumer,Americas,IBM Cloud Pak,Closed Won,247661,11.7,2025-02-09,100,Priya Sharma,Aisha Bello,Renewal,Google Cloud,91,104,Yes
+IBM-DEAL-00314,Woodgrove Bank,Healthcare & Life Sciences,Asia Pacific,IBM Storage,Proposal,1673278,10.7,2025-06-24,51,Jean-Luc Dubois,Sarah Johnson,New Business,Oracle,45,57,No
+IBM-DEAL-00315,HSBC Holdings,Banking & Financial Services,EMEA,IBM Z Systems,Proposal,7713565,21.7,2025-09-25,54,Chen Wei,Elena Popov,New Business,Google Cloud,83,180,No
+IBM-DEAL-00316,Consolidated Messenger,Retail & Consumer,Americas,IBM Z Systems,Qualification,4006651,9.5,2025-04-11,10,Rajiv Menon,Sarah Johnson,Expansion,Microsoft Azure,,21,No
+IBM-DEAL-00317,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Discovery,207721,2.0,2026-03-10,31,Yuki Tanaka,Sarah Johnson,Cross-sell,SAP,82,147,No
+IBM-DEAL-00318,Siemens AG,Manufacturing,EMEA,Red Hat OpenShift,Closed Won,231958,20.3,2025-09-16,100,Chen Wei,Mohammed Al-Rashid,New Business,SAP,97,248,No
+IBM-DEAL-00319,Atlas Logistics,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Qualification,3040855,6.3,2026-01-05,21,Isabela Costa,James O'Connor,New Business,SAP,37,47,No
+IBM-DEAL-00320,Sterling Manufacturing,Manufacturing,Americas,IBM Quantum,Closed Won,670080,14.8,2025-12-11,100,Chen Wei,Mohammed Al-Rashid,Expansion,None (Green Field),78,207,No
+IBM-DEAL-00321,Blue Yonder Airlines,Healthcare & Life Sciences,Asia Pacific,Red Hat OpenShift,Negotiation,282450,5.1,2025-08-06,77,Emma O'Brien,Takeshi Yamamoto,New Business,Salesforce,81,260,No
+IBM-DEAL-00322,Margie's Travel,Retail & Consumer,Japan,IBM watsonx,Proposal,649588,0.7,2026-01-13,60,Nia Okafor,Aisha Bello,New Business,None (Green Field),38,39,No
+IBM-DEAL-00323,Singapore Airlines,Transportation,Asia Pacific,IBM Security QRadar,Discovery,330491,11.9,2026-02-19,35,Hiroshi Sato,Sarah Johnson,Expansion,Microsoft Azure,90,281,No
+IBM-DEAL-00324,Contoso Manufacturing,Retail & Consumer,Asia Pacific,IBM Quantum,Proposal,3413843,10.7,2025-02-26,49,Rajiv Menon,Takeshi Yamamoto,New Business,None (Green Field),71,256,No
+IBM-DEAL-00325,Nod Publishers,Telecommunications,Americas,IBM watsonx,Closed Won,3197413,12.8,2026-01-27,100,Lars Andersson,Takeshi Yamamoto,New Business,Snowflake,95,179,No
+IBM-DEAL-00326,Wingtip Toys,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Proposal,2018194,14.5,2025-08-05,41,Anna Kowalski,Aisha Bello,New Business,Snowflake,71,268,No
+IBM-DEAL-00327,Litware Inc.,Manufacturing,Asia Pacific,IBM Consulting,Negotiation,1394725,9.6,2025-09-12,70,Nia Okafor,Elena Popov,Expansion,Oracle,75,43,No
+IBM-DEAL-00328,Trey Research,Public Sector,Americas,IBM Consulting,Proposal,719365,6.6,2026-02-16,51,Isabela Costa,Mohammed Al-Rashid,Renewal,SAP,54,226,Yes
+IBM-DEAL-00329,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Negotiation,1208804,20.6,2025-09-30,79,Rajiv Menon,Elena Popov,Cross-sell,Snowflake,86,319,No
+IBM-DEAL-00330,Parnell Aerospace,Energy & Utilities,Japan,IBM Cloud Pak,Qualification,907070,6.3,2025-03-24,16,Jean-Luc Dubois,David Chen,Expansion,Oracle,51,312,No
+IBM-DEAL-00331,Sterling Manufacturing,Energy & Utilities,Americas,IBM watsonx,Qualification,2847665,12.1,2025-11-26,18,Sofia Martinez,Aisha Bello,New Business,None (Green Field),89,26,No
+IBM-DEAL-00332,Woodgrove Bank,Healthcare & Life Sciences,Japan,Red Hat OpenShift,Qualification,1308406,20.5,2025-09-25,13,Chen Wei,Aisha Bello,Renewal,Salesforce,77,302,Yes
+IBM-DEAL-00333,Humongous Insurance,Energy & Utilities,EMEA,IBM watsonx,Closed Lost,1797851,5.6,2025-10-29,0,Hiroshi Sato,Rachel Green,New Business,SAP,13,256,No
+IBM-DEAL-00334,Woodgrove Bank,Transportation,Asia Pacific,IBM Storage,Closed Lost,1590738,14.6,2025-01-28,0,Lars Andersson,Sarah Johnson,New Business,Snowflake,25,134,No
+IBM-DEAL-00335,BT Group,Telecommunications,EMEA,Red Hat OpenShift,Discovery,648741,4.6,2025-03-24,27,Hiroshi Sato,David Chen,Cross-sell,SAP,63,328,No
+IBM-DEAL-00336,Atlas Logistics,Telecommunications,Japan,IBM Quantum,Closed Won,1875714,9.3,2026-01-09,100,Priya Sharma,Rachel Green,Expansion,None (Green Field),92,172,No
+IBM-DEAL-00337,Southridge Video,Healthcare & Life Sciences,Americas,IBM watsonx,Closed Lost,2720061,17.4,2025-06-13,0,Fatima El-Amrani,James O'Connor,Renewal,Google Cloud,38,249,Yes
+IBM-DEAL-00338,Graphic Design Institute,Banking & Financial Services,Americas,Red Hat OpenShift,Negotiation,904727,15.4,2025-03-28,67,Lars Andersson,Mohammed Al-Rashid,Renewal,Snowflake,38,210,Yes
+IBM-DEAL-00339,Beacon Financial,Transportation,Americas,IBM watsonx,Closed Won,1292800,16.4,2025-07-15,100,Diego Ramirez,Elena Popov,New Business,Oracle,79,225,No
+IBM-DEAL-00340,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Discovery,3085549,1.9,2025-08-29,38,Hiroshi Sato,James O'Connor,Renewal,Snowflake,43,170,Yes
+IBM-DEAL-00341,Horizon Telecom,Telecommunications,Americas,IBM watsonx,Proposal,2788141,21.3,2025-10-14,52,Fatima El-Amrani,Rachel Green,Renewal,Google Cloud,37,302,Yes
+IBM-DEAL-00342,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Proposal,1572433,20.4,2025-05-25,48,Priya Sharma,Aisha Bello,Cross-sell,Salesforce,51,318,No
+IBM-DEAL-00343,Cascade Retail,Banking & Financial Services,EMEA,IBM watsonx,Qualification,770999,15.5,2025-08-12,18,Klaus Weber,Rachel Green,New Business,Microsoft Azure,42,258,No
+IBM-DEAL-00344,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Closed Won,2447430,19.6,2025-10-27,100,Hiroshi Sato,Sarah Johnson,New Business,Microsoft Azure,81,303,No
+IBM-DEAL-00345,Nod Publishers,Healthcare & Life Sciences,Japan,IBM Cloud Pak,Qualification,704981,0.6,2025-08-24,20,Anna Kowalski,Aisha Bello,Cross-sell,SAP,88,250,No
+IBM-DEAL-00346,Tailspin Traders,Manufacturing,Americas,IBM Storage,Closed Won,1187469,20.9,2025-07-15,100,Nia Okafor,Sarah Johnson,New Business,Salesforce,77,209,No
+IBM-DEAL-00347,Fourth Coffee,Healthcare & Life Sciences,Asia Pacific,IBM Consulting,Closed Won,1097838,2.1,2025-07-08,100,Emma O'Brien,Takeshi Yamamoto,Renewal,None (Green Field),91,107,Yes
+IBM-DEAL-00348,NHS England,Public Sector,EMEA,IBM Z Systems,Discovery,5924390,4.9,2025-12-18,34,Sofia Martinez,James O'Connor,New Business,None (Green Field),80,84,No
+IBM-DEAL-00349,Tailspin Traders,Public Sector,EMEA,IBM Consulting,Qualification,423283,11.3,2025-09-19,12,Emma O'Brien,Aisha Bello,New Business,AWS,62,216,No
+IBM-DEAL-00350,NHS England,Public Sector,EMEA,IBM Z Systems,Closed Won,537434,15.5,2025-06-10,100,Priya Sharma,Elena Popov,Expansion,None (Green Field),93,237,No
+IBM-DEAL-00351,Litware Inc.,Energy & Utilities,Americas,IBM watsonx,Discovery,2015063,15.2,2026-03-21,35,Lars Andersson,Takeshi Yamamoto,New Business,None (Green Field),77,313,No
+IBM-DEAL-00352,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Qualification,1262641,14.3,2025-08-12,25,Marcus Thompson,Rachel Green,New Business,Oracle,88,325,No
+IBM-DEAL-00353,Cascade Retail,Transportation,Japan,IBM watsonx,Discovery,2717819,8.6,2025-06-20,29,Diego Ramirez,David Chen,Renewal,Snowflake,35,57,Yes
+IBM-DEAL-00354,Quantum Chemicals,Manufacturing,Americas,IBM Consulting,Discovery,2562007,9.2,2025-08-31,22,Priya Sharma,James O'Connor,Renewal,SAP,42,258,Yes
+IBM-DEAL-00355,Trey Research,Transportation,EMEA,IBM Quantum,Proposal,3453693,17.6,2026-03-09,53,Klaus Weber,Mohammed Al-Rashid,Renewal,Oracle,45,323,Yes
+IBM-DEAL-00356,Quantum Chemicals,Public Sector,EMEA,IBM watsonx,Qualification,1582550,14.9,2025-03-31,18,Chen Wei,Elena Popov,New Business,Microsoft Azure,87,262,No
+IBM-DEAL-00357,VanArsdel Ltd.,Banking & Financial Services,Asia Pacific,IBM Quantum,Closed Won,441560,9.6,2025-08-23,100,Chen Wei,David Chen,Expansion,AWS,99,61,No
+IBM-DEAL-00358,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Proposal,2175403,16.1,2025-02-20,56,Jean-Luc Dubois,,New Business,SAP,44,336,No
+IBM-DEAL-00359,Horizon Telecom,Telecommunications,Asia Pacific,IBM Consulting,Proposal,3526344,7.9,2025-12-07,64,Hiroshi Sato,Takeshi Yamamoto,New Business,Snowflake,50,82,No
+IBM-DEAL-00360,Woodgrove Bank,Banking & Financial Services,Japan,IBM watsonx,Closed Won,440585,7.4,2025-07-25,100,Marcus Thompson,David Chen,New Business,Snowflake,99,89,No
+IBM-DEAL-00361,Nod Publishers,Energy & Utilities,Japan,IBM Quantum,Closed Won,2588650,6.2,2025-09-28,100,Isabela Costa,Aisha Bello,Renewal,Snowflake,94,80,Yes
+IBM-DEAL-00362,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Proposal,3552430,11.5,2025-10-04,63,Fatima El-Amrani,Mohammed Al-Rashid,Renewal,AWS,53,114,Yes
+IBM-DEAL-00363,Toyota Motor Corp,Manufacturing,Japan,IBM Security QRadar,Qualification,917464,8.2,2025-11-18,11,Chen Wei,Rachel Green,Cross-sell,AWS,67,186,No
+IBM-DEAL-00364,Graphic Design Institute,Telecommunications,Asia Pacific,IBM Cloud Pak,Negotiation,999359,5.4,2025-06-17,69,Chen Wei,Mohammed Al-Rashid,Expansion,Oracle,68,303,No
+IBM-DEAL-00365,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Z Systems,Proposal,3724596,11.4,2025-07-22,56,Klaus Weber,Takeshi Yamamoto,Renewal,None (Green Field),90,140,Yes
+IBM-DEAL-00366,Tailspin Traders,Healthcare & Life Sciences,EMEA,IBM Z Systems,Discovery,3348181,20.3,2025-03-02,37,Rajiv Menon,Mohammed Al-Rashid,New Business,AWS,73,214,No
+IBM-DEAL-00367,HSBC Holdings,Banking & Financial Services,EMEA,IBM Storage,Negotiation,679975,19.6,2025-04-21,66,Rajiv Menon,Takeshi Yamamoto,New Business,Microsoft Azure,46,255,No
+IBM-DEAL-00368,Kensington Hospital Group,Transportation,EMEA,IBM Security QRadar,Proposal,723407,19.1,2025-06-16,54,Fatima El-Amrani,David Chen,Renewal,Snowflake,40,324,Yes
+IBM-DEAL-00369,Blue Yonder Airlines,Banking & Financial Services,Asia Pacific,IBM Consulting,Proposal,4590235,12.7,2025-01-28,46,Anna Kowalski,Sarah Johnson,New Business,Oracle,71,272,No
+IBM-DEAL-00370,Siemens AG,Manufacturing,EMEA,IBM watsonx,Closed Won,480556,13.4,2025-07-25,100,Hiroshi Sato,Mohammed Al-Rashid,Renewal,None (Green Field),93,28,Yes
+IBM-DEAL-00371,JPMorgan Chase,Banking & Financial Services,Americas,Red Hat OpenShift,Discovery,606086,3.4,2025-07-28,25,Anna Kowalski,David Chen,Renewal,Microsoft Azure,78,91,Yes
+IBM-DEAL-00372,Lucerne Publishing,Energy & Utilities,Americas,IBM watsonx,Negotiation,2152705,11.2,2025-09-16,72,Hiroshi Sato,Sarah Johnson,New Business,Salesforce,59,63,No
+IBM-DEAL-00373,Margie's Travel,Healthcare & Life Sciences,EMEA,IBM Security QRadar,Qualification,439901,14.0,2025-04-15,23,Yuki Tanaka,Takeshi Yamamoto,Renewal,SAP,85,77,Yes
+IBM-DEAL-00374,Nod Publishers,Retail & Consumer,Americas,IBM watsonx,Discovery,2937117,8.4,2025-06-29,28,Rajiv Menon,Mohammed Al-Rashid,Cross-sell,Oracle,88,328,No
+IBM-DEAL-00375,Proseware Systems,Retail & Consumer,Asia Pacific,IBM Quantum,Proposal,2820126,19.4,2025-06-25,65,Fatima El-Amrani,Aisha Bello,New Business,None (Green Field),75,138,No
+IBM-DEAL-00376,Tailspin Traders,Banking & Financial Services,Japan,IBM watsonx,Discovery,3006290,15.5,2026-01-26,37,Sofia Martinez,David Chen,New Business,AWS,60,280,No
+IBM-DEAL-00377,BT Group,Telecommunications,EMEA,IBM Storage,Discovery,298271,20.6,2025-08-16,20,Lars Andersson,Elena Popov,Renewal,Microsoft Azure,35,118,Yes
+IBM-DEAL-00378,Graphic Design Institute,Transportation,Asia Pacific,IBM watsonx,Negotiation,819734,21.7,2025-11-23,84,Jean-Luc Dubois,Mohammed Al-Rashid,Renewal,Salesforce,60,61,Yes
+IBM-DEAL-00379,US Department of Veterans Affairs,Public Sector,Americas,IBM Quantum,Negotiation,1300289,0.5,2025-12-21,73,Anna Kowalski,Takeshi Yamamoto,Expansion,Salesforce,78,277,No
+IBM-DEAL-00380,Sterling Manufacturing,Energy & Utilities,Asia Pacific,IBM watsonx,Proposal,298081,4.9,2025-05-23,56,Fatima El-Amrani,Sarah Johnson,Renewal,None (Green Field),61,277,Yes
+IBM-DEAL-00381,Rakuten Group,Retail & Consumer,Japan,IBM Z Systems,Discovery,3011736,6.8,2025-11-17,25,Fatima El-Amrani,James O'Connor,New Business,Microsoft Azure,75,54,No
+IBM-DEAL-00382,Trey Research,Manufacturing,Americas,IBM Security QRadar,Closed Won,569791,21.4,2025-01-18,100,Isabela Costa,David Chen,Renewal,AWS,87,165,Yes
+IBM-DEAL-00383,Fabrikam Health,Public Sector,Japan,IBM Z Systems,Proposal,7184328,0.2,2025-07-16,59,Anna Kowalski,Rachel Green,Renewal,AWS,64,224,Yes
+IBM-DEAL-00384,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Discovery,401746,5.6,2025-08-04,38,Rajiv Menon,David Chen,Expansion,None (Green Field),65,322,No
+IBM-DEAL-00385,VanArsdel Ltd.,Public Sector,EMEA,IBM watsonx,Discovery,118897,11.4,2025-12-03,31,Rajiv Menon,Takeshi Yamamoto,New Business,Microsoft Azure,78,79,No
+IBM-DEAL-00386,JPMorgan Chase,Banking & Financial Services,Americas,IBM Cloud Pak,Negotiation,1601934,12.5,2025-06-21,79,Rajiv Menon,Rachel Green,Renewal,Snowflake,,158,Yes
+IBM-DEAL-00387,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Closed Won,3070406,8.8,2026-02-27,100,Chen Wei,Mohammed Al-Rashid,Renewal,Microsoft Azure,75,190,Yes
+IBM-DEAL-00388,Contoso Manufacturing,Banking & Financial Services,EMEA,IBM watsonx,Closed Won,1510297,18.6,2025-05-06,100,Chen Wei,David Chen,New Business,Microsoft Azure,80,105,No
+IBM-DEAL-00389,Trey Research,Manufacturing,Asia Pacific,IBM Z Systems,Proposal,8210832,17.6,2025-11-16,45,Jean-Luc Dubois,Elena Popov,Renewal,AWS,62,38,Yes
+IBM-DEAL-00390,Humongous Insurance,Banking & Financial Services,EMEA,IBM Quantum,Qualification,596768,13.8,2025-05-24,17,Klaus Weber,Sarah Johnson,New Business,None (Green Field),90,69,No
+IBM-DEAL-00391,Woodgrove Bank,Transportation,Japan,IBM watsonx,Proposal,3508677,10.4,2025-10-25,55,Isabela Costa,Elena Popov,Renewal,Microsoft Azure,60,331,Yes
+IBM-DEAL-00392,Woodgrove Bank,Public Sector,Americas,IBM watsonx,Proposal,1050434,12.8,2025-08-27,51,Hiroshi Sato,Aisha Bello,New Business,SAP,67,323,No
+IBM-DEAL-00393,Siemens AG,Manufacturing,EMEA,IBM Cloud Pak,Closed Won,2164554,11.3,2025-11-26,100,Rajiv Menon,Elena Popov,New Business,Oracle,77,146,No
+IBM-DEAL-00394,Margie's Travel,Manufacturing,EMEA,Red Hat OpenShift,Negotiation,30371,6.2,2025-06-27,73,Anna Kowalski,Rachel Green,Expansion,Snowflake,85,211,No
+IBM-DEAL-00395,Graphic Design Institute,Manufacturing,EMEA,IBM Z Systems,Closed Won,6906091,7.5,2025-02-13,100,Jean-Luc Dubois,Rachel Green,Renewal,Snowflake,85,101,Yes
+IBM-DEAL-00396,Tailspin Traders,Public Sector,Americas,IBM Consulting,Proposal,3481706,16.6,2026-01-26,47,Rajiv Menon,Mohammed Al-Rashid,Renewal,Salesforce,84,280,Yes
+IBM-DEAL-00397,Pacific Northwest Utilities,Energy & Utilities,EMEA,Red Hat OpenShift,Proposal,252831,7.2,2025-08-20,55,Priya Sharma,David Chen,New Business,AWS,75,160,No
+IBM-DEAL-00398,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Negotiation,1966997,1.3,2025-09-23,67,Priya Sharma,Sarah Johnson,New Business,SAP,35,92,No
+IBM-DEAL-00399,Consolidated Messenger,Retail & Consumer,EMEA,IBM Cloud Pak,Negotiation,1917519,12.9,2025-09-15,70,Isabela Costa,Sarah Johnson,Expansion,Salesforce,80,239,No
+IBM-DEAL-00400,Quantum Chemicals,Transportation,Japan,IBM Consulting,Discovery,3131537,15.7,2025-06-02,34,Hiroshi Sato,Rachel Green,Renewal,Google Cloud,60,318,Yes
+IBM-DEAL-00401,Rakuten Group,Retail & Consumer,Japan,Red Hat OpenShift,Closed Won,1342185,11.8,2025-12-08,100,Chen Wei,Aisha Bello,New Business,None (Green Field),77,116,No
+IBM-DEAL-00402,Cascade Retail,Retail & Consumer,Asia Pacific,IBM watsonx,Qualification,1683682,7.6,2025-07-24,24,Marcus Thompson,Aisha Bello,New Business,Snowflake,89,104,No
+IBM-DEAL-00403,NHS England,Public Sector,EMEA,IBM watsonx,Qualification,761820,3.8,2025-01-10,18,Nia Okafor,Mohammed Al-Rashid,Cross-sell,Google Cloud,73,56,No
+IBM-DEAL-00404,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Closed Won,2053578,18.4,2026-02-20,100,Rajiv Menon,David Chen,Renewal,AWS,91,333,Yes
+IBM-DEAL-00405,Siemens AG,Manufacturing,EMEA,IBM watsonx,Qualification,1498969,18.1,2025-12-15,10,Priya Sharma,Mohammed Al-Rashid,New Business,Oracle,77,37,No
+IBM-DEAL-00406,City Power & Light,Manufacturing,Japan,Red Hat OpenShift,Discovery,703151,3.8,2025-07-25,31,Sofia Martinez,James O'Connor,New Business,Microsoft Azure,76,166,No
+IBM-DEAL-00407,Toyota Motor Corp,Manufacturing,Japan,IBM Security QRadar,Closed Lost,340377,13.2,2025-11-20,0,Fatima El-Amrani,Rachel Green,Renewal,SAP,34,73,Yes
+IBM-DEAL-00408,Graphic Design Institute,Banking & Financial Services,EMEA,IBM watsonx,Qualification,1817067,5.4,2025-02-10,17,Nia Okafor,Elena Popov,Expansion,SAP,38,75,No
+IBM-DEAL-00409,Cascade Retail,Telecommunications,EMEA,IBM Cloud Pak,Closed Won,1365317,5.0,2026-01-11,100,Yuki Tanaka,Elena Popov,Renewal,Oracle,85,180,Yes
+IBM-DEAL-00410,Meridian Bank,Healthcare & Life Sciences,Japan,IBM watsonx,Negotiation,941560,2.8,2025-03-30,69,Isabela Costa,James O'Connor,New Business,Oracle,72,286,No
+IBM-DEAL-00411,Parnell Aerospace,Public Sector,Japan,Red Hat OpenShift,Closed Won,192805,20.9,2025-07-04,100,Hiroshi Sato,Mohammed Al-Rashid,New Business,Google Cloud,87,198,No
+IBM-DEAL-00412,Wingtip Toys,Public Sector,EMEA,IBM Consulting,Proposal,3850098,6.2,2025-10-15,49,Jean-Luc Dubois,Mohammed Al-Rashid,New Business,AWS,,251,No
+IBM-DEAL-00413,Woodgrove Bank,Transportation,Japan,Red Hat OpenShift,Closed Lost,830384,10.8,2025-11-25,0,Priya Sharma,Elena Popov,Cross-sell,Microsoft Azure,14,214,No
+IBM-DEAL-00414,VanArsdel Ltd.,Transportation,Asia Pacific,IBM Consulting,Closed Won,2064117,20.3,2025-07-05,100,Marcus Thompson,James O'Connor,Renewal,Google Cloud,95,19,Yes
+IBM-DEAL-00415,JPMorgan Chase,Banking & Financial Services,Americas,IBM Security QRadar,Closed Won,795408,19.8,2025-09-23,100,Diego Ramirez,Takeshi Yamamoto,Renewal,Google Cloud,81,221,Yes
+IBM-DEAL-00416,Wingtip Toys,Healthcare & Life Sciences,Asia Pacific,IBM Storage,Discovery,1505928,6.8,2025-03-28,32,Hiroshi Sato,Takeshi Yamamoto,New Business,Microsoft Azure,87,256,No
+IBM-DEAL-00417,Tailspin Traders,Manufacturing,Japan,IBM watsonx,Proposal,863622,4.4,2026-01-19,46,Isabela Costa,Sarah Johnson,Cross-sell,Salesforce,46,103,No
+IBM-DEAL-00418,Margie's Travel,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Proposal,507824,0.2,2025-05-17,64,Anna Kowalski,Takeshi Yamamoto,New Business,Microsoft Azure,83,8,No
+IBM-DEAL-00419,Horizon Telecom,Telecommunications,Japan,IBM Cloud Pak,Discovery,1205830,14.6,2025-07-13,30,Anna Kowalski,Rachel Green,Renewal,SAP,74,34,Yes
+IBM-DEAL-00420,Northwind Retail,Healthcare & Life Sciences,Asia Pacific,Red Hat OpenShift,Discovery,891504,19.1,2025-09-21,34,Fatima El-Amrani,David Chen,Expansion,Microsoft Azure,61,101,No
+IBM-DEAL-00421,Cascade Retail,Manufacturing,Japan,IBM Z Systems,Qualification,9179692,20.5,2025-12-04,23,Marcus Thompson,David Chen,Renewal,Snowflake,89,56,Yes
+IBM-DEAL-00422,Beacon Financial,Retail & Consumer,Japan,Red Hat OpenShift,Proposal,422487,20.8,2025-12-25,47,Fatima El-Amrani,Takeshi Yamamoto,Renewal,Snowflake,40,59,Yes
+IBM-DEAL-00423,Proseware Systems,Retail & Consumer,Japan,IBM watsonx,Closed Won,2655039,20.0,2026-01-16,100,Chen Wei,James O'Connor,Renewal,Snowflake,98,200,Yes
+IBM-DEAL-00424,Proseware Systems,Telecommunications,EMEA,IBM Quantum,Negotiation,2757170,1.4,2025-10-02,65,Marcus Thompson,Elena Popov,Cross-sell,Snowflake,,203,No
+IBM-DEAL-00425,Nod Publishers,Manufacturing,Japan,IBM Consulting,Discovery,2730523,6.8,2025-12-19,21,Diego Ramirez,Takeshi Yamamoto,New Business,None (Green Field),42,145,No
+IBM-DEAL-00426,Graphic Design Institute,Banking & Financial Services,EMEA,IBM Quantum,Discovery,335666,7.4,2025-12-14,25,Diego Ramirez,James O'Connor,Renewal,Snowflake,65,183,Yes
+IBM-DEAL-00427,Tailspin Traders,Telecommunications,Americas,IBM Storage,Proposal,1114429,15.3,2025-05-30,45,Anna Kowalski,Aisha Bello,Renewal,Oracle,44,112,Yes
+IBM-DEAL-00428,Fourth Coffee,Energy & Utilities,Japan,IBM Consulting,Qualification,4020157,4.0,2025-01-27,21,Nia Okafor,Elena Popov,New Business,SAP,42,268,No
+IBM-DEAL-00429,Alpine Ski House,Energy & Utilities,Americas,IBM Security QRadar,Negotiation,461604,8.1,2025-03-03,73,Yuki Tanaka,David Chen,Expansion,AWS,42,47,No
+IBM-DEAL-00430,Litware Inc.,Retail & Consumer,Japan,IBM Consulting,Proposal,963908,1.4,2026-03-18,58,Nia Okafor,Rachel Green,Renewal,Google Cloud,85,280,Yes
+IBM-DEAL-00431,Proseware Systems,Manufacturing,Americas,IBM watsonx,Discovery,2137606,2.7,2025-03-07,37,Rajiv Menon,Sarah Johnson,Renewal,Google Cloud,71,110,Yes
+IBM-DEAL-00432,Sterling Manufacturing,Banking & Financial Services,EMEA,IBM Cloud Pak,Proposal,1290595,14.5,2025-08-16,65,Lars Andersson,Elena Popov,Cross-sell,SAP,43,300,No
+IBM-DEAL-00433,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Cloud Pak,Closed Lost,800174,16.0,2025-08-05,0,Priya Sharma,Takeshi Yamamoto,Expansion,Salesforce,14,286,No
+IBM-DEAL-00434,Fourth Coffee,Manufacturing,Americas,IBM Consulting,Negotiation,1660875,15.7,2025-10-16,85,Hiroshi Sato,Takeshi Yamamoto,New Business,Google Cloud,77,336,No
+IBM-DEAL-00435,JPMorgan Chase,Banking & Financial Services,Americas,IBM Consulting,Discovery,41612904,17.1,2025-03-16,22,Yuki Tanaka,Takeshi Yamamoto,Renewal,Salesforce,90,120,Yes
+IBM-DEAL-00436,Parnell Aerospace,Transportation,Americas,IBM Consulting,Closed Won,980248,3.8,2026-01-20,100,Nia Okafor,Rachel Green,Renewal,SAP,87,97,Yes
+IBM-DEAL-00437,Tailspin Traders,Retail & Consumer,Japan,IBM Consulting,Closed Won,2134699,14.9,2025-08-03,100,Isabela Costa,James O'Connor,New Business,Google Cloud,97,239,No
+IBM-DEAL-00438,Graphic Design Institute,Public Sector,Americas,Red Hat OpenShift,Discovery,1184941,16.1,2025-02-17,22,Klaus Weber,David Chen,Renewal,Microsoft Azure,45,299,Yes
+IBM-DEAL-00439,Horizon Telecom,Transportation,Americas,IBM Z Systems,Closed Won,6100350,11.8,2025-06-26,100,Yuki Tanaka,Mohammed Al-Rashid,Renewal,Microsoft Azure,82,275,Yes
+IBM-DEAL-00440,Sterling Manufacturing,Transportation,Japan,IBM watsonx,Discovery,2346231,18.7,2026-03-16,27,Anna Kowalski,Takeshi Yamamoto,Cross-sell,Salesforce,42,153,No
+IBM-DEAL-00441,Contoso Manufacturing,Transportation,Japan,IBM watsonx,Proposal,1569333,2.4,2025-06-29,49,Klaus Weber,Elena Popov,New Business,Snowflake,81,100,No
+IBM-DEAL-00442,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Discovery,958308,8.0,2025-04-04,35,Isabela Costa,,Expansion,AWS,69,142,No
+IBM-DEAL-00443,City Power & Light,Healthcare & Life Sciences,EMEA,IBM Cloud Pak,Proposal,192567,3.5,2025-04-12,50,Marcus Thompson,Aisha Bello,New Business,AWS,65,141,No
+IBM-DEAL-00444,Kensington Hospital Group,Retail & Consumer,Americas,Red Hat OpenShift,Qualification,435292,15.1,2025-01-27,21,Hiroshi Sato,Rachel Green,Expansion,Snowflake,78,180,No
+IBM-DEAL-00445,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Security QRadar,Discovery,941144,5.8,2025-12-25,23,Chen Wei,Mohammed Al-Rashid,New Business,Oracle,50,224,No
+IBM-DEAL-00446,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Closed Lost,1873044,0.4,2025-04-13,0,Yuki Tanaka,Elena Popov,New Business,Snowflake,15,31,No
+IBM-DEAL-00447,Parnell Aerospace,Healthcare & Life Sciences,Asia Pacific,IBM Cloud Pak,Negotiation,1401509,19.7,2025-04-04,72,Diego Ramirez,Rachel Green,Cross-sell,Microsoft Azure,37,5,No
+IBM-DEAL-00448,Shell plc,Energy & Utilities,EMEA,IBM Cloud Pak,Qualification,2374283,17.0,2025-03-08,10,Lars Andersson,Elena Popov,New Business,SAP,56,189,No
+IBM-DEAL-00449,Tailspin Traders,Healthcare & Life Sciences,Americas,IBM Consulting,Negotiation,1663393,15.5,2025-02-20,71,Jean-Luc Dubois,Mohammed Al-Rashid,Cross-sell,SAP,39,284,No
+IBM-DEAL-00450,Singapore Airlines,Transportation,Asia Pacific,Red Hat OpenShift,Proposal,207339,1.5,2025-08-03,62,Marcus Thompson,James O'Connor,Expansion,Microsoft Azure,68,262,No
+IBM-DEAL-00451,Pacific Northwest Utilities,Transportation,Americas,IBM watsonx,Proposal,964800,63.6,2025-04-05,64,Isabela Costa,James O'Connor,Expansion,Oracle,35,86,No
+IBM-DEAL-00452,Blue Yonder Airlines,Manufacturing,Americas,IBM Consulting,Negotiation,1160444,5.9,2026-02-09,73,Chen Wei,David Chen,New Business,Oracle,38,333,No
+IBM-DEAL-00453,Lucerne Publishing,Retail & Consumer,Japan,IBM Quantum,Closed Lost,3132008,4.8,2025-05-24,0,Chen Wei,Takeshi Yamamoto,New Business,Microsoft Azure,21,136,No
+IBM-DEAL-00454,Consolidated Messenger,Transportation,EMEA,IBM Cloud Pak,Negotiation,712807,9.8,2026-01-09,77,Klaus Weber,Mohammed Al-Rashid,New Business,SAP,81,227,No
+IBM-DEAL-00455,Alpine Ski House,Public Sector,Americas,IBM Cloud Pak,Closed Won,160692,9.4,2025-08-21,100,Anna Kowalski,Sarah Johnson,Expansion,AWS,95,211,No
+IBM-DEAL-00456,Contoso Manufacturing,Retail & Consumer,EMEA,IBM Security QRadar,Closed Won,865892,21.3,2026-02-10,100,Marcus Thompson,Rachel Green,New Business,SAP,78,282,No
+IBM-DEAL-00457,Horizon Telecom,Retail & Consumer,EMEA,IBM watsonx,Negotiation,190908,2.3,2025-06-01,68,Anna Kowalski,Elena Popov,Renewal,Snowflake,41,266,Yes
+IBM-DEAL-00458,NHS England,Public Sector,EMEA,IBM Cloud Pak,Closed Won,993117,2.4,2025-02-22,100,Sofia Martinez,David Chen,Expansion,AWS,84,187,No
+IBM-DEAL-00459,Sterling Manufacturing,Retail & Consumer,Asia Pacific,IBM Consulting,Closed Won,4233019,14.6,2025-05-16,100,Marcus Thompson,Aisha Bello,New Business,Microsoft Azure,100,44,No
+IBM-DEAL-00460,Adventure Works,Healthcare & Life Sciences,Japan,Red Hat OpenShift,Qualification,406413,16.9,2025-06-30,14,Fatima El-Amrani,Mohammed Al-Rashid,New Business,Snowflake,55,258,No
+IBM-DEAL-00461,Quantum Chemicals,Transportation,EMEA,IBM Cloud Pak,Proposal,1039659,5.2,2025-01-02,58,Chen Wei,David Chen,Renewal,SAP,48,13,Yes
+IBM-DEAL-00462,Tailspin Traders,Public Sector,Japan,IBM watsonx,Closed Lost,533744,4.9,2026-01-18,0,Hiroshi Sato,Aisha Bello,Expansion,Google Cloud,18,65,No
+IBM-DEAL-00463,Blue Yonder Airlines,Banking & Financial Services,EMEA,IBM Cloud Pak,Qualification,687959,16.8,2025-08-29,23,Isabela Costa,David Chen,New Business,Salesforce,82,76,No
+IBM-DEAL-00464,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Closed Won,4693596,15.7,2025-05-13,100,Priya Sharma,James O'Connor,New Business,Salesforce,93,261,No
+IBM-DEAL-00465,Siemens AG,Manufacturing,EMEA,IBM Z Systems,Proposal,8437175,12.3,2026-03-07,63,Nia Okafor,Mohammed Al-Rashid,New Business,None (Green Field),39,244,No
+IBM-DEAL-00466,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Closed Won,1018464,11.9,2025-02-03,100,Jean-Luc Dubois,David Chen,Renewal,Microsoft Azure,81,310,Yes
+IBM-DEAL-00467,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Closed Won,1580894,16.5,2025-07-23,100,Marcus Thompson,Sarah Johnson,New Business,SAP,91,104,No
+IBM-DEAL-00468,Fourth Coffee,Banking & Financial Services,Japan,IBM Z Systems,Qualification,1023684,1.7,2025-11-17,15,Priya Sharma,Aisha Bello,Expansion,Oracle,40,123,No
+IBM-DEAL-00469,Sterling Manufacturing,Banking & Financial Services,Japan,IBM watsonx,Negotiation,2462754,13.8,2025-09-12,69,Sofia Martinez,Rachel Green,Cross-sell,Google Cloud,41,12,No
+IBM-DEAL-00470,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Qualification,2530927,21.5,2026-01-26,24,Klaus Weber,David Chen,Renewal,Google Cloud,63,337,Yes
+IBM-DEAL-00471,Tailspin Traders,Transportation,Asia Pacific,IBM Consulting,Discovery,3517383,5.8,2026-03-25,22,Anna Kowalski,Mohammed Al-Rashid,Renewal,Microsoft Azure,78,26,Yes
+IBM-DEAL-00472,Adventure Works,Manufacturing,Japan,IBM Quantum,Discovery,3574610,4.0,2025-02-25,34,Fatima El-Amrani,Rachel Green,Renewal,Oracle,60,226,Yes
+IBM-DEAL-00473,Fourth Coffee,Transportation,EMEA,IBM Consulting,Qualification,568451,20.6,2025-07-05,22,Anna Kowalski,Takeshi Yamamoto,New Business,None (Green Field),85,225,No
+IBM-DEAL-00474,BT Group,Telecommunications,EMEA,IBM watsonx,Proposal,1110215,19.6,2025-04-05,53,Diego Ramirez,Mohammed Al-Rashid,Expansion,AWS,88,32,No
+IBM-DEAL-00475,Blue Yonder Airlines,Energy & Utilities,Asia Pacific,Red Hat OpenShift,Closed Won,200749,12.7,2025-03-16,100,Marcus Thompson,Rachel Green,Renewal,Microsoft Azure,85,167,Yes
+IBM-DEAL-00476,Meridian Bank,Transportation,EMEA,IBM Consulting,Negotiation,2017440,4.1,2025-12-23,66,Jean-Luc Dubois,David Chen,Renewal,Snowflake,69,90,Yes
+IBM-DEAL-00477,Proseware Systems,Transportation,Japan,IBM Z Systems,Closed Won,5298381,7.4,2025-04-01,100,Hiroshi Sato,Takeshi Yamamoto,Renewal,SAP,89,224,Yes
+IBM-DEAL-00478,Litware Inc.,Healthcare & Life Sciences,Americas,IBM watsonx,Closed Won,2167073,16.5,2025-11-16,100,Diego Ramirez,Takeshi Yamamoto,New Business,None (Green Field),92,56,No
+IBM-DEAL-00479,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Closed Won,1000040,14.2,2026-02-06,100,Diego Ramirez,James O'Connor,Renewal,Microsoft Azure,98,207,Yes
+IBM-DEAL-00480,Atlas Logistics,Manufacturing,Americas,Red Hat OpenShift,Qualification,893010,11.4,2026-01-15,14,Hiroshi Sato,Elena Popov,Renewal,SAP,73,167,Yes
+IBM-DEAL-00481,Fabrikam Health,Energy & Utilities,EMEA,Red Hat OpenShift,Negotiation,695743,9.6,2025-02-20,77,Emma O'Brien,Mohammed Al-Rashid,Renewal,AWS,80,69,Yes
+IBM-DEAL-00482,Fourth Coffee,Banking & Financial Services,Americas,IBM Consulting,Negotiation,3049139,4.1,2025-12-01,79,Nia Okafor,James O'Connor,New Business,Oracle,49,157,No
+IBM-DEAL-00483,Litware Inc.,Healthcare & Life Sciences,Japan,Red Hat OpenShift,Qualification,403803,2.0,2025-09-11,18,Anna Kowalski,Takeshi Yamamoto,New Business,Oracle,89,190,No
+IBM-DEAL-00484,Kensington Hospital Group,Telecommunications,Japan,IBM Storage,Qualification,1423420,12.5,2025-11-07,15,Klaus Weber,David Chen,New Business,AWS,89,21,No
+IBM-DEAL-00485,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Closed Won,2746992,4.8,2025-06-17,100,Emma O'Brien,James O'Connor,Renewal,AWS,79,117,Yes
+IBM-DEAL-00486,Nod Publishers,Transportation,Japan,IBM Z Systems,Closed Won,1700889,4.4,2026-03-10,100,Diego Ramirez,Mohammed Al-Rashid,Cross-sell,Snowflake,97,148,No
+IBM-DEAL-00487,Sterling Manufacturing,Public Sector,Asia Pacific,IBM Consulting,Proposal,2891826,13.9,2025-02-02,58,Hiroshi Sato,James O'Connor,Renewal,Microsoft Azure,63,90,Yes
+IBM-DEAL-00488,Pacific Northwest Utilities,Banking & Financial Services,Americas,IBM watsonx,Closed Won,1113938,1.6,2025-12-03,100,Fatima El-Amrani,David Chen,New Business,Google Cloud,86,195,No
+IBM-DEAL-00489,Graphic Design Institute,Healthcare & Life Sciences,Japan,IBM Cloud Pak,Discovery,1226219,15.8,2026-03-29,37,Fatima El-Amrani,Elena Popov,New Business,Snowflake,86,43,No
+IBM-DEAL-00490,Atlas Logistics,Healthcare & Life Sciences,Americas,IBM Z Systems,Negotiation,4354960,0.4,2026-02-06,72,Nia Okafor,David Chen,Renewal,Microsoft Azure,89,299,Yes
+IBM-DEAL-00491,Adventure Works,Transportation,Americas,IBM Storage,Discovery,1545649,1.8,2026-02-01,30,Isabela Costa,Rachel Green,Renewal,Microsoft Azure,55,257,Yes
+IBM-DEAL-00492,Litware Inc.,Banking & Financial Services,EMEA,IBM watsonx,Qualification,2968998,15.9,2025-04-26,20,Anna Kowalski,David Chen,New Business,Oracle,45,50,No
+IBM-DEAL-00493,Adventure Works,Public Sector,Asia Pacific,IBM Consulting,Proposal,1134821,12.8,2025-03-03,62,Hiroshi Sato,Rachel Green,Expansion,Google Cloud,43,168,No
+IBM-DEAL-00494,Quantum Chemicals,Public Sector,Asia Pacific,IBM Security QRadar,Qualification,683193,12.3,2026-03-23,19,Klaus Weber,David Chen,Renewal,Oracle,50,336,Yes
+IBM-DEAL-00495,Quantum Chemicals,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Proposal,1480020,14.4,2026-03-11,50,Isabela Costa,Elena Popov,Renewal,Google Cloud,67,59,Yes
+IBM-DEAL-00496,Toyota Motor Corp,Manufacturing,Japan,Red Hat OpenShift,Qualification,268117,5.3,2025-08-24,24,Lars Andersson,James O'Connor,Renewal,Microsoft Azure,46,141,Yes
+IBM-DEAL-00497,BT Group,Telecommunications,EMEA,IBM Consulting,Qualification,2767246,14.3,2026-01-10,18,Emma O'Brien,Rachel Green,Renewal,Salesforce,62,104,Yes
+IBM-DEAL-00498,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Qualification,1086461,1.4,2025-02-21,18,Emma O'Brien,Rachel Green,New Business,Snowflake,52,120,No
+IBM-DEAL-00499,US Department of Veterans Affairs,Public Sector,Americas,IBM Cloud Pak,Discovery,2059669,16.3,2026-03-13,39,Priya Sharma,Aisha Bello,New Business,Google Cloud,79,127,No
+IBM-DEAL-00500,Trey Research,Banking & Financial Services,EMEA,Red Hat OpenShift,Discovery,687277,10.4,2025-01-01,20,Diego Ramirez,Elena Popov,Expansion,None (Green Field),66,131,No
+IBM-DEAL-00501,Toyota Motor Corp,Manufacturing,Japan,IBM Storage,Proposal,14213364,5.7,2025-09-07,51,Fatima El-Amrani,Rachel Green,New Business,None (Green Field),51,191,No
+IBM-DEAL-00502,BT Group,Telecommunications,EMEA,IBM Quantum,Qualification,377861,16.3,2025-08-09,25,Chen Wei,James O'Connor,Renewal,AWS,58,110,Yes
+IBM-DEAL-00503,Alpine Ski House,Public Sector,Asia Pacific,IBM Quantum,Proposal,2489996,12.7,2025-12-26,48,Lars Andersson,James O'Connor,Renewal,AWS,,318,Yes
+IBM-DEAL-00504,NHS England,Public Sector,EMEA,IBM watsonx,Negotiation,1358581,10.7,2025-02-03,70,Chen Wei,David Chen,Cross-sell,Microsoft Azure,,155,No
+IBM-DEAL-00505,Fabrikam Health,Public Sector,EMEA,IBM Cloud Pak,Closed Won,420724,15.7,2025-03-15,100,Yuki Tanaka,David Chen,New Business,Snowflake,98,105,No
+IBM-DEAL-00506,Sterling Manufacturing,Energy & Utilities,Americas,IBM Quantum,Negotiation,3805891,14.9,2025-06-15,70,Marcus Thompson,Takeshi Yamamoto,Cross-sell,Google Cloud,86,301,No
+IBM-DEAL-00507,Beacon Financial,Retail & Consumer,Japan,IBM Storage,Qualification,785699,20.6,2025-12-31,24,Hiroshi Sato,Rachel Green,Expansion,SAP,57,244,No
+IBM-DEAL-00508,Tailspin Traders,Public Sector,EMEA,IBM Consulting,Negotiation,2170124,18.6,2025-03-06,83,Isabela Costa,David Chen,Renewal,None (Green Field),60,8,Yes
+IBM-DEAL-00509,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Proposal,340285,2.7,2025-10-27,50,Klaus Weber,Mohammed Al-Rashid,New Business,Microsoft Azure,78,266,No
+IBM-DEAL-00510,Parnell Aerospace,Banking & Financial Services,Japan,IBM Consulting,Qualification,1060310,11.4,2025-05-07,14,Nia Okafor,David Chen,New Business,None (Green Field),48,58,No
+IBM-DEAL-00511,Siemens AG,Manufacturing,EMEA,IBM Storage,Closed Won,1470178,9.5,2025-11-22,100,Priya Sharma,Elena Popov,Renewal,Google Cloud,75,99,Yes
+IBM-DEAL-00512,Quantum Chemicals,Telecommunications,Asia Pacific,IBM Cloud Pak,Qualification,1647467,6.2,2025-03-03,23,Isabela Costa,David Chen,Renewal,Microsoft Azure,71,204,Yes
+IBM-DEAL-00513,Beacon Financial,Public Sector,Americas,Red Hat OpenShift,Closed Won,847923,11.6,2025-09-20,100,Fatima El-Amrani,Rachel Green,Renewal,Google Cloud,77,94,Yes
+IBM-DEAL-00514,Parnell Aerospace,Energy & Utilities,Americas,Red Hat OpenShift,Proposal,1357328,12.7,2025-09-17,55,Lars Andersson,Takeshi Yamamoto,Renewal,Salesforce,84,274,Yes
+IBM-DEAL-00515,NHS England,Public Sector,EMEA,IBM watsonx,Proposal,1056126,21.6,2026-02-18,64,Nia Okafor,Takeshi Yamamoto,Cross-sell,AWS,81,126,No
+IBM-DEAL-00516,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Negotiation,430745,15.4,2025-07-13,65,Diego Ramirez,Elena Popov,Expansion,Oracle,43,331,No
+IBM-DEAL-00517,City Power & Light,Healthcare & Life Sciences,Americas,IBM Consulting,Discovery,85178,9.0,2025-10-07,24,Klaus Weber,Elena Popov,Renewal,SAP,90,41,Yes
+IBM-DEAL-00518,Tailspin Traders,Healthcare & Life Sciences,Japan,IBM Z Systems,Qualification,1428535,6.6,2025-03-02,12,Yuki Tanaka,James O'Connor,Renewal,Microsoft Azure,66,123,Yes
+IBM-DEAL-00519,Mayo Clinic,Healthcare & Life Sciences,Americas,Red Hat OpenShift,Negotiation,1306878,11.0,2025-07-24,81,Emma O'Brien,David Chen,New Business,AWS,74,34,No
+IBM-DEAL-00520,Fabrikam Health,Retail & Consumer,EMEA,IBM Consulting,Closed Won,2017591,17.7,2025-10-16,100,Sofia Martinez,Rachel Green,Renewal,SAP,94,23,Yes
+IBM-DEAL-00521,Singapore Airlines,Transportation,Asia Pacific,IBM watsonx,Proposal,890924,1.2,2026-02-01,65,Klaus Weber,David Chen,Renewal,Snowflake,85,105,Yes
+IBM-DEAL-00522,Tailspin Traders,Healthcare & Life Sciences,Japan,IBM watsonx,Closed Won,854983,20.2,2025-05-02,100,Rajiv Menon,David Chen,Renewal,Microsoft Azure,82,52,Yes
+IBM-DEAL-00523,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Discovery,1109435,22.0,2025-03-08,40,Sofia Martinez,James O'Connor,New Business,None (Green Field),73,208,No
+IBM-DEAL-00524,Graphic Design Institute,Transportation,Asia Pacific,Red Hat OpenShift,Discovery,328049,5.9,2025-12-24,40,Klaus Weber,James O'Connor,Expansion,AWS,69,262,No
+IBM-DEAL-00525,Parnell Aerospace,Manufacturing,Americas,IBM Cloud Pak,Qualification,1258323,10.0,2025-02-28,17,Diego Ramirez,Sarah Johnson,Expansion,Microsoft Azure,36,260,No
+IBM-DEAL-00526,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Discovery,1868101,11.7,2025-12-05,25,Fatima El-Amrani,James O'Connor,New Business,SAP,54,21,No
+IBM-DEAL-00527,Sterling Manufacturing,Energy & Utilities,Americas,IBM Storage,Closed Lost,1148757,12.6,2025-10-18,0,Yuki Tanaka,Mohammed Al-Rashid,Renewal,Google Cloud,43,138,Yes
+IBM-DEAL-00528,Siemens AG,Manufacturing,EMEA,IBM Security QRadar,Negotiation,680448,6.0,2025-05-18,66,Fatima El-Amrani,James O'Connor,New Business,Microsoft Azure,77,133,No
+IBM-DEAL-00529,HSBC Holdings,Banking & Financial Services,EMEA,Red Hat OpenShift,Closed Won,765131,20.7,2025-05-22,100,Emma O'Brien,James O'Connor,Renewal,SAP,94,287,Yes
+IBM-DEAL-00530,US Department of Veterans Affairs,Public Sector,Americas,IBM Consulting,Negotiation,4295668,18.9,2025-10-24,70,Emma O'Brien,James O'Connor,New Business,,55,26,No
+IBM-DEAL-00531,Contoso Manufacturing,Manufacturing,Asia Pacific,IBM watsonx,Qualification,983161,12.5,2026-03-01,12,Marcus Thompson,David Chen,Renewal,AWS,87,217,Yes
+IBM-DEAL-00532,Woodgrove Bank,Transportation,Asia Pacific,IBM Consulting,Qualification,259205,2.3,2025-04-19,14,Rajiv Menon,Mohammed Al-Rashid,New Business,SAP,86,165,No
+IBM-DEAL-00533,Siemens AG,Manufacturing,EMEA,IBM Consulting,Negotiation,4566186,16.1,2026-03-10,78,Emma O'Brien,Elena Popov,Cross-sell,SAP,68,31,No
+IBM-DEAL-00534,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Closed Lost,1951496,16.1,2026-03-27,0,Lars Andersson,Rachel Green,New Business,AWS,36,190,No
+IBM-DEAL-00535,Tailspin Traders,Manufacturing,Japan,IBM Consulting,Negotiation,2747779,1.8,2025-08-04,74,Priya Sharma,Rachel Green,Renewal,,67,80,Yes
+IBM-DEAL-00536,Horizon Telecom,Healthcare & Life Sciences,EMEA,IBM Quantum,Qualification,345371,19.1,2025-07-18,15,Diego Ramirez,Sarah Johnson,Expansion,Google Cloud,62,186,No
+IBM-DEAL-00537,Litware Inc.,Banking & Financial Services,Americas,IBM Security QRadar,Proposal,685976,18.4,2025-05-29,53,Sofia Martinez,Mohammed Al-Rashid,Renewal,Google Cloud,83,249,Yes
+IBM-DEAL-00538,Kensington Hospital Group,Telecommunications,Japan,IBM watsonx,Discovery,994789,7.5,2025-10-16,23,Priya Sharma,Mohammed Al-Rashid,Renewal,Snowflake,68,273,Yes
+IBM-DEAL-00539,Sterling Manufacturing,Public Sector,Asia Pacific,IBM watsonx,Qualification,2126098,9.7,2026-03-30,18,Yuki Tanaka,James O'Connor,New Business,Salesforce,45,152,No
+IBM-DEAL-00540,Northwind Retail,Banking & Financial Services,EMEA,IBM watsonx,Qualification,984194,12.6,2026-01-10,16,Chen Wei,Sarah Johnson,Expansion,Google Cloud,63,271,No
+IBM-DEAL-00541,Margie's Travel,Healthcare & Life Sciences,Asia Pacific,IBM Storage,Discovery,651245,7.4,2025-08-21,22,Rajiv Menon,Takeshi Yamamoto,Renewal,AWS,75,267,Yes
+IBM-DEAL-00542,Singapore Airlines,Transportation,Asia Pacific,IBM Consulting,Qualification,958554,8.3,2025-04-23,10,Priya Sharma,Rachel Green,Expansion,Salesforce,78,105,No
+IBM-DEAL-00543,Consolidated Messenger,Banking & Financial Services,Japan,IBM watsonx,Discovery,241708,5.8,2025-07-14,25,Priya Sharma,James O'Connor,Renewal,Oracle,75,303,Yes
+IBM-DEAL-00544,Pacific Northwest Utilities,Telecommunications,Japan,IBM Cloud Pak,Closed Lost,1819904,21.3,2025-06-16,0,Chen Wei,Aisha Bello,New Business,AWS,25,222,No
+IBM-DEAL-00545,Quantum Chemicals,Energy & Utilities,EMEA,IBM watsonx,Discovery,340027,12.4,2025-06-15,33,Nia Okafor,James O'Connor,New Business,Snowflake,51,167,No
+IBM-DEAL-00546,Contoso Manufacturing,Public Sector,Japan,IBM Z Systems,Discovery,7044540,20.9,2025-11-11,26,Anna Kowalski,Takeshi Yamamoto,Renewal,Google Cloud,74,173,Yes
+IBM-DEAL-00547,Adventure Works,Banking & Financial Services,EMEA,IBM Cloud Pak,Discovery,1718957,18.9,2025-04-28,37,Yuki Tanaka,David Chen,New Business,SAP,53,87,No
+IBM-DEAL-00548,BT Group,Telecommunications,EMEA,IBM Storage,Discovery,522355,13.9,2025-12-19,20,Nia Okafor,Takeshi Yamamoto,New Business,Salesforce,50,22,No
+IBM-DEAL-00549,JPMorgan Chase,Banking & Financial Services,Americas,IBM Consulting,Negotiation,180940,11.9,2025-03-19,65,Diego Ramirez,Aisha Bello,Renewal,Snowflake,41,306,Yes
+IBM-DEAL-00550,Litware Inc.,Public Sector,Japan,IBM Cloud Pak,Discovery,2252686,6.3,2025-12-26,33,Nia Okafor,Aisha Bello,Renewal,Oracle,69,264,Yes
+IBM-DEAL-00551,Northwind Retail,Energy & Utilities,EMEA,IBM Z Systems,Qualification,2713931,13.9,2025-02-12,19,Yuki Tanaka,Sarah Johnson,Renewal,Google Cloud,41,292,Yes
+IBM-DEAL-00552,Graphic Design Institute,Banking & Financial Services,Japan,IBM Cloud Pak,Discovery,213132,7.1,2025-10-17,24,Klaus Weber,Rachel Green,New Business,Microsoft Azure,73,213,No
+IBM-DEAL-00553,Wingtip Toys,Healthcare & Life Sciences,Japan,IBM Consulting,Closed Won,4734609,3.7,2025-08-13,100,Klaus Weber,Mohammed Al-Rashid,Renewal,Snowflake,78,24,Yes
+IBM-DEAL-00554,BT Group,Telecommunications,EMEA,Red Hat OpenShift,Closed Won,1061003,19.6,2025-10-16,100,Lars Andersson,James O'Connor,Renewal,Google Cloud,95,89,Yes
+IBM-DEAL-00555,Tailspin Traders,Retail & Consumer,Japan,IBM watsonx,Discovery,102373,4.1,2025-12-22,22,Isabela Costa,Mohammed Al-Rashid,Renewal,None (Green Field),41,280,Yes
+IBM-DEAL-00556,Meridian Bank,Manufacturing,Asia Pacific,IBM Cloud Pak,Proposal,1342409,8.1,2026-01-28,63,Jean-Luc Dubois,James O'Connor,Cross-sell,Oracle,60,135,No
+IBM-DEAL-00557,Kensington Hospital Group,Telecommunications,Asia Pacific,Red Hat OpenShift,Negotiation,417751,17.2,2025-04-21,80,Anna Kowalski,Aisha Bello,Renewal,Google Cloud,40,319,Yes
+IBM-DEAL-00558,Sterling Manufacturing,Transportation,Asia Pacific,IBM Cloud Pak,Discovery,1165500,15.5,2025-07-01,32,Jean-Luc Dubois,Mohammed Al-Rashid,Expansion,SAP,54,272,No
+IBM-DEAL-00559,Cascade Retail,Transportation,Asia Pacific,IBM Consulting,Proposal,1319208,8.0,2025-08-27,51,Jean-Luc Dubois,Takeshi Yamamoto,Renewal,Snowflake,84,182,Yes
+IBM-DEAL-00560,Walmart Inc.,Retail & Consumer,Americas,IBM Consulting,Discovery,3139284,20.1,2025-09-15,23,Klaus Weber,Takeshi Yamamoto,New Business,Salesforce,35,315,No
+IBM-DEAL-00561,Northwind Retail,Transportation,Japan,IBM Consulting,Closed Won,351089,13.5,2026-01-01,100,Chen Wei,David Chen,Renewal,Google Cloud,79,95,Yes
+IBM-DEAL-00562,Margie's Travel,Manufacturing,Americas,IBM Cloud Pak,Closed Won,1604015,20.7,2025-07-26,100,Marcus Thompson,James O'Connor,Renewal,AWS,88,36,Yes
+IBM-DEAL-00563,Singapore Airlines,Transportation,Asia Pacific,IBM Z Systems,Closed Won,2666109,7.7,2025-06-24,100,Chen Wei,Sarah Johnson,Renewal,AWS,89,295,Yes
+IBM-DEAL-00564,Northwind Retail,Retail & Consumer,Americas,IBM watsonx,Qualification,1515165,14.1,2026-03-19,17,Priya Sharma,James O'Connor,Renewal,Salesforce,47,72,Yes
+IBM-DEAL-00565,Siemens AG,Manufacturing,EMEA,IBM watsonx,Negotiation,472604,10.8,2025-10-24,73,Priya Sharma,David Chen,New Business,None (Green Field),58,183,No
+IBM-DEAL-00566,Sterling Manufacturing,Telecommunications,Asia Pacific,IBM watsonx,Proposal,1064127,17.0,2025-05-13,63,Priya Sharma,Rachel Green,Renewal,Salesforce,48,244,Yes
+IBM-DEAL-00567,Contoso Manufacturing,Telecommunications,Americas,IBM Consulting,Qualification,2153557,14.3,2025-02-21,23,Anna Kowalski,Rachel Green,Expansion,Salesforce,46,188,No
+IBM-DEAL-00568,Pacific Northwest Utilities,Transportation,EMEA,IBM Cloud Pak,Discovery,1137044,20.4,2025-04-30,32,Nia Okafor,David Chen,Renewal,AWS,83,264,Yes
+IBM-DEAL-00569,City Power & Light,Retail & Consumer,EMEA,IBM Consulting,Qualification,1892814,3.1,2025-06-27,12,Jean-Luc Dubois,Mohammed Al-Rashid,Expansion,Google Cloud,64,207,No
+IBM-DEAL-00570,JPMorgan Chase,Banking & Financial Services,Americas,IBM Security QRadar,Proposal,427437,0.1,2025-03-23,64,Jean-Luc Dubois,Rachel Green,New Business,None (Green Field),57,56,No
+IBM-DEAL-00571,Litware Inc.,Energy & Utilities,EMEA,IBM Cloud Pak,Proposal,1247804,18.0,2026-01-09,50,Anna Kowalski,Elena Popov,Cross-sell,Snowflake,90,222,No
+IBM-DEAL-00572,Meridian Bank,Energy & Utilities,Americas,IBM Consulting,Discovery,2577838,9.6,2025-06-23,26,Nia Okafor,Rachel Green,New Business,Google Cloud,59,339,No
+IBM-DEAL-00573,NHS England,Public Sector,EMEA,IBM Consulting,Closed Won,895647,14.4,2025-07-27,100,Nia Okafor,Rachel Green,New Business,,100,11,No
+IBM-DEAL-00574,Fabrikam Health,Public Sector,Japan,IBM Cloud Pak,Negotiation,2083167,10.4,2025-06-21,79,Hiroshi Sato,,Renewal,SAP,89,278,Yes
+IBM-DEAL-00575,Lucerne Publishing,Manufacturing,Japan,IBM Z Systems,Qualification,3946967,19.6,2025-12-18,25,Anna Kowalski,James O'Connor,Renewal,Snowflake,58,134,Yes
+IBM-DEAL-00576,Contoso Manufacturing,Healthcare & Life Sciences,Asia Pacific,IBM Security QRadar,Proposal,124421,2.8,2025-03-16,45,Isabela Costa,Elena Popov,Renewal,Snowflake,75,257,Yes
+IBM-DEAL-00577,Beacon Financial,Banking & Financial Services,Americas,IBM Cloud Pak,Negotiation,484139,8.4,2026-01-07,85,Emma O'Brien,Sarah Johnson,New Business,Salesforce,40,177,No
+IBM-DEAL-00578,Toyota Motor Corp,Manufacturing,Japan,Red Hat OpenShift,Proposal,567432,1.1,2025-10-21,65,Priya Sharma,James O'Connor,Renewal,Snowflake,65,115,Yes
+IBM-DEAL-00579,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Qualification,563451,10.2,2026-02-09,23,Fatima El-Amrani,Elena Popov,Renewal,AWS,75,167,Yes
+IBM-DEAL-00580,Atlas Logistics,Telecommunications,Japan,IBM Z Systems,Discovery,3460950,3.3,2026-03-14,30,Nia Okafor,James O'Connor,Renewal,Oracle,82,260,Yes
+IBM-DEAL-00581,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Discovery,3142002,6.7,2026-01-20,36,Priya Sharma,Aisha Bello,New Business,None (Green Field),55,236,No
+IBM-DEAL-00582,Nod Publishers,Transportation,EMEA,IBM Cloud Pak,Proposal,452163,4.6,2025-02-26,43,Nia Okafor,Takeshi Yamamoto,Renewal,Google Cloud,71,153,Yes
+IBM-DEAL-00583,Walmart Inc.,Retail & Consumer,Americas,IBM Consulting,Negotiation,2712564,11.7,2025-04-26,85,Isabela Costa,Mohammed Al-Rashid,Renewal,None (Green Field),89,211,Yes
+IBM-DEAL-00584,Trey Research,Transportation,EMEA,IBM Consulting,Negotiation,3553699,9.0,2025-11-22,78,Sofia Martinez,Takeshi Yamamoto,New Business,Oracle,36,321,No
+IBM-DEAL-00585,Horizon Telecom,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Closed Won,2408659,4.2,2025-03-24,100,Jean-Luc Dubois,Aisha Bello,Renewal,Oracle,89,193,Yes
+IBM-DEAL-00586,Beacon Financial,Manufacturing,Japan,Red Hat OpenShift,Closed Lost,7596712,19.2,2025-03-23,0,Hiroshi Sato,Rachel Green,Expansion,AWS,25,241,No
+IBM-DEAL-00587,Rakuten Group,Retail & Consumer,Japan,IBM Consulting,Negotiation,239478,18.2,2025-01-31,82,Isabela Costa,Takeshi Yamamoto,Renewal,Microsoft Azure,53,208,Yes
+IBM-DEAL-00588,Proseware Systems,Retail & Consumer,Asia Pacific,IBM Z Systems,Closed Won,2012320,5.8,2025-06-18,100,Yuki Tanaka,James O'Connor,New Business,None (Green Field),95,42,No
+IBM-DEAL-00589,Lucerne Publishing,Public Sector,Americas,IBM Security QRadar,Discovery,423865,12.4,2026-01-01,27,Isabela Costa,James O'Connor,New Business,Google Cloud,53,162,No
+IBM-DEAL-00590,Kensington Hospital Group,Public Sector,EMEA,IBM watsonx,Discovery,135611,5.7,2026-01-05,38,Lars Andersson,Mohammed Al-Rashid,New Business,Snowflake,67,269,No
+IBM-DEAL-00591,Quantum Chemicals,Retail & Consumer,Japan,IBM watsonx,Qualification,745179,4.5,2025-03-18,12,Isabela Costa,David Chen,Expansion,AWS,52,316,No
+IBM-DEAL-00592,Graphic Design Institute,Manufacturing,Asia Pacific,IBM Consulting,Qualification,3743005,12.2,2025-10-01,20,Yuki Tanaka,Elena Popov,Renewal,AWS,89,280,Yes
+IBM-DEAL-00593,Humongous Insurance,Manufacturing,Japan,IBM watsonx,Discovery,468188,16.3,2026-01-11,28,Yuki Tanaka,Elena Popov,Cross-sell,Google Cloud,88,37,No
+IBM-DEAL-00594,Fabrikam Health,Telecommunications,Americas,IBM watsonx,Qualification,503909,11.9,2025-04-21,16,Chen Wei,Rachel Green,New Business,Salesforce,73,254,No
+IBM-DEAL-00595,Beacon Financial,Banking & Financial Services,Asia Pacific,IBM Security QRadar,Proposal,380433,11.3,2025-11-27,45,Diego Ramirez,Rachel Green,Renewal,Oracle,54,140,Yes
+IBM-DEAL-00596,Singapore Airlines,Transportation,Asia Pacific,IBM Z Systems,Qualification,5895333,6.7,2026-03-18,23,Yuki Tanaka,Elena Popov,New Business,Google Cloud,63,180,No
+IBM-DEAL-00597,Parnell Aerospace,Manufacturing,EMEA,IBM Cloud Pak,Proposal,722461,13.4,2025-03-22,45,Emma O'Brien,Elena Popov,New Business,None (Green Field),55,269,No
+IBM-DEAL-00598,Fourth Coffee,Public Sector,Asia Pacific,IBM Security QRadar,Discovery,300749,16.8,2025-01-03,29,Marcus Thompson,Rachel Green,Expansion,Microsoft Azure,83,211,No
+IBM-DEAL-00599,Rakuten Group,Retail & Consumer,Japan,IBM Cloud Pak,Qualification,882337,12.3,2025-04-13,23,Yuki Tanaka,Mohammed Al-Rashid,Expansion,None (Green Field),86,115,No
+IBM-DEAL-00600,Contoso Manufacturing,Energy & Utilities,Japan,IBM watsonx,Negotiation,510469,1.2,2025-06-25,66,Klaus Weber,Mohammed Al-Rashid,Cross-sell,SAP,52,280,No
+IBM-DEAL-00601,Fourth Coffee,Retail & Consumer,Asia Pacific,IBM Consulting,Proposal,4917207,14.5,2025-10-13,50,Fatima El-Amrani,Aisha Bello,Renewal,Microsoft Azure,68,154,Yes
+IBM-DEAL-00602,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Discovery,1191983,20.5,2025-03-13,28,Rajiv Menon,David Chen,Renewal,Snowflake,42,333,Yes
+IBM-DEAL-00603,Contoso Manufacturing,Telecommunications,Japan,IBM Cloud Pak,Qualification,2431068,2.0,2025-10-13,12,Sofia Martinez,Rachel Green,New Business,Google Cloud,84,62,No
+IBM-DEAL-00604,Sterling Manufacturing,Public Sector,Japan,IBM Z Systems,Negotiation,1297006,14.3,2025-06-23,85,Diego Ramirez,,Expansion,Snowflake,64,275,No
+IBM-DEAL-00605,Fourth Coffee,Public Sector,EMEA,IBM Consulting,Proposal,1221605,12.6,2025-07-01,60,Diego Ramirez,Mohammed Al-Rashid,Expansion,Google Cloud,80,300,No
+IBM-DEAL-00606,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Discovery,1975251,14.5,2025-04-14,30,Jean-Luc Dubois,Aisha Bello,Cross-sell,Snowflake,54,88,No
+IBM-DEAL-00607,BT Group,Telecommunications,EMEA,IBM watsonx,Closed Won,705316,9.6,2025-04-12,100,Chen Wei,Mohammed Al-Rashid,Expansion,AWS,81,199,No
+IBM-DEAL-00608,Southridge Video,Energy & Utilities,EMEA,IBM watsonx,Proposal,1155740,11.2,2025-08-22,55,Chen Wei,Aisha Bello,New Business,Snowflake,36,8,No
+IBM-DEAL-00609,Parnell Aerospace,Manufacturing,Americas,IBM Consulting,Closed Won,1625495,19.7,2025-01-24,100,Marcus Thompson,Mohammed Al-Rashid,Expansion,Google Cloud,79,132,No
+IBM-DEAL-00610,Nod Publishers,Telecommunications,Japan,IBM Storage,Discovery,383415,17.8,2025-04-03,36,Nia Okafor,Aisha Bello,Renewal,Google Cloud,58,61,Yes
+IBM-DEAL-00611,Trey Research,Banking & Financial Services,Japan,IBM watsonx,Closed Won,10345272,13.2,2025-09-26,100,Sofia Martinez,Sarah Johnson,Expansion,AWS,80,85,No
+IBM-DEAL-00612,Cascade Retail,Retail & Consumer,Americas,IBM Cloud Pak,Closed Won,1480587,8.0,2025-11-11,100,Jean-Luc Dubois,Mohammed Al-Rashid,Renewal,None (Green Field),96,54,Yes
+IBM-DEAL-00613,JPMorgan Chase,Banking & Financial Services,Americas,IBM Security QRadar,Discovery,134428,5.5,2026-01-09,39,Emma O'Brien,Mohammed Al-Rashid,Renewal,SAP,77,159,Yes
+IBM-DEAL-00614,Contoso Manufacturing,Energy & Utilities,Americas,IBM Storage,Qualification,1791916,17.5,2025-03-24,11,Lars Andersson,Elena Popov,Cross-sell,Microsoft Azure,60,170,No
+IBM-DEAL-00615,Consolidated Messenger,Transportation,Asia Pacific,IBM Consulting,Discovery,2874899,7.4,2025-04-06,36,Chen Wei,Aisha Bello,New Business,None (Green Field),51,179,No
+IBM-DEAL-00616,Northwind Retail,Retail & Consumer,Americas,IBM watsonx,Qualification,683582,6.8,2025-08-12,19,Jean-Luc Dubois,Mohammed Al-Rashid,Renewal,Google Cloud,70,47,Yes
+IBM-DEAL-00617,VanArsdel Ltd.,Retail & Consumer,Americas,IBM Storage,Discovery,375031,2.2,2025-03-26,36,Marcus Thompson,Takeshi Yamamoto,Renewal,Oracle,75,329,Yes
+IBM-DEAL-00618,Nod Publishers,Energy & Utilities,Japan,IBM Quantum,Qualification,133456,15.6,2025-12-09,19,Marcus Thompson,Rachel Green,Renewal,AWS,54,111,Yes
+IBM-DEAL-00619,Humongous Insurance,Energy & Utilities,EMEA,IBM Consulting,Discovery,584386,20.9,2025-03-13,31,Emma O'Brien,Aisha Bello,Renewal,,60,68,Yes
+IBM-DEAL-00620,NHS England,Public Sector,EMEA,IBM Consulting,Proposal,4585413,16.3,2025-08-21,43,Rajiv Menon,Takeshi Yamamoto,New Business,SAP,44,41,No
+IBM-DEAL-00621,Blue Yonder Airlines,Transportation,Asia Pacific,IBM watsonx,Closed Lost,1097054,19.1,2025-12-07,0,Emma O'Brien,James O'Connor,New Business,Snowflake,41,226,No
+IBM-DEAL-00622,Lucerne Publishing,Telecommunications,Americas,IBM watsonx,Proposal,1980449,9.5,2025-05-17,58,Nia Okafor,David Chen,Renewal,Snowflake,41,254,Yes
+IBM-DEAL-00623,Litware Inc.,Healthcare & Life Sciences,EMEA,IBM Cloud Pak,Closed Won,1823565,0.9,2025-11-28,100,Nia Okafor,Takeshi Yamamoto,Renewal,None (Green Field),100,230,Yes
+IBM-DEAL-00624,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Closed Won,1148315,7.9,2025-12-16,100,Fatima El-Amrani,Rachel Green,Cross-sell,Oracle,86,185,No
+IBM-DEAL-00625,Singapore Airlines,Transportation,Asia Pacific,IBM Security QRadar,Discovery,787429,17.9,2026-03-09,32,Yuki Tanaka,Aisha Bello,Renewal,SAP,66,50,Yes
+IBM-DEAL-00626,Southridge Video,Transportation,EMEA,IBM Security QRadar,Closed Won,402624,7.4,2025-08-13,100,Diego Ramirez,James O'Connor,New Business,Google Cloud,86,86,No
+IBM-DEAL-00627,City Power & Light,Healthcare & Life Sciences,Americas,IBM Security QRadar,Negotiation,187846,15.7,2025-09-30,73,Diego Ramirez,Sarah Johnson,Cross-sell,Google Cloud,57,208,No
+IBM-DEAL-00628,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Consulting,Proposal,1881896,5.4,2025-04-26,62,Anna Kowalski,Rachel Green,New Business,Oracle,63,336,No
+IBM-DEAL-00629,Atlas Logistics,Retail & Consumer,Japan,IBM Consulting,Closed Lost,2234944,5.8,2025-07-09,0,Marcus Thompson,Aisha Bello,Expansion,SAP,33,125,No
+IBM-DEAL-00630,Tailspin Traders,Healthcare & Life Sciences,Japan,IBM Consulting,Closed Won,2967111,15.8,2025-11-27,100,Isabela Costa,Rachel Green,New Business,None (Green Field),92,119,No
+IBM-DEAL-00631,Singapore Airlines,Transportation,Asia Pacific,IBM Z Systems,Closed Won,7993677,1.4,2025-07-01,100,Klaus Weber,Takeshi Yamamoto,Renewal,Salesforce,77,146,Yes
+IBM-DEAL-00632,Shell plc,Energy & Utilities,EMEA,IBM Cloud Pak,Discovery,2669504,11.2,2025-07-28,27,Rajiv Menon,Aisha Bello,Renewal,SAP,44,281,Yes
+IBM-DEAL-00633,BT Group,Telecommunications,EMEA,IBM Security QRadar,Discovery,912032,3.9,2025-04-03,39,Chen Wei,Takeshi Yamamoto,Renewal,None (Green Field),36,337,Yes
+IBM-DEAL-00634,Horizon Telecom,Retail & Consumer,Asia Pacific,IBM watsonx,Discovery,1142023,11.0,2025-04-05,33,Sofia Martinez,Aisha Bello,New Business,Oracle,51,210,No
+IBM-DEAL-00635,Fabrikam Health,Banking & Financial Services,Asia Pacific,IBM watsonx,Closed Lost,104549,7.2,2025-06-06,0,Jean-Luc Dubois,Rachel Green,New Business,SAP,11,295,No
+IBM-DEAL-00636,Fourth Coffee,Telecommunications,EMEA,IBM Quantum,Closed Won,3941653,18.0,2025-01-16,100,Diego Ramirez,Sarah Johnson,Renewal,AWS,94,24,Yes
+IBM-DEAL-00637,Quantum Chemicals,Manufacturing,EMEA,Red Hat OpenShift,Closed Won,964388,20.8,2025-12-09,100,Klaus Weber,Elena Popov,Cross-sell,SAP,92,38,No
+IBM-DEAL-00638,Horizon Telecom,Healthcare & Life Sciences,Americas,IBM Consulting,Proposal,4507116,11.5,2026-01-23,58,Jean-Luc Dubois,James O'Connor,New Business,Oracle,69,334,No
+IBM-DEAL-00639,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Proposal,2611054,10.9,2026-02-07,52,Sofia Martinez,James O'Connor,New Business,Microsoft Azure,84,152,No
+IBM-DEAL-00640,Walmart Inc.,Retail & Consumer,Americas,IBM Security QRadar,Qualification,397576,21.2,2025-01-27,19,Rajiv Menon,Elena Popov,Renewal,Google Cloud,87,227,Yes
+IBM-DEAL-00641,Adventure Works,Manufacturing,Japan,IBM watsonx,Qualification,1063140,2.6,2025-05-29,22,Yuki Tanaka,Aisha Bello,Renewal,SAP,35,128,Yes
+IBM-DEAL-00642,Lucerne Publishing,Energy & Utilities,Asia Pacific,IBM watsonx,Negotiation,1217897,9.1,2025-07-31,73,Anna Kowalski,Takeshi Yamamoto,Expansion,Oracle,59,147,No
+IBM-DEAL-00643,Adventure Works,Healthcare & Life Sciences,Americas,IBM watsonx,Qualification,611803,5.6,2025-12-15,20,Emma O'Brien,Sarah Johnson,Expansion,Salesforce,80,208,No
+IBM-DEAL-00644,JPMorgan Chase,Banking & Financial Services,Americas,IBM Consulting,Qualification,3953613,2.5,2025-01-20,11,Sofia Martinez,Elena Popov,Renewal,Google Cloud,88,203,Yes
+IBM-DEAL-00645,Contoso Manufacturing,Manufacturing,EMEA,IBM Security QRadar,Qualification,392928,18.9,2025-05-09,14,Nia Okafor,Takeshi Yamamoto,New Business,None (Green Field),46,184,No
+IBM-DEAL-00646,Siemens AG,Manufacturing,EMEA,IBM Cloud Pak,Qualification,387175,13.2,2025-05-28,24,Chen Wei,Sarah Johnson,Renewal,Google Cloud,70,87,Yes
+IBM-DEAL-00647,Walmart Inc.,Retail & Consumer,Americas,IBM Cloud Pak,Qualification,84753,8.4,2025-10-16,17,Rajiv Menon,Sarah Johnson,New Business,,38,203,No
+IBM-DEAL-00648,Kensington Hospital Group,Public Sector,Japan,IBM Z Systems,Negotiation,2238449,21.7,2025-08-21,84,Marcus Thompson,James O'Connor,Renewal,None (Green Field),65,83,Yes
+IBM-DEAL-00649,Blue Yonder Airlines,Telecommunications,Americas,IBM Z Systems,Qualification,6211664,19.4,2026-03-13,23,Nia Okafor,Takeshi Yamamoto,New Business,Google Cloud,49,210,No
+IBM-DEAL-00650,Beacon Financial,Telecommunications,Asia Pacific,IBM Cloud Pak,Negotiation,999118,4.2,2025-04-10,71,Hiroshi Sato,Aisha Bello,Renewal,SAP,90,321,Yes
+IBM-DEAL-00651,NHS England,Public Sector,EMEA,IBM Z Systems,Closed Lost,676860,4.4,2025-06-22,0,Isabela Costa,David Chen,Cross-sell,Snowflake,45,85,No
+IBM-DEAL-00652,Rakuten Group,Retail & Consumer,Japan,IBM Consulting,Negotiation,784465,7.0,2025-05-06,83,Rajiv Menon,,Expansion,None (Green Field),90,71,No
+IBM-DEAL-00653,Fabrikam Health,Telecommunications,Americas,IBM Cloud Pak,Discovery,953436,6.8,2025-02-03,24,Klaus Weber,Aisha Bello,Cross-sell,SAP,58,324,No
+IBM-DEAL-00654,Fourth Coffee,Retail & Consumer,Japan,IBM watsonx,Proposal,2401603,13.8,2025-12-25,57,Isabela Costa,Sarah Johnson,Cross-sell,AWS,52,132,No
+IBM-DEAL-00655,Blue Yonder Airlines,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Discovery,1197835,12.5,2026-03-30,20,Diego Ramirez,Takeshi Yamamoto,Renewal,SAP,56,48,Yes
+IBM-DEAL-00656,City Power & Light,Telecommunications,Asia Pacific,IBM Security QRadar,Qualification,51730,13.7,2025-10-30,25,Emma O'Brien,David Chen,Cross-sell,SAP,61,91,No
+IBM-DEAL-00657,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Discovery,1981358,14.5,2025-06-20,28,Anna Kowalski,David Chen,Cross-sell,Google Cloud,70,21,No
+IBM-DEAL-00658,Margie's Travel,Energy & Utilities,Asia Pacific,IBM Cloud Pak,Closed Lost,1877834,2.9,2025-06-27,0,Isabela Costa,Sarah Johnson,Renewal,Oracle,26,287,Yes
+IBM-DEAL-00659,Northwind Retail,Retail & Consumer,Americas,IBM watsonx,Qualification,451527,19.0,2025-01-05,17,Marcus Thompson,Rachel Green,New Business,SAP,81,11,No
+IBM-DEAL-00660,Fabrikam Health,Retail & Consumer,EMEA,Red Hat OpenShift,Discovery,33055,9.5,2025-12-18,22,Jean-Luc Dubois,Rachel Green,Cross-sell,Microsoft Azure,49,112,No
+IBM-DEAL-00661,Horizon Telecom,Public Sector,Americas,IBM Z Systems,Qualification,2195762,11.9,2025-04-07,16,Yuki Tanaka,Mohammed Al-Rashid,Renewal,AWS,79,68,Yes
+IBM-DEAL-00662,Nod Publishers,Manufacturing,Japan,IBM Cloud Pak,Discovery,1115572,6.2,2025-03-24,20,Rajiv Menon,Takeshi Yamamoto,New Business,AWS,39,36,No
+IBM-DEAL-00663,Rakuten Group,Retail & Consumer,Japan,IBM Consulting,Closed Won,597631,12.5,2026-01-08,100,Klaus Weber,James O'Connor,New Business,SAP,85,235,No
+IBM-DEAL-00664,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Proposal,1629123,18.6,2025-07-26,54,Nia Okafor,Takeshi Yamamoto,Renewal,None (Green Field),64,242,Yes
+IBM-DEAL-00665,Fourth Coffee,Energy & Utilities,Asia Pacific,IBM watsonx,Negotiation,457811,4.0,2025-02-18,70,Anna Kowalski,Rachel Green,Expansion,None (Green Field),36,205,No
+IBM-DEAL-00666,Graphic Design Institute,Manufacturing,Japan,IBM Consulting,Proposal,4714776,1.3,2025-02-24,45,Klaus Weber,Elena Popov,Renewal,None (Green Field),,170,Yes
+IBM-DEAL-00667,NHS England,Public Sector,EMEA,IBM Cloud Pak,Negotiation,608220,7.5,2025-07-11,84,Anna Kowalski,Rachel Green,Renewal,SAP,86,70,Yes
+IBM-DEAL-00668,Southridge Video,Transportation,Asia Pacific,IBM Consulting,Discovery,1266674,17.2,2025-10-21,26,Klaus Weber,David Chen,Renewal,Oracle,49,308,Yes
+IBM-DEAL-00669,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Negotiation,360162,17.1,2026-02-10,73,Klaus Weber,Elena Popov,Renewal,Google Cloud,,146,Yes
+IBM-DEAL-00670,Fourth Coffee,Public Sector,Asia Pacific,IBM Consulting,Closed Won,1623694,21.1,2025-11-02,100,Jean-Luc Dubois,James O'Connor,New Business,Salesforce,94,66,No
+IBM-DEAL-00671,Parnell Aerospace,Public Sector,EMEA,IBM watsonx,Negotiation,415132,8.1,2026-02-02,78,Fatima El-Amrani,Sarah Johnson,New Business,Snowflake,44,233,No
+IBM-DEAL-00672,Nod Publishers,Retail & Consumer,EMEA,IBM Cloud Pak,Qualification,2377668,10.5,2025-03-14,20,Nia Okafor,Mohammed Al-Rashid,New Business,Microsoft Azure,55,197,No
+IBM-DEAL-00673,US Department of Veterans Affairs,Public Sector,Americas,IBM Security QRadar,Proposal,787112,15.7,2025-09-12,63,Yuki Tanaka,Sarah Johnson,New Business,Google Cloud,39,39,No
+IBM-DEAL-00674,Adventure Works,Transportation,Japan,IBM Consulting,Negotiation,1364508,2.0,2025-04-17,77,Yuki Tanaka,Elena Popov,Renewal,AWS,63,86,Yes
+IBM-DEAL-00675,Graphic Design Institute,Transportation,Americas,IBM watsonx,Closed Won,1152996,8.5,2025-11-21,100,Anna Kowalski,Takeshi Yamamoto,Expansion,Microsoft Azure,96,207,No
+IBM-DEAL-00676,US Department of Veterans Affairs,Public Sector,Americas,IBM Consulting,Qualification,4316048,19.8,2025-03-26,21,Diego Ramirez,James O'Connor,New Business,Google Cloud,60,113,No
+IBM-DEAL-00677,US Department of Veterans Affairs,Public Sector,Americas,IBM Cloud Pak,Closed Won,559825,14.3,2025-08-20,100,Nia Okafor,Sarah Johnson,New Business,Snowflake,75,233,No
+IBM-DEAL-00678,Parnell Aerospace,Manufacturing,Asia Pacific,IBM Cloud Pak,Negotiation,1118359,4.8,2025-01-13,83,Jean-Luc Dubois,Rachel Green,New Business,Oracle,54,11,No
+IBM-DEAL-00679,Blue Yonder Airlines,Transportation,Japan,IBM Consulting,Closed Lost,696577,13.6,2026-03-29,0,Anna Kowalski,James O'Connor,New Business,Microsoft Azure,10,20,No
+IBM-DEAL-00680,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Proposal,404184,6.2,2025-12-01,51,Emma O'Brien,Rachel Green,New Business,Microsoft Azure,36,157,No
+IBM-DEAL-00681,NHS England,Public Sector,EMEA,IBM Security QRadar,Qualification,186290,1.9,2025-05-01,25,Klaus Weber,Sarah Johnson,Renewal,Salesforce,64,301,Yes
+IBM-DEAL-00682,Northwind Retail,Banking & Financial Services,Japan,IBM Z Systems,Discovery,5694848,14.4,2026-01-30,20,Emma O'Brien,,Renewal,None (Green Field),52,149,Yes
+IBM-DEAL-00683,Sterling Manufacturing,Transportation,EMEA,IBM Security QRadar,Discovery,635740,18.1,2025-10-06,22,Fatima El-Amrani,Aisha Bello,Renewal,SAP,45,196,Yes
+IBM-DEAL-00684,Nod Publishers,Retail & Consumer,Japan,IBM Consulting,Closed Lost,2419369,7.3,2025-07-03,0,Marcus Thompson,Aisha Bello,Renewal,Google Cloud,39,235,Yes
+IBM-DEAL-00685,Tailspin Traders,Manufacturing,Japan,IBM watsonx,Qualification,1995113,0.1,2025-10-09,11,Klaus Weber,Sarah Johnson,Renewal,Oracle,77,89,Yes
+IBM-DEAL-00686,Pacific Northwest Utilities,Manufacturing,Asia Pacific,IBM Security QRadar,Closed Lost,737083,3.4,2025-12-22,0,Diego Ramirez,Elena Popov,Renewal,AWS,22,5,Yes
+IBM-DEAL-00687,City Power & Light,Banking & Financial Services,Americas,IBM watsonx,Discovery,5491650,5.6,2025-03-02,22,Nia Okafor,Aisha Bello,New Business,Snowflake,62,188,No
+IBM-DEAL-00688,Contoso Manufacturing,Transportation,Americas,IBM Consulting,Discovery,3511842,16.9,2025-08-05,35,Anna Kowalski,Takeshi Yamamoto,Renewal,SAP,79,305,Yes
+IBM-DEAL-00689,Wingtip Toys,Healthcare & Life Sciences,EMEA,IBM Security QRadar,Closed Won,465676,5.3,2025-08-29,100,Isabela Costa,Elena Popov,Renewal,Salesforce,76,170,Yes
+IBM-DEAL-00690,Northwind Retail,Transportation,Americas,IBM Consulting,Negotiation,4747737,1.1,2025-10-27,77,Priya Sharma,David Chen,Renewal,None (Green Field),42,269,Yes
+IBM-DEAL-00691,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Qualification,1437231,4.0,2025-06-24,15,Chen Wei,Sarah Johnson,Renewal,None (Green Field),90,303,Yes
+IBM-DEAL-00692,Northwind Retail,Transportation,Japan,IBM Cloud Pak,Qualification,2063235,10.4,2025-05-23,21,Lars Andersson,Rachel Green,Renewal,Snowflake,62,290,Yes
+IBM-DEAL-00693,Proseware Systems,Banking & Financial Services,EMEA,IBM watsonx,Discovery,1650804,12.3,2025-09-02,37,Jean-Luc Dubois,Mohammed Al-Rashid,New Business,Snowflake,39,99,No
+IBM-DEAL-00694,Meridian Bank,Healthcare & Life Sciences,Asia Pacific,IBM Consulting,Closed Won,2725405,20.3,2026-03-17,100,Jean-Luc Dubois,Sarah Johnson,New Business,Oracle,90,114,No
+IBM-DEAL-00695,Adventure Works,Retail & Consumer,EMEA,IBM Quantum,Closed Won,4456582,21.8,2025-02-07,100,Lars Andersson,Elena Popov,New Business,Oracle,93,89,No
+IBM-DEAL-00696,Walmart Inc.,Retail & Consumer,Americas,IBM Storage,Negotiation,859517,9.9,2026-03-05,76,Hiroshi Sato,Mohammed Al-Rashid,New Business,Google Cloud,90,120,No
+IBM-DEAL-00697,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Qualification,2775227,0.9,2025-05-23,14,Fatima El-Amrani,James O'Connor,New Business,None (Green Field),60,148,No
+IBM-DEAL-00698,Horizon Telecom,Transportation,Japan,IBM Security QRadar,Negotiation,481767,14.5,2025-10-21,82,Fatima El-Amrani,Sarah Johnson,Expansion,SAP,43,245,No
+IBM-DEAL-00699,Singapore Airlines,Transportation,Asia Pacific,IBM watsonx,Discovery,2459038,4.2,2025-06-06,27,Jean-Luc Dubois,Mohammed Al-Rashid,Cross-sell,Snowflake,47,176,No
+IBM-DEAL-00700,Southridge Video,Manufacturing,Japan,IBM Consulting,Negotiation,2117213,4.5,2026-02-09,74,Lars Andersson,Elena Popov,New Business,Google Cloud,75,177,No
+IBM-DEAL-00701,Trey Research,Retail & Consumer,Asia Pacific,IBM Consulting,Closed Lost,72406,1.5,2026-02-20,0,Emma O'Brien,Takeshi Yamamoto,New Business,None (Green Field),26,258,No
+IBM-DEAL-00702,Litware Inc.,Transportation,Japan,IBM Cloud Pak,Discovery,288598,0.9,2025-02-05,31,Hiroshi Sato,Elena Popov,New Business,Salesforce,52,60,No
+IBM-DEAL-00703,US Department of Veterans Affairs,Public Sector,Americas,IBM Security QRadar,Discovery,683347,13.3,2026-01-20,27,Fatima El-Amrani,Elena Popov,New Business,SAP,52,287,No
+IBM-DEAL-00704,Northwind Retail,Retail & Consumer,Americas,IBM Consulting,Closed Lost,957711,18.6,2025-04-24,0,Emma O'Brien,Sarah Johnson,Renewal,,25,240,Yes
+IBM-DEAL-00705,Kensington Hospital Group,Transportation,EMEA,IBM watsonx,Proposal,893203,19.5,2026-03-12,54,Klaus Weber,Takeshi Yamamoto,Expansion,Microsoft Azure,74,199,No
+IBM-DEAL-00706,Kensington Hospital Group,Transportation,EMEA,IBM Cloud Pak,Negotiation,832462,4.6,2025-06-10,77,Yuki Tanaka,Takeshi Yamamoto,Renewal,Salesforce,57,212,Yes
+IBM-DEAL-00707,Humongous Insurance,Healthcare & Life Sciences,Japan,IBM Security QRadar,Negotiation,434476,0.5,2025-08-12,76,Yuki Tanaka,James O'Connor,New Business,Snowflake,81,233,No
+IBM-DEAL-00708,US Department of Veterans Affairs,Public Sector,Americas,IBM Consulting,Closed Won,3112953,16.7,2025-02-16,100,Emma O'Brien,Sarah Johnson,Renewal,AWS,97,86,Yes
+IBM-DEAL-00709,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Discovery,758891,11.5,2025-04-29,29,Priya Sharma,James O'Connor,Cross-sell,Microsoft Azure,90,52,No
+IBM-DEAL-00710,Siemens AG,Manufacturing,EMEA,IBM Consulting,Closed Won,1544300,11.7,2026-02-03,100,Priya Sharma,Elena Popov,New Business,SAP,89,288,No
+IBM-DEAL-00711,HSBC Holdings,Banking & Financial Services,EMEA,IBM Consulting,Proposal,264750,18.6,2025-05-04,45,Yuki Tanaka,Rachel Green,Expansion,SAP,90,316,No
+IBM-DEAL-00712,Contoso Manufacturing,Healthcare & Life Sciences,Japan,IBM watsonx,Proposal,2926747,16.6,2025-10-09,55,Lars Andersson,Takeshi Yamamoto,New Business,None (Green Field),69,211,No
+IBM-DEAL-00713,Quantum Chemicals,Retail & Consumer,Americas,IBM watsonx,Proposal,587431,9.1,2025-07-12,49,Anna Kowalski,Elena Popov,Renewal,Microsoft Azure,54,196,Yes
+IBM-DEAL-00714,Tailspin Traders,Public Sector,Japan,IBM watsonx,Discovery,1145823,10.7,2025-08-27,34,Hiroshi Sato,David Chen,New Business,SAP,80,243,No
+IBM-DEAL-00715,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Proposal,1661920,6.5,2026-02-25,60,Klaus Weber,Sarah Johnson,Renewal,None (Green Field),67,287,Yes
+IBM-DEAL-00716,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Discovery,2034505,11.5,2025-01-13,20,Fatima El-Amrani,James O'Connor,Renewal,SAP,63,211,Yes
+IBM-DEAL-00717,Quantum Chemicals,Energy & Utilities,Americas,IBM Consulting,Negotiation,700633,3.4,2026-02-27,81,Marcus Thompson,Mohammed Al-Rashid,Renewal,None (Green Field),59,174,Yes
+IBM-DEAL-00718,Siemens AG,Manufacturing,EMEA,IBM watsonx,Closed Lost,1839795,12.5,2025-08-02,0,Sofia Martinez,Mohammed Al-Rashid,New Business,Salesforce,19,223,No
+IBM-DEAL-00719,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Negotiation,192708,14.7,2026-02-20,68,Emma O'Brien,Aisha Bello,New Business,SAP,56,320,No
+IBM-DEAL-00720,Margie's Travel,Manufacturing,EMEA,IBM Storage,Discovery,670111,15.9,2025-07-27,36,Marcus Thompson,Elena Popov,Renewal,Salesforce,38,307,Yes
+IBM-DEAL-00721,Fourth Coffee,Healthcare & Life Sciences,Asia Pacific,IBM Z Systems,Proposal,858673,13.7,2025-12-06,49,Marcus Thompson,Takeshi Yamamoto,Renewal,Microsoft Azure,39,165,Yes
+IBM-DEAL-00722,Siemens AG,Manufacturing,EMEA,IBM Consulting,Closed Won,4981051,4.7,2025-08-09,100,Priya Sharma,Aisha Bello,Cross-sell,Oracle,82,151,No
+IBM-DEAL-00723,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Proposal,3143656,21.8,2025-01-02,42,Lars Andersson,Aisha Bello,Renewal,Microsoft Azure,65,95,Yes
+IBM-DEAL-00724,Litware Inc.,Banking & Financial Services,Americas,Red Hat OpenShift,Closed Won,426806,18.1,2025-09-09,100,Diego Ramirez,Mohammed Al-Rashid,Renewal,Salesforce,78,141,Yes
+IBM-DEAL-00725,Litware Inc.,Transportation,EMEA,IBM Consulting,Closed Won,4009962,17.8,2025-07-03,100,Hiroshi Sato,Elena Popov,New Business,Salesforce,91,161,No
+IBM-DEAL-00726,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Qualification,704414,2.4,2025-08-18,13,Fatima El-Amrani,Elena Popov,New Business,AWS,43,81,No
+IBM-DEAL-00727,Parnell Aerospace,Manufacturing,Japan,IBM Consulting,Proposal,518036,18.5,2026-02-16,51,Nia Okafor,Aisha Bello,Renewal,Google Cloud,51,204,Yes
+IBM-DEAL-00728,Southridge Video,Retail & Consumer,Americas,IBM Quantum,Discovery,4234364,19.3,2025-06-21,22,Emma O'Brien,Elena Popov,New Business,Google Cloud,44,26,No
+IBM-DEAL-00729,Trey Research,Telecommunications,Asia Pacific,IBM watsonx,Closed Won,867741,15.0,2026-03-16,100,Jean-Luc Dubois,Takeshi Yamamoto,Renewal,Salesforce,98,263,Yes
+IBM-DEAL-00730,Nod Publishers,Transportation,Americas,IBM Cloud Pak,Negotiation,2050270,18.3,2025-08-02,67,Yuki Tanaka,Rachel Green,New Business,Oracle,64,316,No
+IBM-DEAL-00731,Lucerne Publishing,Energy & Utilities,Asia Pacific,IBM watsonx,Discovery,1087354,8.7,2025-08-09,34,Hiroshi Sato,David Chen,New Business,Salesforce,38,43,No
+IBM-DEAL-00732,Parnell Aerospace,Banking & Financial Services,Japan,Red Hat OpenShift,Negotiation,268000,18.8,2025-07-19,74,Hiroshi Sato,Sarah Johnson,New Business,Google Cloud,70,173,No
+IBM-DEAL-00733,Rakuten Group,Retail & Consumer,Japan,IBM Security QRadar,Discovery,470762,3.6,2025-08-07,28,Diego Ramirez,Sarah Johnson,New Business,SAP,48,88,No
+IBM-DEAL-00734,Humongous Insurance,Healthcare & Life Sciences,Asia Pacific,Red Hat OpenShift,Proposal,1074547,16.9,2026-02-04,43,Sofia Martinez,Aisha Bello,New Business,AWS,69,243,No
+IBM-DEAL-00735,Toyota Motor Corp,Manufacturing,Japan,IBM Security QRadar,Negotiation,101514,3.6,2025-06-25,67,Lars Andersson,David Chen,Cross-sell,Oracle,45,272,No
+IBM-DEAL-00736,Singapore Airlines,Transportation,Asia Pacific,IBM Security QRadar,Discovery,699956,12.9,2025-12-24,39,Fatima El-Amrani,Aisha Bello,Renewal,None (Green Field),39,121,Yes
+IBM-DEAL-00737,Walmart Inc.,Retail & Consumer,Americas,IBM watsonx,Proposal,1964817,0.2,2025-06-11,50,Chen Wei,Mohammed Al-Rashid,Renewal,AWS,90,242,Yes
+IBM-DEAL-00738,Proseware Systems,Banking & Financial Services,Asia Pacific,IBM watsonx,Proposal,460967,6.6,2025-03-12,41,Hiroshi Sato,Sarah Johnson,Renewal,Snowflake,79,137,Yes
+IBM-DEAL-00739,Atlas Logistics,Banking & Financial Services,Americas,Red Hat OpenShift,Negotiation,1125909,13.3,2026-03-13,69,Fatima El-Amrani,Aisha Bello,New Business,AWS,41,190,No
+IBM-DEAL-00740,Graphic Design Institute,Banking & Financial Services,Asia Pacific,IBM Cloud Pak,Closed Won,1828700,19.1,2025-10-07,100,Rajiv Menon,James O'Connor,Expansion,Salesforce,84,287,No
+IBM-DEAL-00741,HSBC Holdings,Banking & Financial Services,EMEA,IBM watsonx,Closed Won,533072,19.6,2025-01-22,100,Yuki Tanaka,Sarah Johnson,New Business,Snowflake,90,189,No
+IBM-DEAL-00742,Litware Inc.,Banking & Financial Services,Japan,IBM watsonx,Discovery,1245187,0.1,2025-09-25,36,Hiroshi Sato,Elena Popov,Renewal,Oracle,52,300,Yes
+IBM-DEAL-00743,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Z Systems,Closed Won,2320610,18.8,2025-03-05,100,Chen Wei,Takeshi Yamamoto,Renewal,Salesforce,97,220,Yes
+IBM-DEAL-00744,Proseware Systems,Manufacturing,EMEA,IBM Security QRadar,Discovery,801773,1.6,2025-07-22,21,Jean-Luc Dubois,Sarah Johnson,New Business,Salesforce,,116,No
+IBM-DEAL-00745,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Qualification,1656021,8.3,2025-09-23,21,Marcus Thompson,Elena Popov,Renewal,None (Green Field),78,145,Yes
+IBM-DEAL-00746,Humongous Insurance,Transportation,Japan,Red Hat OpenShift,Discovery,895070,17.2,2026-03-03,33,Diego Ramirez,Mohammed Al-Rashid,Renewal,Salesforce,38,239,Yes
+IBM-DEAL-00747,Adventure Works,Transportation,Asia Pacific,IBM Cloud Pak,Discovery,2059991,21.2,2025-05-19,28,Yuki Tanaka,Rachel Green,New Business,Oracle,45,250,No
+IBM-DEAL-00748,Fourth Coffee,Healthcare & Life Sciences,Asia Pacific,IBM Security QRadar,Negotiation,983460,17.6,2026-01-18,73,Yuki Tanaka,James O'Connor,Renewal,AWS,60,15,Yes
+IBM-DEAL-00749,Alpine Ski House,Transportation,Americas,IBM watsonx,Closed Won,2467159,7.5,2025-09-04,100,Hiroshi Sato,James O'Connor,New Business,AWS,81,100,No
+IBM-DEAL-00750,VanArsdel Ltd.,Healthcare & Life Sciences,Japan,IBM Z Systems,Discovery,7445718,7.4,2025-08-30,21,Anna Kowalski,Sarah Johnson,New Business,SAP,83,128,No
+IBM-DEAL-00751,Consolidated Messenger,Transportation,Japan,IBM Consulting,Qualification,16265340,4.7,2025-07-09,24,Emma O'Brien,Rachel Green,Renewal,Salesforce,41,23,Yes
+IBM-DEAL-00752,Wingtip Toys,Public Sector,EMEA,IBM watsonx,Proposal,3209735,20.4,2025-09-08,61,Yuki Tanaka,James O'Connor,Renewal,,87,115,Yes
+IBM-DEAL-00753,Blue Yonder Airlines,Banking & Financial Services,Americas,Red Hat OpenShift,Negotiation,423162,5.2,2025-01-24,71,Diego Ramirez,Rachel Green,Renewal,Oracle,81,96,Yes
+IBM-DEAL-00754,Rakuten Group,Retail & Consumer,Japan,Red Hat OpenShift,Negotiation,930597,3.4,2025-02-02,74,Rajiv Menon,Mohammed Al-Rashid,New Business,None (Green Field),88,86,No
+IBM-DEAL-00755,Consolidated Messenger,Healthcare & Life Sciences,EMEA,IBM Z Systems,Negotiation,2641697,15.7,2026-03-29,70,Jean-Luc Dubois,Rachel Green,Renewal,SAP,78,276,Yes
+IBM-DEAL-00756,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Closed Won,1691429,8.9,2025-07-12,100,Marcus Thompson,David Chen,Cross-sell,Microsoft Azure,99,279,No
+IBM-DEAL-00757,Shell plc,Energy & Utilities,EMEA,IBM Cloud Pak,Negotiation,283108,11.9,2025-04-29,69,Sofia Martinez,Elena Popov,Renewal,Oracle,86,69,Yes
+IBM-DEAL-00758,Toyota Motor Corp,Manufacturing,Japan,IBM Cloud Pak,Discovery,2117341,18.7,2025-04-16,33,Sofia Martinez,Takeshi Yamamoto,New Business,AWS,43,117,No
+IBM-DEAL-00759,Blue Yonder Airlines,Public Sector,Asia Pacific,IBM watsonx,Closed Won,1284991,7.1,2026-01-23,100,Chen Wei,Rachel Green,Expansion,AWS,98,331,No
+IBM-DEAL-00760,Northwind Retail,Retail & Consumer,Asia Pacific,IBM Cloud Pak,Closed Won,1193082,1.9,2026-02-21,100,Sofia Martinez,Mohammed Al-Rashid,Renewal,None (Green Field),79,312,Yes
+IBM-DEAL-00761,Southridge Video,Energy & Utilities,Japan,IBM watsonx,Qualification,101426,19.5,2025-07-13,11,Emma O'Brien,Mohammed Al-Rashid,Renewal,SAP,57,330,Yes
+IBM-DEAL-00762,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Proposal,3116997,6.8,2025-03-29,41,Rajiv Menon,Rachel Green,Cross-sell,Snowflake,85,300,No
+IBM-DEAL-00763,Beacon Financial,Telecommunications,Americas,IBM Security QRadar,Closed Lost,71056,5.9,2025-01-25,0,Anna Kowalski,James O'Connor,Expansion,Salesforce,17,205,No
+IBM-DEAL-00764,Shell plc,Energy & Utilities,EMEA,IBM Consulting,Proposal,1619407,11.6,2025-02-02,52,Nia Okafor,James O'Connor,Cross-sell,Oracle,60,142,No
+IBM-DEAL-00765,Parnell Aerospace,Energy & Utilities,Asia Pacific,IBM watsonx,Proposal,632400,8.1,2026-01-07,62,Emma O'Brien,Sarah Johnson,New Business,Snowflake,89,275,No
+IBM-DEAL-00766,Kensington Hospital Group,Retail & Consumer,Asia Pacific,Red Hat OpenShift,Discovery,404225,5.0,2025-12-12,21,Anna Kowalski,Sarah Johnson,Renewal,Google Cloud,58,179,Yes
+IBM-DEAL-00767,Northwind Retail,Manufacturing,Americas,IBM Cloud Pak,Proposal,1153837,21.4,2025-08-27,45,Rajiv Menon,James O'Connor,Renewal,SAP,74,36,Yes
+IBM-DEAL-00768,VanArsdel Ltd.,Manufacturing,Asia Pacific,IBM Consulting,Qualification,889453,2.0,2025-12-31,17,Rajiv Menon,Elena Popov,Expansion,None (Green Field),73,237,No
+IBM-DEAL-00769,Tailspin Traders,Energy & Utilities,Asia Pacific,Red Hat OpenShift,Proposal,186146,21.0,2026-01-20,41,Nia Okafor,Sarah Johnson,New Business,None (Green Field),74,263,No
+IBM-DEAL-00770,Meridian Bank,Banking & Financial Services,EMEA,IBM watsonx,Closed Won,1488365,17.1,2025-02-27,100,Klaus Weber,Rachel Green,New Business,Microsoft Azure,92,70,No
+IBM-DEAL-00771,Rakuten Group,Retail & Consumer,Japan,Red Hat OpenShift,Closed Won,846583,8.1,2026-02-10,100,Chen Wei,James O'Connor,Cross-sell,Microsoft Azure,86,73,No
+IBM-DEAL-00772,Trey Research,Banking & Financial Services,EMEA,IBM Security QRadar,Discovery,269403,11.1,2025-02-07,25,Sofia Martinez,James O'Connor,Renewal,Salesforce,50,236,Yes
+IBM-DEAL-00773,Singapore Airlines,Transportation,Asia Pacific,IBM Consulting,Qualification,223293,17.1,2025-06-22,21,Rajiv Menon,Sarah Johnson,Cross-sell,Snowflake,50,257,No
+IBM-DEAL-00774,HSBC Holdings,Banking & Financial Services,EMEA,Red Hat OpenShift,Qualification,435391,19.5,2025-02-15,16,Fatima El-Amrani,Elena Popov,Expansion,Snowflake,87,18,No
+IBM-DEAL-00775,VanArsdel Ltd.,Banking & Financial Services,Japan,IBM Consulting,Negotiation,4115741,9.3,2025-10-15,80,Diego Ramirez,David Chen,New Business,Oracle,76,78,No
+IBM-DEAL-00776,Cascade Retail,Manufacturing,Asia Pacific,IBM Cloud Pak,Negotiation,2028816,1.0,2025-04-30,82,Isabela Costa,David Chen,Renewal,AWS,76,196,Yes
+IBM-DEAL-00777,Adventure Works,Public Sector,Asia Pacific,IBM Consulting,Negotiation,2186141,12.8,2025-03-26,79,Nia Okafor,James O'Connor,Cross-sell,Snowflake,60,311,No
+IBM-DEAL-00778,Beacon Financial,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Negotiation,1233500,7.3,2025-02-22,85,Jean-Luc Dubois,Mohammed Al-Rashid,Expansion,Salesforce,53,15,No
+IBM-DEAL-00779,Graphic Design Institute,Public Sector,EMEA,IBM Security QRadar,Proposal,479591,0.5,2025-10-13,41,Hiroshi Sato,David Chen,Renewal,Snowflake,65,84,Yes
+IBM-DEAL-00780,Graphic Design Institute,Manufacturing,Asia Pacific,IBM Consulting,Proposal,3930718,19.7,2026-01-23,47,Chen Wei,Mohammed Al-Rashid,Renewal,Microsoft Azure,36,150,Yes
+IBM-DEAL-00781,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Z Systems,Proposal,2585636,2.1,2025-10-09,44,Jean-Luc Dubois,David Chen,Expansion,Snowflake,59,298,No
+IBM-DEAL-00782,Fourth Coffee,Manufacturing,Asia Pacific,IBM Consulting,Closed Won,1655955,17.1,2025-07-24,100,Emma O'Brien,David Chen,Cross-sell,Oracle,92,81,No
+IBM-DEAL-00783,Meridian Bank,Banking & Financial Services,Japan,IBM Consulting,Proposal,1024654,18.3,2026-01-26,41,Fatima El-Amrani,David Chen,Cross-sell,Oracle,59,262,No
+IBM-DEAL-00784,Margie's Travel,Healthcare & Life Sciences,Asia Pacific,IBM Consulting,Negotiation,3846187,9.0,2025-04-01,66,Hiroshi Sato,Mohammed Al-Rashid,New Business,Oracle,90,327,No
+IBM-DEAL-00785,Shell plc,Energy & Utilities,EMEA,IBM Z Systems,Proposal,7071558,19.5,2026-01-07,41,Sofia Martinez,Rachel Green,Renewal,Google Cloud,60,215,Yes
+IBM-DEAL-00786,Blue Yonder Airlines,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Negotiation,366681,21.3,2025-04-12,73,Fatima El-Amrani,Aisha Bello,Cross-sell,Oracle,47,237,No
+IBM-DEAL-00787,Litware Inc.,Transportation,Americas,IBM Z Systems,Closed Lost,5937750,2.2,2025-11-05,0,Yuki Tanaka,Aisha Bello,New Business,Snowflake,20,5,No
+IBM-DEAL-00788,Proseware Systems,Manufacturing,EMEA,IBM Z Systems,Proposal,1573198,16.0,2025-03-28,49,Diego Ramirez,David Chen,Expansion,SAP,90,301,No
+IBM-DEAL-00789,Humongous Insurance,Transportation,EMEA,IBM Consulting,Proposal,735095,19.9,2026-01-15,57,Priya Sharma,Sarah Johnson,Expansion,Google Cloud,85,260,No
+IBM-DEAL-00790,Litware Inc.,Manufacturing,Asia Pacific,IBM Consulting,Discovery,2898280,16.2,2025-09-09,37,Yuki Tanaka,Elena Popov,Cross-sell,AWS,85,315,No
+IBM-DEAL-00791,Southridge Video,Energy & Utilities,Americas,IBM Cloud Pak,Proposal,155790,15.5,2025-10-06,63,Chen Wei,Rachel Green,Renewal,Snowflake,81,330,Yes
+IBM-DEAL-00792,Pacific Northwest Utilities,Retail & Consumer,Americas,IBM Cloud Pak,Proposal,776975,4.0,2025-11-19,42,Lars Andersson,David Chen,New Business,Google Cloud,57,172,No
+IBM-DEAL-00793,Toyota Motor Corp,Manufacturing,Japan,IBM Z Systems,Qualification,860298,21.6,2025-03-13,15,Rajiv Menon,James O'Connor,New Business,Snowflake,55,295,No
+IBM-DEAL-00794,Northwind Retail,Retail & Consumer,EMEA,IBM Quantum,Discovery,2077694,14.6,2025-10-05,21,Marcus Thompson,James O'Connor,New Business,Salesforce,62,311,No
+IBM-DEAL-00795,Adventure Works,Healthcare & Life Sciences,Asia Pacific,IBM Cloud Pak,Proposal,222464,9.7,2025-07-02,65,Priya Sharma,David Chen,Renewal,Snowflake,46,125,Yes
+IBM-DEAL-00796,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Closed Lost,2670888,8.5,2025-03-18,0,Marcus Thompson,Aisha Bello,Renewal,None (Green Field),37,263,Yes
+IBM-DEAL-00797,NHS England,Public Sector,EMEA,IBM Consulting,Qualification,1956885,15.3,2026-03-29,15,Isabela Costa,David Chen,Renewal,Snowflake,36,189,Yes
+IBM-DEAL-00798,Trey Research,Telecommunications,Asia Pacific,IBM Cloud Pak,Proposal,1712836,4.3,2025-06-30,58,Marcus Thompson,James O'Connor,Cross-sell,Salesforce,87,318,No
+IBM-DEAL-00799,Litware Inc.,Telecommunications,Japan,IBM watsonx,Negotiation,867664,11.7,2025-06-22,75,Priya Sharma,Mohammed Al-Rashid,New Business,Google Cloud,81,252,No
+IBM-DEAL-00800,Singapore Airlines,Transportation,Asia Pacific,IBM Consulting,Qualification,5041687,8.1,2025-01-14,13,Fatima El-Amrani,David Chen,Renewal,Salesforce,76,255,Yes
+IBM-DEAL-00801,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Negotiation,2917944,19.7,2026-02-27,68,Priya Sharma,David Chen,New Business,AWS,71,43,No
+IBM-DEAL-00802,HSBC Holdings,Banking & Financial Services,EMEA,IBM watsonx,Proposal,1359468,2.4,2026-02-28,42,Jean-Luc Dubois,Takeshi Yamamoto,Renewal,AWS,55,108,Yes
+IBM-DEAL-00803,BT Group,Telecommunications,EMEA,IBM Z Systems,Qualification,8242083,18.6,2025-12-23,18,Sofia Martinez,David Chen,New Business,AWS,90,334,No
+IBM-DEAL-00804,Proseware Systems,Transportation,Americas,IBM Consulting,Closed Won,1265191,5.2,2025-09-21,100,Fatima El-Amrani,Takeshi Yamamoto,Expansion,SAP,91,290,No
+IBM-DEAL-00805,Atlas Logistics,Transportation,Japan,IBM Cloud Pak,Qualification,1176793,16.3,2025-12-09,20,Lars Andersson,Aisha Bello,Expansion,SAP,52,282,No
+IBM-DEAL-00806,Parnell Aerospace,Healthcare & Life Sciences,Americas,IBM Storage,Discovery,59218,0.9,2026-02-15,24,Sofia Martinez,Elena Popov,Renewal,Oracle,54,195,Yes
+IBM-DEAL-00807,Southridge Video,Telecommunications,Americas,IBM watsonx,Proposal,941020,13.9,2025-08-06,56,Nia Okafor,Takeshi Yamamoto,New Business,AWS,70,98,No
+IBM-DEAL-00808,Graphic Design Institute,Energy & Utilities,Japan,IBM Quantum,Negotiation,1663318,0.1,2025-07-07,74,Sofia Martinez,Elena Popov,Expansion,Google Cloud,89,268,No
+IBM-DEAL-00809,Tailspin Traders,Manufacturing,Americas,IBM watsonx,Closed Won,2555556,2.0,2025-07-13,100,Klaus Weber,Mohammed Al-Rashid,Renewal,AWS,98,9,Yes
+IBM-DEAL-00810,Horizon Telecom,Energy & Utilities,Americas,IBM Consulting,Discovery,4072199,10.2,2025-05-14,31,Rajiv Menon,Aisha Bello,New Business,Salesforce,82,190,No
+IBM-DEAL-00811,Beacon Financial,Energy & Utilities,EMEA,IBM Security QRadar,Proposal,773883,2.7,2025-08-29,45,Jean-Luc Dubois,Mohammed Al-Rashid,Renewal,None (Green Field),46,37,Yes
+IBM-DEAL-00812,US Department of Veterans Affairs,Public Sector,Americas,Red Hat OpenShift,Discovery,384016,21.0,2026-01-11,33,Marcus Thompson,Elena Popov,Cross-sell,AWS,62,172,No
+IBM-DEAL-00813,Consolidated Messenger,Telecommunications,Asia Pacific,IBM Cloud Pak,Negotiation,2128218,4.8,2026-02-18,79,Emma O'Brien,James O'Connor,New Business,Oracle,60,153,No
+IBM-DEAL-00814,Proseware Systems,Retail & Consumer,Japan,IBM Consulting,Negotiation,1012975,9.7,2025-03-24,65,Klaus Weber,Sarah Johnson,Expansion,Oracle,38,174,No
+IBM-DEAL-00815,Singapore Airlines,Transportation,Asia Pacific,Red Hat OpenShift,Qualification,206297,8.0,2026-01-09,10,Emma O'Brien,Rachel Green,Renewal,Oracle,85,32,Yes
+IBM-DEAL-00816,Cascade Retail,Telecommunications,EMEA,IBM Consulting,Closed Won,1468143,11.8,2025-02-01,100,Yuki Tanaka,Takeshi Yamamoto,Renewal,Oracle,100,25,Yes
+IBM-DEAL-00817,Proseware Systems,Transportation,Americas,IBM Cloud Pak,Closed Lost,110863,14.1,2025-03-27,0,Jean-Luc Dubois,,Expansion,AWS,32,17,No
+IBM-DEAL-00818,Horizon Telecom,Healthcare & Life Sciences,EMEA,IBM Consulting,Negotiation,1224179,13.9,2026-01-10,68,Isabela Costa,Takeshi Yamamoto,Renewal,Oracle,44,64,Yes
+IBM-DEAL-00819,Wingtip Toys,Healthcare & Life Sciences,Americas,IBM Cloud Pak,Closed Won,567329,13.6,2025-01-17,100,Isabela Costa,Elena Popov,New Business,SAP,89,74,No
+IBM-DEAL-00820,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Discovery,2579612,14.3,2025-12-07,20,Priya Sharma,Sarah Johnson,Renewal,AWS,86,159,Yes
+IBM-DEAL-00821,Tailspin Traders,Telecommunications,Americas,IBM Consulting,Qualification,3195567,2.8,2026-03-07,19,Lars Andersson,Takeshi Yamamoto,New Business,Oracle,87,307,No
+IBM-DEAL-00822,Consolidated Messenger,Telecommunications,EMEA,IBM Security QRadar,Closed Won,313660,2.6,2025-05-22,100,Nia Okafor,James O'Connor,Renewal,SAP,81,222,Yes
+IBM-DEAL-00823,JPMorgan Chase,Banking & Financial Services,Americas,IBM Quantum,Qualification,342207,8.0,2025-03-24,25,Rajiv Menon,Rachel Green,Expansion,None (Green Field),65,123,No
+IBM-DEAL-00824,Northwind Retail,Energy & Utilities,EMEA,IBM watsonx,Proposal,802791,21.0,2025-03-23,43,Diego Ramirez,David Chen,Expansion,Microsoft Azure,87,328,No
+IBM-DEAL-00825,Pacific Northwest Utilities,Transportation,Japan,IBM Cloud Pak,Discovery,932412,14.9,2025-06-28,22,Emma O'Brien,Rachel Green,Expansion,Snowflake,58,150,No
+IBM-DEAL-00826,Meridian Bank,Healthcare & Life Sciences,Americas,IBM Consulting,Closed Won,178617,17.7,2026-01-13,100,Sofia Martinez,Rachel Green,Expansion,Oracle,100,216,No
+IBM-DEAL-00827,Woodgrove Bank,Transportation,Americas,IBM watsonx,Negotiation,3039064,1.3,2025-02-13,75,Rajiv Menon,Rachel Green,New Business,Microsoft Azure,47,265,No
+IBM-DEAL-00828,Nod Publishers,Telecommunications,Asia Pacific,IBM Consulting,Proposal,1693811,0.5,2025-10-17,43,Lars Andersson,Rachel Green,New Business,SAP,62,98,No
+IBM-DEAL-00829,JPMorgan Chase,Banking & Financial Services,Americas,IBM Consulting,Closed Lost,3422084,3.4,2026-02-19,0,Marcus Thompson,Sarah Johnson,New Business,Snowflake,38,135,No
+IBM-DEAL-00830,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Discovery,1869942,2.2,2025-06-19,33,Rajiv Menon,Rachel Green,New Business,Microsoft Azure,75,306,No
+IBM-DEAL-00831,HSBC Holdings,Banking & Financial Services,EMEA,IBM Security QRadar,Discovery,106245,18.1,2025-10-16,37,Sofia Martinez,Aisha Bello,New Business,Salesforce,83,328,No
+IBM-DEAL-00832,Parnell Aerospace,Transportation,Japan,IBM Storage,Proposal,1216488,10.2,2025-08-13,47,Diego Ramirez,Sarah Johnson,Renewal,Snowflake,78,66,Yes
+IBM-DEAL-00833,Toyota Motor Corp,Manufacturing,Japan,Red Hat OpenShift,Negotiation,565316,16.8,2025-08-12,72,Isabela Costa,David Chen,Renewal,Salesforce,46,112,Yes
+IBM-DEAL-00834,Tailspin Traders,Banking & Financial Services,EMEA,IBM Z Systems,Closed Won,996465,1.2,2025-03-23,100,Sofia Martinez,Elena Popov,Renewal,Salesforce,96,19,Yes
+IBM-DEAL-00835,Cascade Retail,Retail & Consumer,Americas,IBM watsonx,Qualification,2866523,17.9,2026-03-12,19,Marcus Thompson,Mohammed Al-Rashid,Renewal,Snowflake,39,284,Yes
+IBM-DEAL-00836,Graphic Design Institute,Transportation,Asia Pacific,IBM Z Systems,Discovery,2426849,11.9,2025-08-03,20,Priya Sharma,Elena Popov,New Business,None (Green Field),65,168,No
+IBM-DEAL-00837,NHS England,Public Sector,EMEA,IBM Consulting,Proposal,4997885,5.9,2025-03-26,55,Klaus Weber,David Chen,Cross-sell,Google Cloud,73,221,No
+IBM-DEAL-00838,JPMorgan Chase,Banking & Financial Services,Americas,IBM Storage,Proposal,1205813,14.1,2025-04-01,41,Chen Wei,Rachel Green,Renewal,Oracle,66,150,Yes
+IBM-DEAL-00839,Alpine Ski House,Public Sector,Americas,IBM Quantum,Negotiation,3306755,8.4,2025-05-08,74,Diego Ramirez,Mohammed Al-Rashid,Cross-sell,Snowflake,,140,No
+IBM-DEAL-00840,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Negotiation,2728737,8.9,2025-10-05,72,Yuki Tanaka,James O'Connor,Cross-sell,Microsoft Azure,69,69,No
+IBM-DEAL-00841,Sterling Manufacturing,Retail & Consumer,Asia Pacific,IBM Cloud Pak,Closed Lost,2474871,1.5,2025-01-12,0,Chen Wei,Elena Popov,New Business,Salesforce,14,50,No
+IBM-DEAL-00842,Consolidated Messenger,Energy & Utilities,Americas,IBM watsonx,Proposal,1375554,5.5,2025-05-11,40,Anna Kowalski,Mohammed Al-Rashid,Renewal,AWS,55,289,Yes
+IBM-DEAL-00843,Lucerne Publishing,Healthcare & Life Sciences,Americas,IBM Z Systems,Closed Won,2184928,12.5,2025-07-25,100,Sofia Martinez,Mohammed Al-Rashid,Renewal,None (Green Field),77,245,Yes
+IBM-DEAL-00844,Contoso Manufacturing,Banking & Financial Services,Japan,IBM Z Systems,Qualification,3692359,11.4,2025-02-23,12,Nia Okafor,James O'Connor,Renewal,SAP,85,120,Yes
+IBM-DEAL-00845,Humongous Insurance,Energy & Utilities,Japan,IBM Cloud Pak,Proposal,416001,12.9,2025-06-10,62,Priya Sharma,David Chen,Renewal,AWS,86,30,Yes
+IBM-DEAL-00846,BT Group,Telecommunications,EMEA,IBM Quantum,Qualification,809397,9.3,2026-01-08,25,Hiroshi Sato,Mohammed Al-Rashid,New Business,Snowflake,38,121,No
+IBM-DEAL-00847,Kensington Hospital Group,Transportation,Americas,IBM watsonx,Negotiation,615400,21.4,2025-05-09,74,Emma O'Brien,Takeshi Yamamoto,Renewal,Salesforce,46,29,Yes
+IBM-DEAL-00848,Blue Yonder Airlines,Banking & Financial Services,Asia Pacific,IBM Cloud Pak,Proposal,913724,0.6,2025-08-19,54,Anna Kowalski,Takeshi Yamamoto,Expansion,SAP,85,162,No
+IBM-DEAL-00849,Kensington Hospital Group,Retail & Consumer,EMEA,IBM Security QRadar,Discovery,450750,63.6,2025-11-06,23,Hiroshi Sato,Mohammed Al-Rashid,New Business,Oracle,73,182,No
+IBM-DEAL-00850,Shell plc,Energy & Utilities,EMEA,IBM Z Systems,Negotiation,1600569,16.8,2025-11-10,80,Chen Wei,Sarah Johnson,Expansion,Microsoft Azure,39,204,No
+IBM-DEAL-00851,Kensington Hospital Group,Banking & Financial Services,Americas,IBM Security QRadar,Qualification,652411,11.4,2025-07-22,25,Lars Andersson,Rachel Green,Cross-sell,Google Cloud,65,258,No
+IBM-DEAL-00852,Mayo Clinic,Healthcare & Life Sciences,Americas,Red Hat OpenShift,Discovery,1491915,1.7,2026-01-09,25,Klaus Weber,Aisha Bello,Renewal,Microsoft Azure,42,89,Yes
+IBM-DEAL-00853,Fabrikam Health,Transportation,Asia Pacific,Red Hat OpenShift,Proposal,995448,2.8,2025-12-10,48,Emma O'Brien,David Chen,Renewal,SAP,70,124,Yes
+IBM-DEAL-00854,Nod Publishers,Transportation,Asia Pacific,IBM Security QRadar,Closed Won,69224,4.3,2026-01-01,100,Sofia Martinez,Rachel Green,Expansion,None (Green Field),89,151,No
+IBM-DEAL-00855,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Discovery,274581,18.3,2025-10-03,25,Anna Kowalski,David Chen,Renewal,AWS,59,91,Yes
+IBM-DEAL-00856,Contoso Manufacturing,Public Sector,Asia Pacific,IBM Security QRadar,Proposal,275694,7.1,2025-10-07,65,Yuki Tanaka,James O'Connor,New Business,,67,79,No
+IBM-DEAL-00857,Litware Inc.,Healthcare & Life Sciences,Japan,IBM Z Systems,Proposal,7153219,21.8,2025-05-23,42,Jean-Luc Dubois,Aisha Bello,Renewal,SAP,51,135,Yes
+IBM-DEAL-00858,Litware Inc.,Banking & Financial Services,Asia Pacific,IBM watsonx,Qualification,2200177,5.6,2025-10-03,24,Marcus Thompson,David Chen,Renewal,Snowflake,82,202,Yes
+IBM-DEAL-00859,Horizon Telecom,Healthcare & Life Sciences,Asia Pacific,IBM Storage,Discovery,127229,19.0,2025-11-03,27,Jean-Luc Dubois,Elena Popov,Renewal,Salesforce,69,200,Yes
+IBM-DEAL-00860,Litware Inc.,Retail & Consumer,Americas,Red Hat OpenShift,Proposal,401683,12.5,2025-03-30,52,Jean-Luc Dubois,Mohammed Al-Rashid,Renewal,Microsoft Azure,68,268,Yes
+IBM-DEAL-00861,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Quantum,Negotiation,4019741,9.5,2025-02-28,77,Sofia Martinez,James O'Connor,New Business,None (Green Field),37,20,No
+IBM-DEAL-00862,Rakuten Group,Retail & Consumer,Japan,IBM watsonx,Closed Won,3143218,13.0,2026-01-22,100,Marcus Thompson,Elena Popov,Renewal,Salesforce,76,252,Yes
+IBM-DEAL-00863,Litware Inc.,Banking & Financial Services,Americas,IBM watsonx,Qualification,341174,18.0,2025-05-23,22,Anna Kowalski,David Chen,Expansion,Snowflake,56,306,No
+IBM-DEAL-00864,Wingtip Toys,Healthcare & Life Sciences,Americas,Red Hat OpenShift,Proposal,227489,19.6,2025-04-26,42,Emma O'Brien,Rachel Green,Renewal,None (Green Field),53,5,Yes
+IBM-DEAL-00865,City Power & Light,Energy & Utilities,Japan,IBM Consulting,Qualification,1381352,8.5,2025-08-24,22,Chen Wei,Rachel Green,New Business,Oracle,85,12,No
+IBM-DEAL-00866,Adventure Works,Telecommunications,Americas,IBM Cloud Pak,Discovery,393216,19.7,2025-01-12,34,Marcus Thompson,Takeshi Yamamoto,Renewal,Oracle,79,309,Yes
+IBM-DEAL-00867,Alpine Ski House,Energy & Utilities,Americas,IBM Cloud Pak,Closed Won,643847,20.7,2026-02-06,100,Chen Wei,Rachel Green,New Business,SAP,89,189,No
+IBM-DEAL-00868,Quantum Chemicals,Public Sector,Japan,IBM Consulting,Qualification,1046734,15.7,2025-07-26,14,Klaus Weber,Aisha Bello,Expansion,Salesforce,43,228,No
+IBM-DEAL-00869,Lucerne Publishing,Telecommunications,Asia Pacific,Red Hat OpenShift,Proposal,640825,8.2,2026-03-03,61,Anna Kowalski,Mohammed Al-Rashid,New Business,SAP,88,28,No
+IBM-DEAL-00870,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Qualification,1134243,19.8,2025-07-29,22,Emma O'Brien,Rachel Green,Renewal,None (Green Field),52,32,Yes
+IBM-DEAL-00871,Margie's Travel,Banking & Financial Services,Americas,IBM watsonx,Closed Won,802991,15.8,2025-05-04,100,Lars Andersson,David Chen,Renewal,Snowflake,77,74,Yes
+IBM-DEAL-00872,Fabrikam Health,Healthcare & Life Sciences,Americas,IBM Consulting,Negotiation,961097,21.6,2025-12-03,79,Rajiv Menon,Aisha Bello,Cross-sell,Google Cloud,40,166,No
+IBM-DEAL-00873,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Proposal,1889339,13.1,2025-12-15,65,Sofia Martinez,James O'Connor,New Business,None (Green Field),35,7,No
+IBM-DEAL-00874,Fourth Coffee,Transportation,Japan,IBM Consulting,Closed Won,2611277,5.7,2025-08-30,100,Marcus Thompson,Rachel Green,Renewal,Snowflake,99,64,Yes
+IBM-DEAL-00875,Rakuten Group,Retail & Consumer,Japan,IBM Security QRadar,Discovery,403883,17.0,2025-12-06,24,Diego Ramirez,Elena Popov,New Business,Oracle,74,211,No
+IBM-DEAL-00876,Humongous Insurance,Telecommunications,EMEA,IBM Z Systems,Closed Won,576466,16.4,2025-08-18,100,Diego Ramirez,Elena Popov,New Business,Oracle,81,306,No
+IBM-DEAL-00877,NHS England,Public Sector,EMEA,Red Hat OpenShift,Closed Won,718839,7.3,2025-08-17,100,Fatima El-Amrani,Aisha Bello,New Business,Microsoft Azure,89,146,No
+IBM-DEAL-00878,Meridian Bank,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Qualification,82789,14.7,2025-11-04,19,Isabela Costa,Takeshi Yamamoto,New Business,AWS,41,124,No
+IBM-DEAL-00879,Nod Publishers,Transportation,Japan,IBM watsonx,Discovery,1904873,8.2,2025-04-30,20,Sofia Martinez,Mohammed Al-Rashid,Renewal,AWS,55,142,Yes
+IBM-DEAL-00880,VanArsdel Ltd.,Banking & Financial Services,Americas,IBM watsonx,Closed Won,393566,7.4,2026-03-18,100,Emma O'Brien,Rachel Green,Renewal,SAP,98,98,Yes
+IBM-DEAL-00881,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Discovery,2087707,1.1,2025-07-01,24,Sofia Martinez,David Chen,Renewal,,80,307,Yes
+IBM-DEAL-00882,Parnell Aerospace,Banking & Financial Services,EMEA,IBM Consulting,Qualification,1247195,19.3,2025-08-08,21,Chen Wei,Elena Popov,Renewal,Salesforce,37,264,Yes
+IBM-DEAL-00883,VanArsdel Ltd.,Telecommunications,EMEA,Red Hat OpenShift,Discovery,756476,0.7,2025-07-28,21,Hiroshi Sato,David Chen,Renewal,Microsoft Azure,66,296,Yes
+IBM-DEAL-00884,Rakuten Group,Retail & Consumer,Japan,IBM Quantum,Proposal,1201146,15.8,2025-04-22,62,Lars Andersson,Elena Popov,Cross-sell,Salesforce,77,104,No
+IBM-DEAL-00885,Blue Yonder Airlines,Telecommunications,Asia Pacific,IBM watsonx,Discovery,390674,10.9,2025-07-14,20,Chen Wei,Rachel Green,New Business,Google Cloud,55,135,No
+IBM-DEAL-00886,US Department of Veterans Affairs,Public Sector,Americas,IBM Security QRadar,Closed Won,382110,18.8,2025-02-05,100,Rajiv Menon,Aisha Bello,New Business,Microsoft Azure,75,21,No
+IBM-DEAL-00887,Atlas Logistics,Public Sector,EMEA,IBM watsonx,Qualification,1000226,17.5,2025-11-12,22,Isabela Costa,Aisha Bello,Expansion,SAP,35,149,No
+IBM-DEAL-00888,Cascade Retail,Telecommunications,EMEA,IBM watsonx,Negotiation,1253413,1.0,2026-03-08,78,Marcus Thompson,Rachel Green,Renewal,Google Cloud,50,219,Yes
+IBM-DEAL-00889,Beacon Financial,Banking & Financial Services,EMEA,IBM watsonx,Qualification,701951,16.5,2025-01-04,21,Priya Sharma,Sarah Johnson,Renewal,Snowflake,46,101,Yes
+IBM-DEAL-00890,Quantum Chemicals,Banking & Financial Services,Asia Pacific,IBM Consulting,Closed Won,1838038,7.3,2025-10-09,100,Klaus Weber,Mohammed Al-Rashid,Renewal,SAP,77,306,Yes
+IBM-DEAL-00891,HSBC Holdings,Banking & Financial Services,EMEA,IBM Security QRadar,Closed Won,420891,15.4,2026-03-16,100,Klaus Weber,Mohammed Al-Rashid,Expansion,Snowflake,81,39,No
+IBM-DEAL-00892,Fabrikam Health,Healthcare & Life Sciences,EMEA,IBM watsonx,Discovery,515025,13.5,2025-10-02,21,Rajiv Menon,James O'Connor,Expansion,Oracle,43,325,No
+IBM-DEAL-00893,Tailspin Traders,Healthcare & Life Sciences,Americas,IBM Z Systems,Proposal,6210443,4.3,2025-01-06,59,Rajiv Menon,James O'Connor,Cross-sell,Microsoft Azure,78,69,No
+IBM-DEAL-00894,Rakuten Group,Retail & Consumer,Japan,IBM Z Systems,Closed Won,2206836,4.3,2026-02-02,100,Hiroshi Sato,James O'Connor,Renewal,AWS,,71,Yes
+IBM-DEAL-00895,Rakuten Group,Retail & Consumer,Japan,IBM Storage,Closed Won,1003848,7.8,2025-10-27,100,Anna Kowalski,Mohammed Al-Rashid,New Business,Oracle,78,317,No
+IBM-DEAL-00896,Adventure Works,Transportation,Asia Pacific,IBM Cloud Pak,Closed Won,2093357,20.8,2025-01-15,100,Priya Sharma,Mohammed Al-Rashid,Renewal,Salesforce,83,131,Yes
+IBM-DEAL-00897,Shell plc,Energy & Utilities,EMEA,IBM watsonx,Proposal,1836893,18.5,2025-07-21,51,Marcus Thompson,Sarah Johnson,New Business,Snowflake,64,25,No
+IBM-DEAL-00898,US Department of Veterans Affairs,Public Sector,Americas,IBM Cloud Pak,Discovery,122044,9.5,2025-04-11,40,Lars Andersson,David Chen,Expansion,Oracle,78,161,No
+IBM-DEAL-00899,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM Cloud Pak,Closed Won,1482195,5.6,2026-02-07,100,Fatima El-Amrani,James O'Connor,Renewal,SAP,88,75,Yes
+IBM-DEAL-00900,Contoso Manufacturing,Transportation,Americas,IBM Security QRadar,Qualification,794541,6.8,2026-02-25,17,Fatima El-Amrani,Elena Popov,Cross-sell,Snowflake,80,48,No
+IBM-DEAL-00901,Shell plc,Energy & Utilities,EMEA,Red Hat OpenShift,Proposal,789769,11.7,2025-04-26,41,Yuki Tanaka,Sarah Johnson,New Business,Oracle,50,138,No
+IBM-DEAL-00902,Pacific Northwest Utilities,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Closed Won,1207197,14.9,2025-09-13,100,Emma O'Brien,Aisha Bello,New Business,Snowflake,85,237,No
+IBM-DEAL-00903,Horizon Telecom,Public Sector,Japan,IBM Cloud Pak,Closed Won,319910,19.9,2025-03-06,100,Anna Kowalski,Aisha Bello,Renewal,SAP,77,95,Yes
+IBM-DEAL-00904,Wingtip Toys,Telecommunications,EMEA,IBM Security QRadar,Discovery,7391232,6.6,2025-08-17,31,Lars Andersson,Sarah Johnson,Renewal,Oracle,46,62,Yes
+IBM-DEAL-00905,NHS England,Public Sector,EMEA,Red Hat OpenShift,Negotiation,402096,18.0,2025-06-04,72,Isabela Costa,Takeshi Yamamoto,Renewal,Salesforce,84,167,Yes
+IBM-DEAL-00906,Northwind Retail,Banking & Financial Services,Americas,IBM Consulting,Proposal,1397202,1.7,2026-01-09,45,Fatima El-Amrani,Mohammed Al-Rashid,Renewal,AWS,70,233,Yes
+IBM-DEAL-00907,Alpine Ski House,Energy & Utilities,Japan,IBM Cloud Pak,Negotiation,117419,4.3,2025-03-25,80,Fatima El-Amrani,Mohammed Al-Rashid,Expansion,Microsoft Azure,90,336,No
+IBM-DEAL-00908,Pacific Northwest Utilities,Telecommunications,Japan,IBM watsonx,Qualification,3067653,20.4,2025-11-19,11,Sofia Martinez,David Chen,Renewal,Google Cloud,79,187,Yes
+IBM-DEAL-00909,Contoso Manufacturing,Banking & Financial Services,Americas,Red Hat OpenShift,Negotiation,153489,7.0,2025-12-06,69,Yuki Tanaka,Sarah Johnson,Renewal,AWS,89,104,Yes
+IBM-DEAL-00910,Wingtip Toys,Transportation,EMEA,Red Hat OpenShift,Discovery,750327,7.7,2025-03-20,39,Priya Sharma,Rachel Green,New Business,Google Cloud,68,205,No
+IBM-DEAL-00911,VanArsdel Ltd.,Manufacturing,EMEA,IBM watsonx,Negotiation,12437196,15.4,2025-04-08,79,Yuki Tanaka,Aisha Bello,New Business,Google Cloud,68,313,No
+IBM-DEAL-00912,Contoso Manufacturing,Transportation,Japan,IBM watsonx,Closed Lost,2230179,4.1,2025-11-07,0,Rajiv Menon,Sarah Johnson,New Business,,41,66,No
+IBM-DEAL-00913,Graphic Design Institute,Retail & Consumer,Americas,Red Hat OpenShift,Closed Won,580629,5.7,2025-07-26,100,Marcus Thompson,Elena Popov,Renewal,SAP,90,107,Yes
+IBM-DEAL-00914,Fourth Coffee,Retail & Consumer,Americas,IBM Consulting,Discovery,1840020,14.7,2026-01-15,24,Nia Okafor,David Chen,Expansion,Google Cloud,71,83,No
+IBM-DEAL-00915,Consolidated Messenger,Telecommunications,Americas,Red Hat OpenShift,Closed Won,538051,1.5,2025-11-28,100,Klaus Weber,James O'Connor,New Business,Microsoft Azure,78,277,No
+IBM-DEAL-00916,Parnell Aerospace,Healthcare & Life Sciences,Asia Pacific,IBM watsonx,Qualification,457924,1.3,2026-02-06,22,Lars Andersson,Takeshi Yamamoto,Expansion,Oracle,53,209,No
+IBM-DEAL-00917,Walmart Inc.,Retail & Consumer,Americas,IBM Cloud Pak,Discovery,342246,8.1,2025-08-08,40,Fatima El-Amrani,Aisha Bello,New Business,AWS,81,142,No
+IBM-DEAL-00918,Rakuten Group,Retail & Consumer,Japan,IBM Cloud Pak,Negotiation,18838352,10.9,2026-02-17,79,Priya Sharma,Takeshi Yamamoto,Cross-sell,Snowflake,46,35,No
+IBM-DEAL-00919,Quantum Chemicals,Healthcare & Life Sciences,EMEA,IBM Security QRadar,Discovery,634338,5.4,2026-01-02,26,Isabela Costa,Takeshi Yamamoto,New Business,Snowflake,62,322,No
+IBM-DEAL-00920,BT Group,Telecommunications,EMEA,IBM Consulting,Qualification,1129589,8.6,2026-01-27,15,Klaus Weber,Takeshi Yamamoto,Renewal,SAP,36,240,Yes
+IBM-DEAL-00921,Parnell Aerospace,Manufacturing,Americas,IBM Consulting,Proposal,1396485,11.3,2026-01-07,49,Rajiv Menon,Mohammed Al-Rashid,Renewal,SAP,85,301,Yes
+IBM-DEAL-00922,Quantum Chemicals,Energy & Utilities,Asia Pacific,Red Hat OpenShift,Proposal,878908,1.1,2025-03-13,49,Hiroshi Sato,Rachel Green,Renewal,None (Green Field),61,292,Yes
+IBM-DEAL-00923,Wingtip Toys,Energy & Utilities,EMEA,IBM Cloud Pak,Negotiation,1137649,18.9,2025-01-17,66,Klaus Weber,Elena Popov,New Business,Oracle,36,213,No
+IBM-DEAL-00924,Alpine Ski House,Transportation,Japan,IBM watsonx,Proposal,414988,8.4,2025-06-14,51,Priya Sharma,Aisha Bello,Expansion,SAP,48,30,No
+IBM-DEAL-00925,Consolidated Messenger,Energy & Utilities,Asia Pacific,IBM watsonx,Discovery,2284997,13.7,2025-10-14,29,Diego Ramirez,Takeshi Yamamoto,New Business,SAP,88,296,No
+IBM-DEAL-00926,Nod Publishers,Manufacturing,Asia Pacific,IBM Security QRadar,Closed Won,303523,12.5,2025-11-05,100,Emma O'Brien,James O'Connor,Expansion,Oracle,93,130,No
+IBM-DEAL-00927,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Negotiation,695972,1.1,2025-06-18,82,Jean-Luc Dubois,James O'Connor,Renewal,Google Cloud,67,220,Yes
+IBM-DEAL-00928,Cascade Retail,Retail & Consumer,Americas,IBM Consulting,Proposal,4062557,7.2,2026-03-13,41,Hiroshi Sato,Aisha Bello,New Business,Oracle,68,183,No
+IBM-DEAL-00929,Contoso Manufacturing,Manufacturing,Americas,IBM watsonx,Proposal,1685133,20.4,2025-03-17,49,Marcus Thompson,Aisha Bello,New Business,Oracle,81,317,No
+IBM-DEAL-00930,Trey Research,Energy & Utilities,Asia Pacific,IBM Consulting,Discovery,2985573,18.5,2025-01-02,38,Sofia Martinez,James O'Connor,Renewal,AWS,70,225,Yes
+IBM-DEAL-00931,Pacific Northwest Utilities,Energy & Utilities,EMEA,IBM watsonx,Proposal,286569,19.5,2025-06-01,51,Marcus Thompson,David Chen,New Business,Snowflake,46,102,No
+IBM-DEAL-00932,BT Group,Telecommunications,EMEA,IBM watsonx,Discovery,3080595,12.7,2025-09-16,34,Fatima El-Amrani,Mohammed Al-Rashid,New Business,Microsoft Azure,82,207,No
+IBM-DEAL-00933,Fourth Coffee,Healthcare & Life Sciences,Japan,IBM Z Systems,Proposal,564907,6.6,2026-03-07,46,Lars Andersson,David Chen,New Business,Google Cloud,55,34,No
+IBM-DEAL-00934,BT Group,Telecommunications,EMEA,IBM Cloud Pak,Discovery,814312,11.4,2025-03-20,25,Nia Okafor,Sarah Johnson,Renewal,Microsoft Azure,74,124,Yes
+IBM-DEAL-00935,Toyota Motor Corp,Manufacturing,Japan,IBM Z Systems,Negotiation,6579479,17.2,2025-07-06,68,Klaus Weber,Aisha Bello,Renewal,None (Green Field),87,10,Yes
+IBM-DEAL-00936,Toyota Motor Corp,Manufacturing,Japan,IBM Consulting,Qualification,1981345,16.2,2025-10-12,15,Emma O'Brien,Mohammed Al-Rashid,New Business,None (Green Field),84,137,No
+IBM-DEAL-00937,Northwind Retail,Healthcare & Life Sciences,Japan,IBM Security QRadar,Negotiation,341891,1.1,2025-07-11,69,Isabela Costa,Sarah Johnson,Cross-sell,Snowflake,38,229,No
+IBM-DEAL-00938,Lucerne Publishing,Energy & Utilities,Americas,IBM Consulting,Closed Won,948047,7.9,2025-10-05,100,Marcus Thompson,Aisha Bello,Expansion,None (Green Field),82,279,No
+IBM-DEAL-00939,Contoso Manufacturing,Telecommunications,Japan,IBM Cloud Pak,Negotiation,769379,10.7,2025-11-18,81,Sofia Martinez,Sarah Johnson,Renewal,AWS,47,236,Yes
+IBM-DEAL-00940,Humongous Insurance,Telecommunications,Japan,IBM Storage,Qualification,1098745,19.0,2025-09-06,12,Emma O'Brien,Aisha Bello,Renewal,Oracle,53,23,Yes
+IBM-DEAL-00941,Quantum Chemicals,Healthcare & Life Sciences,EMEA,IBM watsonx,Closed Won,1132625,4.8,2025-08-21,100,Marcus Thompson,Sarah Johnson,Cross-sell,Microsoft Azure,80,88,No
+IBM-DEAL-00942,Kensington Hospital Group,Manufacturing,EMEA,IBM Security QRadar,Proposal,247186,21.5,2025-05-31,46,Klaus Weber,Aisha Bello,New Business,,54,231,No
+IBM-DEAL-00943,Walmart Inc.,Retail & Consumer,Americas,IBM Consulting,Proposal,665350,19.2,2025-04-08,51,Priya Sharma,Takeshi Yamamoto,Renewal,None (Green Field),85,234,Yes
+IBM-DEAL-00944,Southridge Video,Energy & Utilities,EMEA,IBM Cloud Pak,Proposal,696055,7.9,2025-03-20,50,Sofia Martinez,Mohammed Al-Rashid,Renewal,AWS,36,219,Yes
+IBM-DEAL-00945,Blue Yonder Airlines,Retail & Consumer,Asia Pacific,IBM watsonx,Closed Won,1000894,0.9,2025-10-30,100,Marcus Thompson,Takeshi Yamamoto,New Business,Snowflake,85,166,No
+IBM-DEAL-00946,Alpine Ski House,Banking & Financial Services,Japan,IBM Cloud Pak,Discovery,173530,14.2,2025-10-10,36,Rajiv Menon,David Chen,New Business,Oracle,56,54,No
+IBM-DEAL-00947,Blue Yonder Airlines,Healthcare & Life Sciences,Americas,IBM watsonx,Closed Won,404897,8.2,2025-06-01,100,Hiroshi Sato,,New Business,SAP,91,62,No
+IBM-DEAL-00948,Proseware Systems,Telecommunications,Asia Pacific,IBM Consulting,Discovery,1165426,18.4,2025-12-11,29,Klaus Weber,Rachel Green,New Business,Snowflake,35,26,No
+IBM-DEAL-00949,Kensington Hospital Group,Energy & Utilities,Asia Pacific,Red Hat OpenShift,Discovery,1249748,2.8,2025-06-01,23,Hiroshi Sato,Mohammed Al-Rashid,Renewal,AWS,77,97,Yes
+IBM-DEAL-00950,Contoso Manufacturing,Public Sector,EMEA,IBM Consulting,Closed Won,2573554,20.6,2026-03-27,100,Marcus Thompson,Takeshi Yamamoto,Renewal,AWS,93,62,Yes
+IBM-DEAL-00951,Litware Inc.,Retail & Consumer,EMEA,IBM watsonx,Qualification,14446592,16.2,2026-01-17,23,Fatima El-Amrani,Elena Popov,Renewal,Microsoft Azure,45,6,Yes
+IBM-DEAL-00952,Contoso Manufacturing,Telecommunications,EMEA,IBM Cloud Pak,Closed Won,963042,3.6,2025-08-02,100,Rajiv Menon,David Chen,Expansion,Google Cloud,100,320,No
+IBM-DEAL-00953,Sterling Manufacturing,Manufacturing,EMEA,IBM watsonx,Closed Won,3161193,21.1,2025-04-20,100,Nia Okafor,Mohammed Al-Rashid,Renewal,AWS,90,213,Yes
+IBM-DEAL-00954,Litware Inc.,Banking & Financial Services,Americas,IBM watsonx,Closed Won,1098375,3.4,2025-12-11,100,Sofia Martinez,Rachel Green,Renewal,Oracle,92,265,Yes
+IBM-DEAL-00955,Pacific Northwest Utilities,Transportation,Japan,IBM Cloud Pak,Proposal,1770381,3.7,2025-11-22,60,Yuki Tanaka,Sarah Johnson,Renewal,AWS,69,272,Yes
+IBM-DEAL-00956,Beacon Financial,Healthcare & Life Sciences,Asia Pacific,Red Hat OpenShift,Closed Won,1226659,7.7,2025-09-12,100,Nia Okafor,Takeshi Yamamoto,Renewal,Google Cloud,80,13,Yes
+IBM-DEAL-00957,Tailspin Traders,Telecommunications,Japan,IBM watsonx,Negotiation,1445883,13.3,2025-12-10,70,Marcus Thompson,David Chen,Renewal,Microsoft Azure,62,326,Yes
+IBM-DEAL-00958,Sterling Manufacturing,Public Sector,Americas,IBM Security QRadar,Proposal,531763,17.2,2025-08-23,40,Diego Ramirez,Takeshi Yamamoto,Renewal,Salesforce,54,259,Yes
+IBM-DEAL-00959,Parnell Aerospace,Healthcare & Life Sciences,Japan,IBM Z Systems,Proposal,3130334,4.5,2026-01-11,60,Anna Kowalski,James O'Connor,New Business,AWS,,279,No
+IBM-DEAL-00960,Pacific Northwest Utilities,Banking & Financial Services,Asia Pacific,Red Hat OpenShift,Closed Won,368988,8.8,2025-08-23,100,Rajiv Menon,David Chen,New Business,Snowflake,76,208,No
+IBM-DEAL-00961,Singapore Airlines,Transportation,Asia Pacific,IBM watsonx,Proposal,2488899,12.2,2026-03-24,57,Yuki Tanaka,Rachel Green,New Business,SAP,77,26,No
+IBM-DEAL-00962,Atlas Logistics,Manufacturing,Americas,IBM watsonx,Closed Won,283152,0.0,2025-01-24,100,Lars Andersson,Elena Popov,Cross-sell,,96,181,No
+IBM-DEAL-00963,Singapore Airlines,Transportation,Asia Pacific,IBM Cloud Pak,Closed Won,1843171,1.1,2026-01-25,100,Rajiv Menon,David Chen,Renewal,AWS,90,14,Yes
+IBM-DEAL-00964,Proseware Systems,Banking & Financial Services,EMEA,IBM Cloud Pak,Closed Won,611662,13.2,2025-01-23,100,Nia Okafor,Aisha Bello,New Business,Salesforce,87,252,No
+IBM-DEAL-00965,Tailspin Traders,Healthcare & Life Sciences,Asia Pacific,Red Hat OpenShift,Proposal,294871,9.4,2025-04-02,55,Jean-Luc Dubois,James O'Connor,Renewal,AWS,46,97,Yes
+IBM-DEAL-00966,Kensington Hospital Group,Public Sector,Asia Pacific,IBM Consulting,Negotiation,3711437,7.2,2025-02-19,84,Sofia Martinez,Mohammed Al-Rashid,New Business,Oracle,89,123,No
+IBM-DEAL-00967,US Department of Veterans Affairs,Public Sector,Americas,IBM watsonx,Proposal,975485,20.5,2025-02-04,61,Isabela Costa,Rachel Green,Renewal,Oracle,80,246,Yes
+IBM-DEAL-00968,Humongous Insurance,Telecommunications,Asia Pacific,IBM Security QRadar,Discovery,647846,14.7,2025-03-29,25,Nia Okafor,Sarah Johnson,New Business,Google Cloud,78,182,No
+IBM-DEAL-00969,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Proposal,282818,8.0,2025-11-03,60,Lars Andersson,Elena Popov,Cross-sell,Oracle,40,137,No
+IBM-DEAL-00970,Nod Publishers,Healthcare & Life Sciences,Japan,IBM watsonx,Negotiation,1830694,6.4,2025-11-05,83,Anna Kowalski,Elena Popov,Renewal,SAP,48,23,Yes
+IBM-DEAL-00971,Adventure Works,Manufacturing,EMEA,IBM Storage,Negotiation,1058233,11.3,2025-09-17,70,Klaus Weber,Elena Popov,Renewal,,69,94,Yes
+IBM-DEAL-00972,Adventure Works,Telecommunications,EMEA,IBM watsonx,Proposal,1102208,16.0,2025-09-05,61,Chen Wei,Aisha Bello,Renewal,Microsoft Azure,86,267,Yes
+IBM-DEAL-00973,Quantum Chemicals,Healthcare & Life Sciences,Japan,IBM Z Systems,Discovery,5862432,21.7,2025-04-25,32,Nia Okafor,Takeshi Yamamoto,Renewal,Google Cloud,48,207,Yes
+IBM-DEAL-00974,Northwind Retail,Banking & Financial Services,Americas,IBM watsonx,Discovery,2143669,19.9,2026-03-03,27,Hiroshi Sato,James O'Connor,Renewal,Google Cloud,78,179,Yes
+IBM-DEAL-00975,Singapore Airlines,Transportation,Asia Pacific,IBM Security QRadar,Closed Won,646150,8.2,2025-03-29,100,Lars Andersson,Mohammed Al-Rashid,New Business,None (Green Field),92,194,No
+IBM-DEAL-00976,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Proposal,2767173,14.6,2025-11-20,57,Isabela Costa,Sarah Johnson,Renewal,Google Cloud,88,42,Yes
+IBM-DEAL-00977,Lucerne Publishing,Telecommunications,Americas,IBM Storage,Discovery,1225487,11.5,2025-07-20,35,Anna Kowalski,Elena Popov,Expansion,AWS,68,58,No
+IBM-DEAL-00978,Wingtip Toys,Manufacturing,Japan,IBM Storage,Closed Won,1248877,0.2,2026-02-25,100,Rajiv Menon,Aisha Bello,New Business,Google Cloud,75,321,No
+IBM-DEAL-00979,Consolidated Messenger,Manufacturing,Asia Pacific,IBM watsonx,Discovery,1641232,16.6,2025-08-26,36,Anna Kowalski,Sarah Johnson,Expansion,SAP,82,11,No
+IBM-DEAL-00980,Singapore Airlines,Transportation,Asia Pacific,IBM watsonx,Proposal,3102956,7.7,2025-05-05,44,Fatima El-Amrani,Sarah Johnson,Renewal,Microsoft Azure,81,223,Yes
+IBM-DEAL-00981,Tailspin Traders,Public Sector,EMEA,IBM Security QRadar,Qualification,766025,17.5,2025-09-29,20,Isabela Costa,Sarah Johnson,New Business,Snowflake,66,110,No
+IBM-DEAL-00982,Humongous Insurance,Manufacturing,Asia Pacific,IBM watsonx,Negotiation,1505176,21.5,2026-01-20,85,Isabela Costa,Elena Popov,Renewal,AWS,88,225,Yes
+IBM-DEAL-00983,Quantum Chemicals,Retail & Consumer,Asia Pacific,IBM Cloud Pak,Qualification,608532,14.9,2025-01-22,19,Anna Kowalski,Mohammed Al-Rashid,Expansion,Oracle,77,73,No
+IBM-DEAL-00984,Meridian Bank,Telecommunications,EMEA,IBM Cloud Pak,Proposal,988593,15.5,2025-07-31,48,Fatima El-Amrani,Elena Popov,Renewal,AWS,39,22,Yes
+IBM-DEAL-00985,Toyota Motor Corp,Manufacturing,Japan,IBM watsonx,Qualification,2944404,0.0,2025-09-09,16,Hiroshi Sato,Mohammed Al-Rashid,Renewal,Salesforce,48,9,Yes
+IBM-DEAL-00986,Margie's Travel,Transportation,Americas,IBM Consulting,Negotiation,231372,12.7,2025-01-23,71,Anna Kowalski,Mohammed Al-Rashid,Renewal,Snowflake,61,258,Yes
+IBM-DEAL-00987,Beacon Financial,Public Sector,Asia Pacific,IBM Security QRadar,Closed Won,996668,7.2,2026-01-19,100,Jean-Luc Dubois,David Chen,Renewal,None (Green Field),89,74,Yes
+IBM-DEAL-00988,Proseware Systems,Healthcare & Life Sciences,Japan,IBM Storage,Closed Won,243223,4.6,2025-09-15,100,Klaus Weber,Rachel Green,Expansion,AWS,99,272,No
+IBM-DEAL-00989,Consolidated Messenger,Energy & Utilities,Asia Pacific,IBM Security QRadar,Closed Won,297035,13.3,2025-11-15,100,Hiroshi Sato,David Chen,Renewal,Oracle,78,183,Yes
+IBM-DEAL-00990,Mayo Clinic,Healthcare & Life Sciences,Americas,Red Hat OpenShift,Qualification,512889,19.7,2025-11-09,15,Emma O'Brien,James O'Connor,Cross-sell,SAP,37,339,No
+IBM-DEAL-00991,Margie's Travel,Healthcare & Life Sciences,EMEA,IBM watsonx,Closed Won,346731,15.7,2025-06-08,100,Isabela Costa,David Chen,Renewal,Google Cloud,78,329,Yes
+IBM-DEAL-00992,Lucerne Publishing,Energy & Utilities,EMEA,IBM watsonx,Closed Lost,624559,0.3,2026-03-03,0,Rajiv Menon,David Chen,Renewal,Snowflake,23,93,Yes
+IBM-DEAL-00993,Consolidated Messenger,Banking & Financial Services,Japan,IBM watsonx,Proposal,691155,20.5,2026-02-03,60,Hiroshi Sato,Mohammed Al-Rashid,Renewal,SAP,37,21,Yes
+IBM-DEAL-00994,Northwind Retail,Banking & Financial Services,Asia Pacific,IBM Z Systems,Qualification,4062940,7.3,2026-02-13,13,Isabela Costa,Sarah Johnson,Renewal,Microsoft Azure,71,11,Yes
+IBM-DEAL-00995,JPMorgan Chase,Banking & Financial Services,Americas,IBM watsonx,Proposal,2202976,1.7,2025-07-19,41,Emma O'Brien,Aisha Bello,Renewal,Google Cloud,66,77,Yes
+IBM-DEAL-00996,Proseware Systems,Transportation,Americas,IBM Consulting,Closed Lost,4424046,10.0,2025-06-06,0,Yuki Tanaka,James O'Connor,Renewal,Microsoft Azure,25,213,Yes
+IBM-DEAL-00997,Mayo Clinic,Healthcare & Life Sciences,Americas,IBM watsonx,Qualification,1107016,5.9,2025-02-12,15,Klaus Weber,Mohammed Al-Rashid,Renewal,Salesforce,44,13,Yes
+IBM-DEAL-00998,VanArsdel Ltd.,Telecommunications,Americas,IBM watsonx,Proposal,2037946,13.3,2025-06-03,60,Emma O'Brien,Aisha Bello,New Business,Microsoft Azure,81,290,No
+IBM-DEAL-00999,HSBC Holdings,Banking & Financial Services,EMEA,IBM watsonx,Negotiation,2337442,12.8,2026-03-07,75,Diego Ramirez,Takeshi Yamamoto,New Business,Snowflake,40,92,No
+IBM-DEAL-01000,Atlas Logistics,Retail & Consumer,EMEA,IBM Z Systems,Closed Won,2866923,10.0,2025-01-13,100,Chen Wei,David Chen,Cross-sell,Snowflake,91,123,No
